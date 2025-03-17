@@ -1,0 +1,13 @@
+{
+  "key": "银行法",
+  "page": 1,
+  "pageSize": 10,
+  "filters": {
+    "type": "all",
+    "date": "all"
+  },
+  "sort": {
+    "field": "relevance",
+    "order": "desc"
+  }
+}
