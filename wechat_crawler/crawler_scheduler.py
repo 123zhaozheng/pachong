@@ -1,3 +1,4 @@
+import os
 import random
 import redis  # 导入redis库，用于连接Redis数据库
 import time  # 导入time库，用于实现延时功能
@@ -8,6 +9,11 @@ from .config import (  # 从配置文件导入所需的配置参数
     REDIS_HOST, REDIS_PORT, REDIS_DB, REDIS_PASSWORD,  # Redis连接参数
     MAX_REQUESTS_PER_COOKIE  # 每个cookie可以发送的最大请求数
 )
+HIERARCHIES = {
+    1: "法律法规",
+    2: "规章制度",
+    3: "行业动态"
+}
 
 class CrawlerScheduler:  # 定义爬虫调度器类
     def __init__(self):  # 初始化方法
@@ -105,14 +111,61 @@ class CrawlerScheduler:  # 定义爬虫调度器类
         if self.wechat_login:
             self.wechat_login.stop()
         
-    def start_crawler(self, hierarchy_id=1, year=2022):  # 修改方法参数
+    def start_crawler(self, hierarchy_id=1, year=2022,if_chufa = 0):  # 修改方法参数
         """启动爬虫，爬取banklaw.com的法规
         
         Args:
+            if_chufa: 是否直接导出处罚案例
             hierarchy_id: 法规层级ID（1:法律法规, 2:规章制度, 3:行业动态）
             max_pages: 最大爬取页数
             keyword: 搜索关键词（保留但不使用）
         """
+        #优先判断是否直接导出处罚案例
+        if if_chufa == 1:
+            #直接处理案例
+            print("*"*50+"直接处理处罚案例"+"*"*50)
+                
+            while True:  # 无限循环，持续爬取
+                # 获取access_token，暂时注释
+                # access_token = self.get_access_token()
+                access_token = "yON3YgFuomVjA6VX9pAiH+QTlTmlRK8SOvkmv+JchVG2CRspG2neoC8U/5cGnxPd"
+
+                if access_token:  # 如果有access_token
+                    try:
+                        print(f"使用access_token: {access_token[:10]}... 爬取banklaw.com")
+                        
+                        # 创建爬虫实例，只传入access_token
+                        crawler = Crawler(access_token=access_token)
+                        
+                        # 使用指定的层级ID爬取内容
+                        total, failed = crawler.crawl_by_api_responses(hierarchy_id, year,if_chufa)
+                        
+                        print(f"爬取完成，共下载 {total} 条{hierarchy_name}，失败 {failed} 条")
+                        #这里需要根据一定条件跳出循环，这里可以根据failed的数量来判断
+                        if failed == 0:
+                            break
+                        # 如果失败率过高，可能是token失效
+                        if total == 0 or (total > 0 and failed / total > 0.5):
+                            print("失败率过高，可能access_token已失效")
+                            self.refresh_access_token()  # 刷新token
+                        
+                        # 成功爬取后，休息一段时间再继续
+                        sleep_time = random.uniform(30, 60)
+                        print(f"休息 {sleep_time:.2f} 秒后继续...")
+                        time.sleep(sleep_time)
+                        
+                    except Exception as e:
+                        print(f"爬取失败: {e}")
+                        print("可能是access_token已失效，尝试刷新...")
+                        self.refresh_access_token()  # 刷新token
+                        time.sleep(5)  # 等待5秒后继续
+                else:
+                    print("没有可用的access_token，尝试获取...")
+                    self.refresh_access_token()  # 获取新token
+                    time.sleep(5)  # 等待5秒后继续
+
+
+            return
         # 获取层级名称
         hierarchy_name = {1: "法律法规", 2: "规章制度", 3: "行业动态"}.get(hierarchy_id, "法律法规")
         print(f"开始爬取 {hierarchy_name}，年份: {year}")
@@ -130,10 +183,12 @@ class CrawlerScheduler:  # 定义爬虫调度器类
                     crawler = Crawler(access_token=access_token)
                     
                     # 使用指定的层级ID爬取内容
-                    total, failed = crawler.crawl_by_api_responses(hierarchy_id, year)
+                    total, failed = crawler.crawl_by_api_responses(hierarchy_id, year,if_chufa)
                     
                     print(f"爬取完成，共下载 {total} 条{hierarchy_name}，失败 {failed} 条")
-                    
+                    #这里需要根据一定条件跳出循环，这里可以根据failed的数量来判断
+                    if failed == 0:
+                        break
                     # 如果失败率过高，可能是token失效
                     if total == 0 or (total > 0 and failed / total > 0.5):
                         print("失败率过高，可能access_token已失效")
@@ -153,3 +208,11 @@ class CrawlerScheduler:  # 定义爬虫调度器类
                 print("没有可用的access_token，尝试获取...")
                 self.refresh_access_token()  # 获取新token
                 time.sleep(5)  # 等待5秒后继续
+
+    def check_year_data(self, hierarchy_id, year):
+        """检查指定层级和年份的数据是否已爬取"""
+        file_lujing = f"downloaded_regulations/hierarchy_{hierarchy_id}_{HIERARCHIES[hierarchy_id]}/{year}"
+        if not os.path.exists(file_lujing):
+            #判断这个路径中是否有文件
+            return False
+        return True

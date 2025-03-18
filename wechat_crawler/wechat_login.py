@@ -244,17 +244,3 @@ class WechatLogin:
                 self.driver.quit()
             except:
                 pass
-
-    def wait_for_login(self):
-        """等待用户扫码登录"""
-        try:
-            while self.is_running:
-                if not self.check_login_status():
-                    time.sleep(1)
-                else:
-                    return True
-        except KeyboardInterrupt:
-            print("\n检测到中断信号，正在关闭浏览器...")
-            self.stop()
-            return False
-        return False

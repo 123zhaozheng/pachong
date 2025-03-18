@@ -25,7 +25,8 @@ HIERARCHIES = {
 def parse_args():
     """解析命令行参数"""
     args = {
-        'thread_id': 1  # 默认为线程1（法律法规）
+        'thread_id': 1 , # 默认为线程1（法律法规）
+        'if_chufa': 0
     }
     
     # 遍历所有命令行参数
@@ -66,6 +67,7 @@ def main():
     # 解析命令行参数
     args = parse_args()
     thread_id = args['thread_id']
+    if_chufa = args['if_chufa']
     
     # 创建爬虫调度器实例
     scheduler = CrawlerScheduler()
@@ -78,14 +80,23 @@ def main():
     # 获取线程对应的层级ID和名称
     hierarchy_id = thread_id
     hierarchy_name = HIERARCHIES[hierarchy_id]
-    
+    #判断是否直接导出案例
+    if if_chufa == 1:
+        #直接处理案例
+        scheduler.start_crawler(if_chufa = 1)
     print(f"启动爬虫线程 {thread_id}，处理内容：{hierarchy_name}")
     for year in range(2022,2026):
-
+        #进行简单的判断，看是否这个年份的数据已经爬取过了
+        if scheduler.check_year_data(hierarchy_id,year):
+            print(f"{year}年的数据已经爬取过了，跳过")
+            continue
+        #应该在这获取年份了
+        print(f"开始爬取 {hierarchy_name}，年份: {year}")
+        time.sleep(5)
         # 启动爬虫
         try:
             # 根据线程ID传递对应的层级ID
-            scheduler.start_crawler(hierarchy_id=hierarchy_id,year = year)
+            scheduler.start_crawler(hierarchy_id=hierarchy_id,year = year,if_chufa = args['if_chufa'])
         except KeyboardInterrupt:
             # 捕获键盘中断（Ctrl+C），实现优雅退出
             print("接收到终止信号，程序退出")

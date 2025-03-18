@@ -10,6 +10,8 @@ from .config import (
     DOWNLOAD_DELAY_MIN, DOWNLOAD_DELAY_MAX,
     PAGE_DELAY_MIN, PAGE_DELAY_MAX
 )
+import json
+import re
 
 # API相关常量
 BANKLAW_API_URL = "https://api2.banklaw.com"
@@ -205,11 +207,13 @@ class Crawler:
                 raise Exception(f"下载法规失败: {response.status_code}")
             
             data = response.json()
-            print(data)
+            # print(data)
             print("+++++++++++++++++++++++++++++")
 
-            #简单写法，通过传过来的hierarchy_id来判断是哪种类型的法规，然后调用对应的处理函数
-            content = HIERARCHY_PROCESSORS[hierarchy_id](data)
+            #直接调用json处理变成美化文章
+            content = self.extract_article_from_json(data)
+            # print(content)
+            
             #下面是要写对应的处理函数是啥把，这里先简单写了一个，后面再改
             
             #直接保存试试
@@ -243,8 +247,8 @@ class Crawler:
             
             # 保存文件
             with open(safe_title, 'w', encoding='utf-8') as f:
-                formatted_data = json.dumps(data, ensure_ascii=False, indent=2)
-                f.write(formatted_data)
+                # formatted_data = json.dumps(data, ensure_ascii=False, indent=2)
+                f.write(content)
             
             print(f"成功下载法规: {title}")
             print(f"保存到: {safe_title}")
@@ -256,7 +260,36 @@ class Crawler:
             print(f"下载法规失败: {e}")
             return False
 
-    def _extract_regulation_content(self, data):
+
+    # def extract_article_from_json(json_data):
+        # # 解析JSON
+        # data = json.loads(json_data) if isinstance(json_data, str) else json_data
+        
+        # # 获取标题
+        # title = data['data']['title']
+        
+        # # 初始化文章内容
+        # article = f"# {title}\n\n"
+        
+        # # 提取段落内容
+        # paragraphs = data['data']['paragraphs']
+        
+        # # 按照groupId排序段落
+        # paragraphs.sort(key=lambda x: x['groupId'])
+        
+        # # 遍历段落并添加到文章中
+        # for paragraph in paragraphs:
+        #     # 清理HTML标签
+        #     content = re.sub(r'<[^>]+>', '', paragraph['content'])
+        #     # 跳过空段落
+        #     if not content.strip():
+        #         continue
+        #     article += content + "\n\n"
+        
+        # return article
+
+
+    # def _extract_regulation_content(self, data):
         """从响应数据中提取法规内容"""
         content = []
         try:
@@ -283,18 +316,62 @@ class Crawler:
         except Exception as e:
             print(f"提取法规内容失败: {e}")
             return ""
-
-    def crawl_by_api_responses(self, hierarchy_id, year=2022):
+    def extract_article_from_json(self, json_data):
+        """
+        从JSON数据中提取文章内容，并进行格式化处理
+        
+        参数:
+            json_data: JSON字符串或已解析的JSON对象
+            
+        返回:
+            格式化后的文章内容字符串
+        """
+        # 解析JSON
+        data = json.loads(json_data) if isinstance(json_data, str) else json_data
+        
+        # 获取标题和发布时间
+        title = data['data']['title']
+        publish_date = data['data']['publishDate']
+        
+        # 初始化文章内容
+        article = f"# {title}\n\n发布时间: {publish_date}\n\n"
+        
+        # 提取段落内容
+        paragraphs = data['data']['paragraphs']
+        
+        # 按照groupId排序段落
+        paragraphs.sort(key=lambda x: x['groupId'])
+        
+        # 遍历段落并添加到文章中
+        for paragraph in paragraphs:
+            # 清理HTML标签
+            content = re.sub(r'<[^>]+>', '', paragraph['content'])
+            # 跳过空段落
+            if not content.strip():
+                continue
+            article += content + "\n\n"
+        
+        return article
+    def crawl_by_api_responses(self, hierarchy_id, year=2022,if_chufa = 0):
         """根据层级以及年份爬取对应类型的法规
         
         Args:
+            if_chufa: 是否直接导出处罚案例
             hierarchy_id: 法规层级ID（1:法律法规, 2:规章制度, 3:行业动态）
             year: 年份
             
         Returns:
             tuple: (成功爬取数量, 失败数量)
         """
+        # 先获取层级名称，确保在所有分支中都可以访问
         hierarchy_name = HIERARCHIES.get(hierarchy_id, "法律法规")
+        
+        #判断是否直接导出处罚案例
+        if if_chufa == 1:
+            #直接处理案例
+            print("*"*50+"直接处理处罚案例"+"*"*50)
+            #这里直接调用处理函数，不用再调用下载函数
+            return 0, 0
         #读取api_responses文件夹下的json文件
         dir_path = f'api_responses/hierarchy_{hierarchy_id}_{hierarchy_name}/{year}'
         if not os.path.exists(dir_path):
@@ -304,12 +381,14 @@ class Crawler:
         total_failed = 0
         for month in range(1, 13):
             file_path = f'{dir_path}/api_response_{month}.json'
+            print("*"*50)
+            print(f"正在处理{year}年{month}月份的数据")
             if not os.path.exists(file_path):
                 continue
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    print(data)
+                    # print(data)
                 if not data.get('data'):
                     raise Exception("无效的数据")
                 

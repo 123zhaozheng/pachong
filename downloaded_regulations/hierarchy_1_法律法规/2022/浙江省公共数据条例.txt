@@ -1,1733 +1,286 @@
-{
-  "code": 0,
-  "message": "success",
-  "data": {
-    "statuteId": "6c26dd2f7e7e11ec84a67cd30ad32e32",
-    "title": "浙江省公共数据条例",
-    "summary": "",
-    "referenceNo": "浙江省第十三届人民代表大会第六次会议公告（第3号）",
-    "applicableArea": 1,
-    "publishDate": "2022-01-21 00:00:00",
-    "effectiveDate": "2022-03-01 00:00:00",
-    "securityLevel": "General",
-    "status": "Effective",
-    "explainCount": 0,
-    "publishStatus": true,
-    "publishTime": "2022-01-26 16:03:18",
-    "hasStatuteRelation": false,
-    "price": 40.0,
-    "stage": 1,
-    "hasOrder": false,
-    "limit": false,
-    "updateTime": "2022-03-01 00:00:00",
-    "dbsIpUserNotAllowRead": false,
-    "hasFocusRelationCasus": false,
-    "paragraphs": [
-      {
-        "paragraphId": 8279279,
-        "groupId": 1000,
-        "status": "Effective",
-        "content": "<p>（2022年1月21日浙江省第十三届人民代表大会第六次会议通过）</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "2022年1月21日浙江省第十三届人民代表大会第六次会议通过",
-        "completeContent": "（2022年1月21日浙江省第十三届人民代表大会第六次会议通过）"
-      },
-      {
-        "paragraphId": 8279280,
-        "groupId": 2000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第一章</strong> 总则</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第一章总则",
-        "completeContent": "第一章 总则"
-      },
-      {
-        "paragraphId": 8279281,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第一条</strong> 为了加强公共数据管理，促进公共数据应用创新，保护自然人、法人和非法人组织合法权益，保障数字化改革，深化数字浙江建设，推进省域治理体系和治理能力现代化，根据有关法律、行政法规，结合本省实际，制定本条例。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第一条为了加强公共数据管理，促进公共数据应用创新，保护自然人法人非法人组织合法权益，保障数字化改革，深化数字浙江建设，推进省域治理体系治理能力现代化，根据有关法律行政法规，结合本省实际，制定本条例。",
-        "completeContent": "第一条 为了加强公共数据管理，促进公共数据应用创新，保护自然人、法人和非法人组织合法权益，保障数字化改革，深化数字浙江建设，推进省域治理体系和治理能力现代化，根据有关法律、行政法规，结合本省实际，制定本条例。"
-      },
-      {
-        "paragraphId": 8279282,
-        "groupId": 4000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二条</strong> 本省行政区域内公共数据收集、归集、存储、加工、传输、共享、开放、利用等数据处理活动，以及公共数据安全等管理活动，适用本条例。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二条本省行政区域内公共数据收集归集存储加工传输共享开放利用等数据处理活动，以公共数据安全等管理活动，适用本条例。",
-        "completeContent": "第二条 本省行政区域内公共数据收集、归集、存储、加工、传输、共享、开放、利用等数据处理活动，以及公共数据安全等管理活动，适用本条例。"
-      },
-      {
-        "paragraphId": 8279283,
-        "groupId": 4000,
-        "status": "Effective",
-        "content": "<p>涉及国家秘密的公共数据及相关处理活动，不纳入本条例管理，按照有关法律、法规的规定执行。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "涉国家秘密公共数据相关处理活动，不纳入本条例管理，按照有关法律法规规定执行。",
-        "completeContent": "涉及国家秘密的公共数据及相关处理活动，不纳入本条例管理，按照有关法律、法规的规定执行。"
-      },
-      {
-        "paragraphId": 8279284,
-        "groupId": 5000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三条</strong> 本条例所称公共数据，是指本省国家机关、法律法规规章授权的具有管理公共事务职能的组织以及供水、供电、供气、公共交通等公共服务运营单位（以下统称公共管理和服务机构），在依法履行职责或者提供公共服务过程中收集、产生的数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三条本条例所称公共数据，是指本省国家机关法律法规规章授权具有管理公共事务职能组织以供水供电供气公共交通等公共服务运营单位以下统称公共管理服务机构，在依法履行职责或者提供公共服务过程中收集产生数据。",
-        "completeContent": "第三条 本条例所称公共数据，是指本省国家机关、法律法规规章授权的具有管理公共事务职能的组织以及供水、供电、供气、公共交通等公共服务运营单位（以下统称公共管理和服务机构），在依法履行职责或者提供公共服务过程中收集、产生的数据。"
-      },
-      {
-        "paragraphId": 8279285,
-        "groupId": 5000,
-        "status": "Effective",
-        "content": "<p>根据本省应用需求，税务、海关、金融监督管理等国家有关部门派驻浙江管理机构提供的数据，属于本条例所称公共数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "根据本省应用需求，税务海关金融监督管理等国家有关部门派驻浙江管理机构提供数据，属于本条例所称公共数据。",
-        "completeContent": "根据本省应用需求，税务、海关、金融监督管理等国家有关部门派驻浙江管理机构提供的数据，属于本条例所称公共数据。"
-      },
-      {
-        "paragraphId": 8279286,
-        "groupId": 6000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四条</strong> 公共数据发展和管理工作坚持中国共产党的领导，遵循统筹规划、依法有序、分类分级、安全可控的原则。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四条公共数据发展管理工作坚持中国共产党领导，遵循统筹规划依法有序分类分级安全可控原则。",
-        "completeContent": "第四条 公共数据发展和管理工作坚持中国共产党的领导，遵循统筹规划、依法有序、分类分级、安全可控的原则。"
-      },
-      {
-        "paragraphId": 8279287,
-        "groupId": 7000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第五条</strong> 县级以上人民政府应当将公共数据发展和管理工作纳入国民经济和社会发展规划以及数字政府建设等相关专项规划，建立健全工作协调机制，完善政策措施，保障公共数据发展和管理工作所需经费。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第五条县级以上人民政府应当将公共数据发展管理工作纳入国民经济社会发展规划以数字政府建设等相关专项规划，建立健全工作协调机制，完善政策措施，保障公共数据发展管理工作所需经费。",
-        "completeContent": "第五条 县级以上人民政府应当将公共数据发展和管理工作纳入国民经济和社会发展规划以及数字政府建设等相关专项规划，建立健全工作协调机制，完善政策措施，保障公共数据发展和管理工作所需经费。"
-      },
-      {
-        "paragraphId": 8279288,
-        "groupId": 7000,
-        "status": "Effective",
-        "content": "<p>县级以上人民政府应当建立健全公共数据发展和管理工作考核评价机制，将公共数据发展和管理工作作为年度政府目标责任制考核的重要内容。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "县级以上人民政府应当建立健全公共数据发展管理工作考核评价机制，将公共数据发展管理工作作为年度政府目标责任制考核重要内容。",
-        "completeContent": "县级以上人民政府应当建立健全公共数据发展和管理工作考核评价机制，将公共数据发展和管理工作作为年度政府目标责任制考核的重要内容。"
-      },
-      {
-        "paragraphId": 8279289,
-        "groupId": 8000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第六条</strong> 县级以上人民政府大数据发展主管部门或者设区的市、县（市、区）人民政府确定的负责大数据发展工作的部门（以下简称公共数据主管部门），负责本行政区域内公共数据发展和管理工作，指导、协调、督促其他有关部门按照各自职责做好公共数据处理和安全管理相关工作。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第六条县级以上人民政府大数据发展主管部门或者设区市县市区人民政府确定负责大数据发展工作部门以下简称公共数据主管部门，负责本行政区域内公共数据发展管理工作，指导协调督促其他有关部门按照各自职责做好公共数据处理安全管理相关工作。",
-        "completeContent": "第六条 县级以上人民政府大数据发展主管部门或者设区的市、县（市、区）人民政府确定的负责大数据发展工作的部门（以下简称公共数据主管部门），负责本行政区域内公共数据发展和管理工作，指导、协调、督促其他有关部门按照各自职责做好公共数据处理和安全管理相关工作。"
-      },
-      {
-        "paragraphId": 8279290,
-        "groupId": 8000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构负责本部门、本系统、本领域公共数据处理和安全管理工作。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构负责本部门本系统本领域公共数据处理安全管理工作。",
-        "completeContent": "公共管理和服务机构负责本部门、本系统、本领域公共数据处理和安全管理工作。"
-      },
-      {
-        "paragraphId": 8279291,
-        "groupId": 8000,
-        "status": "Effective",
-        "content": "<p>网信、公安、国家安全、保密、密码等部门按照各自职责，做好公共数据安全的监督管理工作。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "网信公安国家安全保密密码等部门按照各自职责，做好公共数据安全监督管理工作。",
-        "completeContent": "网信、公安、国家安全、保密、密码等部门按照各自职责，做好公共数据安全的监督管理工作。"
-      },
-      {
-        "paragraphId": 8279292,
-        "groupId": 9000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第七条</strong> 公共数据主管部门应当会同有关部门建立健全监督检查工作机制，加强对公共数据平台建设、数据标准实施、数据质量、数据共享开放、数据安全保障等情况的监督检查，并督促落实。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第七条公共数据主管部门应当会同有关部门建立健全监督检查工作机制，加强对公共数据平台建设数据标准实施数据质量数据共享开放数据安全保障等情况监督检查，并督促落实。",
-        "completeContent": "第七条 公共数据主管部门应当会同有关部门建立健全监督检查工作机制，加强对公共数据平台建设、数据标准实施、数据质量、数据共享开放、数据安全保障等情况的监督检查，并督促落实。"
-      },
-      {
-        "paragraphId": 8279293,
-        "groupId": 10000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第八条</strong> 县级以上人民政府应当按照长江三角洲区域一体化发展国家战略要求，加强公共数据发展和管理工作跨省域合作，推动公共数据标准统一，促进公共数据共享利用，发挥公共数据在区域一体化协同治理和跨区域协同发展中的驱动作用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第八条县级以上人民政府应当按照长江三角洲区域一体化发展国家战略要求，加强公共数据发展管理工作跨省域合作，推动公共数据标准统一，促进公共数据共享利用，发挥公共数据在区域一体化协同治理跨区域协同发展中驱动作用。",
-        "completeContent": "第八条 县级以上人民政府应当按照长江三角洲区域一体化发展国家战略要求，加强公共数据发展和管理工作跨省域合作，推动公共数据标准统一，促进公共数据共享利用，发挥公共数据在区域一体化协同治理和跨区域协同发展中的驱动作用。"
-      },
-      {
-        "paragraphId": 8279294,
-        "groupId": 11000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第二章</strong> 公共数据平台</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二章公共数据平台",
-        "completeContent": "第二章 公共数据平台"
-      },
-      {
-        "paragraphId": 8279295,
-        "groupId": 12000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第九条</strong> 省公共数据主管部门应当会同省有关部门，统筹规划和建设以基础设施、数据资源、应用支撑、业务应用体系为主体，以政策制度、标准规范、组织保障、网络安全体系为支撑的一体化智能化公共数据平台（以下简称公共数据平台），促进省域整体智治、高效协同。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第九条省公共数据主管部门应当会同省有关部门，统筹规划建设以基础设施数据资源应用支撑业务应用体系为主体，以政策制度标准规范组织保障网络安全体系为支撑一体化智能化公共数据平台以下简称公共数据平台，促进省域整体智治高效协同。",
-        "completeContent": "第九条 省公共数据主管部门应当会同省有关部门，统筹规划和建设以基础设施、数据资源、应用支撑、业务应用体系为主体，以政策制度、标准规范、组织保障、网络安全体系为支撑的一体化智能化公共数据平台（以下简称公共数据平台），促进省域整体智治、高效协同。"
-      },
-      {
-        "paragraphId": 8279296,
-        "groupId": 12000,
-        "status": "Effective",
-        "content": "<p>设区的市公共数据主管部门应当会同同级有关部门，按照省有关标准和指导规范的要求建设本级公共数据平台。县（市、区）应当按照互联互通、共建共享原则，依托设区的市公共数据平台建设本级公共数据平台；确有必要的，可以单独建设。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "设区市公共数据主管部门应当会同同级有关部门，按照省有关标准指导规范要求建设本级公共数据平台。县市区应当按照互联互通共建共享原则，依托设区市公共数据平台建设本级公共数据平台；确有必要，可以单独建设。",
-        "completeContent": "设区的市公共数据主管部门应当会同同级有关部门，按照省有关标准和指导规范的要求建设本级公共数据平台。县（市、区）应当按照互联互通、共建共享原则，依托设区的市公共数据平台建设本级公共数据平台；确有必要的，可以单独建设。"
-      },
-      {
-        "paragraphId": 8279297,
-        "groupId": 12000,
-        "status": "Effective",
-        "content": "<p>省、设区的市公共数据平台应当按照地方实际需要，及时向下级公共数据平台返回数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "省设区市公共数据平台应当按照地方实际需要，时向下级公共数据平台返回数据。",
-        "completeContent": "省、设区的市公共数据平台应当按照地方实际需要，及时向下级公共数据平台返回数据。"
-      },
-      {
-        "paragraphId": 8279298,
-        "groupId": 13000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十条</strong> 公共数据主管部门应当依托公共数据平台建立统一的数据共享、开放通道。公共管理和服务机构应当通过统一的共享、开放通道共享、开放公共数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十条公共数据主管部门应当依托公共数据平台建立统一数据共享开放通道。公共管理服务机构应当通过统一共享开放通道共享开放公共数据。",
-        "completeContent": "第十条 公共数据主管部门应当依托公共数据平台建立统一的数据共享、开放通道。公共管理和服务机构应当通过统一的共享、开放通道共享、开放公共数据。"
-      },
-      {
-        "paragraphId": 8279299,
-        "groupId": 13000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构不得新建公共数据共享、开放通道；已建共享、开放通道的，应当并入统一的共享、开放通道。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构不得新建公共数据共享开放通道；已建共享开放通道，应当并入统一共享开放通道。",
-        "completeContent": "公共管理和服务机构不得新建公共数据共享、开放通道；已建共享、开放通道的，应当并入统一的共享、开放通道。"
-      },
-      {
-        "paragraphId": 8279300,
-        "groupId": 14000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十一条</strong> 省公共数据主管部门应当统筹建设全省一体化数字资源系统，推动全省公共数据、应用、组件、算力等数字资源集约管理，促进数字资源高效配置供给，实现公共数据跨层级、跨地域、跨系统、跨部门、跨业务有序流通和共享。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十一条省公共数据主管部门应当统筹建设全省一体化数字资源系统，推动全省公共数据应用组件算力等数字资源集约管理，促进数字资源高效配置供给，实现公共数据跨层级跨地域跨系统跨部门跨业务有序流通共享。",
-        "completeContent": "第十一条 省公共数据主管部门应当统筹建设全省一体化数字资源系统，推动全省公共数据、应用、组件、算力等数字资源集约管理，促进数字资源高效配置供给，实现公共数据跨层级、跨地域、跨系统、跨部门、跨业务有序流通和共享。"
-      },
-      {
-        "paragraphId": 8279301,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十二条</strong> 县级以上人民政府应当建立使用财政资金的数字化项目管理机制，加强对数字化项目的统筹、整合和共享管理，避免重复建设。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十二条县级以上人民政府应当建立使用财政资金数字化项目管理机制，加强对数字化项目统筹整合共享管理，避免重复建设。",
-        "completeContent": "第十二条 县级以上人民政府应当建立使用财政资金的数字化项目管理机制，加强对数字化项目的统筹、整合和共享管理，避免重复建设。"
-      },
-      {
-        "paragraphId": 8279302,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>使用本省财政资金的数字化项目有下列情形之一的，不予立项、审查验收或者不予安排运行和维护经费：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "使用本省财政资金数字化项目有下列情形之一，不予立项审查验收或者不予安排运行维护经费：",
-        "completeContent": "使用本省财政资金的数字化项目有下列情形之一的，不予立项、审查验收或者不予安排运行和维护经费："
-      },
-      {
-        "paragraphId": 8279303,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>（一）未经县级以上人民政府指定的部门同意，新建业务专网或者新建、扩建、改建独立数据平台的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一未经县级以上人民政府指定部门同意，新建业务专网或者新建扩建改建独立数据平台；",
-        "completeContent": "（一）未经县级以上人民政府指定的部门同意，新建业务专网或者新建、扩建、改建独立数据平台的；"
-      },
-      {
-        "paragraphId": 8279304,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>（二）未经县级以上人民政府指定的部门同意，在公共数据平台外开发、升级改造应用系统的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二未经县级以上人民政府指定部门同意，在公共数据平台外开发升级改造应用系统；",
-        "completeContent": "（二）未经县级以上人民政府指定的部门同意，在公共数据平台外开发、升级改造应用系统的；"
-      },
-      {
-        "paragraphId": 8279305,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>（三）未按照规定纳入一体化数字资源系统管理的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三未按照规定纳入一体化数字资源系统管理；",
-        "completeContent": "（三）未按照规定纳入一体化数字资源系统管理的；"
-      },
-      {
-        "paragraphId": 8279306,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>（四）未按照要求共享、开放数据或者重复收集数据的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四未按照要求共享开放数据或者重复收集数据；",
-        "completeContent": "（四）未按照要求共享、开放数据或者重复收集数据的；"
-      },
-      {
-        "paragraphId": 8279307,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>（五）不符合密码应用和安全管理要求的。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "五不符合密码应用安全管理要求。",
-        "completeContent": "（五）不符合密码应用和安全管理要求的。"
-      },
-      {
-        "paragraphId": 8279308,
-        "groupId": 16000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十三条</strong> 公共数据实行目录化管理。省公共数据主管部门应当统筹推进省、设区的市、县（市、区）三级公共数据目录一体化建设，制定统一的目录编制标准，组织编制全省公共数据目录。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十三条公共数据实行目录化管理。省公共数据主管部门应当统筹推进省设区市县市区三级公共数据目录一体化建设，制定统一目录编制标准，组织编制全省公共数据目录。",
-        "completeContent": "第十三条 公共数据实行目录化管理。省公共数据主管部门应当统筹推进省、设区的市、县（市、区）三级公共数据目录一体化建设，制定统一的目录编制标准，组织编制全省公共数据目录。"
-      },
-      {
-        "paragraphId": 8279309,
-        "groupId": 16000,
-        "status": "Effective",
-        "content": "<p>设区的市、县（市、区）公共数据主管部门应当按照统一标准，组织编制本级公共数据子目录，并报上一级公共数据主管部门审核。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "设区市县市区公共数据主管部门应当按照统一标准，组织编制本级公共数据子目录，并报上一级公共数据主管部门审核。",
-        "completeContent": "设区的市、县（市、区）公共数据主管部门应当按照统一标准，组织编制本级公共数据子目录，并报上一级公共数据主管部门审核。"
-      },
-      {
-        "paragraphId": 8279310,
-        "groupId": 16000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构应当按照统一标准，编制本部门公共数据子目录，并报同级公共数据主管部门审核。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构应当按照统一标准，编制本部门公共数据子目录，并报同级公共数据主管部门审核。",
-        "completeContent": "公共管理和服务机构应当按照统一标准，编制本部门公共数据子目录，并报同级公共数据主管部门审核。"
-      },
-      {
-        "paragraphId": 8279311,
-        "groupId": 17000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十四条</strong> 省公共数据主管部门应当会同省标准化主管部门和其他有关部门，推进本省公共数据标准体系建设，制定省、设区的市、县（市、区）公共数据平台建设标准以及公共数据处理和安全管理等标准，推动公共数据国家标准、行业标准和地方标准有效实施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十四条省公共数据主管部门应当会同省标准化主管部门其他有关部门，推进本省公共数据标准体系建设，制定省设区市县市区公共数据平台建设标准以公共数据处理安全管理等标准，推动公共数据国家标准行业标准地方标准有效实施。",
-        "completeContent": "第十四条 省公共数据主管部门应当会同省标准化主管部门和其他有关部门，推进本省公共数据标准体系建设，制定省、设区的市、县（市、区）公共数据平台建设标准以及公共数据处理和安全管理等标准，推动公共数据国家标准、行业标准和地方标准有效实施。"
-      },
-      {
-        "paragraphId": 8279312,
-        "groupId": 18000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第三章</strong> 公共数据收集与归集</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三章公共数据收集归集",
-        "completeContent": "第三章 公共数据收集与归集"
-      },
-      {
-        "paragraphId": 8279313,
-        "groupId": 19000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十五条</strong> 公共管理和服务机构收集数据应当遵循合法、正当、必要的原则，按照法定权限、范围、程序和标准规范收集。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十五条公共管理服务机构收集数据应当遵循合法正当必要原则，按照法定权限范围程序标准规范收集。",
-        "completeContent": "第十五条 公共管理和服务机构收集数据应当遵循合法、正当、必要的原则，按照法定权限、范围、程序和标准规范收集。"
-      },
-      {
-        "paragraphId": 8279314,
-        "groupId": 19000,
-        "status": "Effective",
-        "content": "<p>可以通过共享获取数据的，公共管理和服务机构不得重复收集；共享数据无法满足履行职责需求的，公共管理和服务机构可以向公共数据主管部门提交数据需求清单，由公共数据主管部门与相关公共管理和服务机构协商解决。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "可以通过共享获取数据，公共管理服务机构不得重复收集；共享数据无法满足履行职责需求，公共管理服务机构可以向公共数据主管部门提交数据需求清单，由公共数据主管部门相关公共管理服务机构协商解决。",
-        "completeContent": "可以通过共享获取数据的，公共管理和服务机构不得重复收集；共享数据无法满足履行职责需求的，公共管理和服务机构可以向公共数据主管部门提交数据需求清单，由公共数据主管部门与相关公共管理和服务机构协商解决。"
-      },
-      {
-        "paragraphId": 8279315,
-        "groupId": 20000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十六条</strong> 公共管理和服务机构按照法定权限、范围、程序和标准规范收集单位、个人数据的，有关单位、个人应当予以配合。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十六条公共管理服务机构按照法定权限范围程序标准规范收集单位个人数据，有关单位个人应当予以配合。",
-        "completeContent": "第十六条 公共管理和服务机构按照法定权限、范围、程序和标准规范收集单位、个人数据的，有关单位、个人应当予以配合。"
-      },
-      {
-        "paragraphId": 8279316,
-        "groupId": 20000,
-        "status": "Effective",
-        "content": "<p>收集公共数据应当遵守网络安全、数据安全、个人信息保护等法律、法规以及国家标准的强制性要求。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "收集公共数据应当遵守网络安全数据安全个人信息保护等法律法规以国家标准强制性要求。",
-        "completeContent": "收集公共数据应当遵守网络安全、数据安全、个人信息保护等法律、法规以及国家标准的强制性要求。"
-      },
-      {
-        "paragraphId": 8279317,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十七条</strong> 收集公共数据应当分别以下列号码或者代码作为必要标识：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十七条收集公共数据应当分别以下列号码或者代码作为必要标识：",
-        "completeContent": "第十七条 收集公共数据应当分别以下列号码或者代码作为必要标识："
-      },
-      {
-        "paragraphId": 8279318,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>（一）公民身份号码或者个人其他有效身份证件号码；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一公民身份号码或者个人其他有效身份证件号码；",
-        "completeContent": "（一）公民身份号码或者个人其他有效身份证件号码；"
-      },
-      {
-        "paragraphId": 8279319,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>（二）法人统一社会信用代码；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二法人统一社会信用代码；",
-        "completeContent": "（二）法人统一社会信用代码；"
-      },
-      {
-        "paragraphId": 8279320,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>（三）非法人组织统一社会信用代码或者其他识别代码。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三非法人组织统一社会信用代码或者其他识别代码。",
-        "completeContent": "（三）非法人组织统一社会信用代码或者其他识别代码。"
-      },
-      {
-        "paragraphId": 8279321,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构收集数据时，不得强制要求个人采用多种方式重复验证或者特定方式验证。已经通过有效身份证件验明身份的，不得强制通过收集指纹、虹膜、人脸等生物识别信息重复验证。法律、行政法规另有规定的除外。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构收集数据时，不得强制要求个人采用多种方式重复验证或者特定方式验证。已经通过有效身份证件验明身份，不得强制通过收集指纹虹膜人脸等生物识别信息重复验证。法律行政法规另有规定除外。",
-        "completeContent": "公共管理和服务机构收集数据时，不得强制要求个人采用多种方式重复验证或者特定方式验证。已经通过有效身份证件验明身份的，不得强制通过收集指纹、虹膜、人脸等生物识别信息重复验证。法律、行政法规另有规定的除外。"
-      },
-      {
-        "paragraphId": 8279322,
-        "groupId": 22000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十八条</strong> 省公共数据主管部门应当会同省有关部门在省公共数据平台建立和完善人口、法人、信用、电子证照、自然资源和空间地理等基础数据库，以及跨地域、跨部门专题数据库。省公共管理和服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到省公共数据平台基础数据库和专题数据库。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十八条省公共数据主管部门应当会同省有关部门在省公共数据平台建立完善人口法人信用电子证照自然资源空间地理等基础数据库，以跨地域跨部门专题数据库。省公共管理服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到省公共数据平台基础数据库专题数据库。",
-        "completeContent": "第十八条 省公共数据主管部门应当会同省有关部门在省公共数据平台建立和完善人口、法人、信用、电子证照、自然资源和空间地理等基础数据库，以及跨地域、跨部门专题数据库。省公共管理和服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到省公共数据平台基础数据库和专题数据库。"
-      },
-      {
-        "paragraphId": 8279323,
-        "groupId": 22000,
-        "status": "Effective",
-        "content": "<p>设区的市、县（市、区）公共数据主管部门应当在本级公共数据平台建立和完善跨地域、跨部门专题数据库。公共管理和服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到本级公共数据平台专题数据库。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "设区市县市区公共数据主管部门应当在本级公共数据平台建立完善跨地域跨部门专题数据库。公共管理服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到本级公共数据平台专题数据库。",
-        "completeContent": "设区的市、县（市、区）公共数据主管部门应当在本级公共数据平台建立和完善跨地域、跨部门专题数据库。公共管理和服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到本级公共数据平台专题数据库。"
-      },
-      {
-        "paragraphId": 8279324,
-        "groupId": 23000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十九条</strong> 自然人、法人或者非法人组织对涉及自身的公共数据有异议或者发现公共数据不准确、不完整的，可以向公共管理和服务机构提出校核申请。公共管理和服务机构应当自收到校核申请之日起五个工作日内校核完毕；情况复杂的，经公共管理和服务机构负责人批准，可以延长至十个工作日。公共管理和服务机构应当将校核处理结果及时告知当事人。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十九条自然人法人或者非法人组织对涉自身公共数据有异议或者发现公共数据不准确不完整，可以向公共管理服务机构提出校核申请。公共管理服务机构应当自收到校核申请之日起五个工作日内校核完毕；情况复杂，经公共管理服务机构负责人批准，可以延长至十个工作日。公共管理服务机构应当将校核处理结果时告知当事人。",
-        "completeContent": "第十九条 自然人、法人或者非法人组织对涉及自身的公共数据有异议或者发现公共数据不准确、不完整的，可以向公共管理和服务机构提出校核申请。公共管理和服务机构应当自收到校核申请之日起五个工作日内校核完毕；情况复杂的，经公共管理和服务机构负责人批准，可以延长至十个工作日。公共管理和服务机构应当将校核处理结果及时告知当事人。"
-      },
-      {
-        "paragraphId": 8279325,
-        "groupId": 23000,
-        "status": "Effective",
-        "content": "<p>自然人、法人或者非法人组织对涉及自身的公共数据有异议或者发现公共数据不准确、不完整的，也可以向公共数据主管部门提出校核申请。公共数据主管部门应当自收到校核申请之日起两个工作日内转交相应公共管理和服务机构，并督促公共管理和服务机构在前款规定的期限内校核完毕。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "自然人法人或者非法人组织对涉自身公共数据有异议或者发现公共数据不准确不完整，也可以向公共数据主管部门提出校核申请。公共数据主管部门应当自收到校核申请之日起两个工作日内转交相应公共管理服务机构，并督促公共管理服务机构在前款规定期限内校核完毕。",
-        "completeContent": "自然人、法人或者非法人组织对涉及自身的公共数据有异议或者发现公共数据不准确、不完整的，也可以向公共数据主管部门提出校核申请。公共数据主管部门应当自收到校核申请之日起两个工作日内转交相应公共管理和服务机构，并督促公共管理和服务机构在前款规定的期限内校核完毕。"
-      },
-      {
-        "paragraphId": 8279326,
-        "groupId": 23000,
-        "status": "Effective",
-        "content": "<p>公共数据主管部门、公共管理和服务机构发现数据不准确、不完整或者不同的公共管理和服务机构收集、提供的数据不一致的，由公共数据主管部门通知数据收集、提供单位限期校核。数据收集、提供单位应当在期限内校核完毕。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据主管部门公共管理服务机构发现数据不准确不完整或者不同公共管理服务机构收集提供数据不一致，由公共数据主管部门数据收集提供单位限期校核。数据收集提供单位应当在期限内校核完毕。",
-        "completeContent": "公共数据主管部门、公共管理和服务机构发现数据不准确、不完整或者不同的公共管理和服务机构收集、提供的数据不一致的，由公共数据主管部门通知数据收集、提供单位限期校核。数据收集、提供单位应当在期限内校核完毕。"
-      },
-      {
-        "paragraphId": 8279327,
-        "groupId": 24000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十条</strong> 公共数据主管部门、公共管理和服务机构应当建立健全数据全流程质量管控体系，加强数据质量事前、事中和事后的监督检查，及时更新已变更、失效数据，实现问题数据可追溯、可定责，保证数据的及时性、准确性、完整性。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十条公共数据主管部门公共管理服务机构应当建立健全数据全流程质量管控体系，加强数据质量事前事中事后监督检查，时更新已变更失效数据，实现问题数据可追溯可定责，保证数据时性准确性完整性。",
-        "completeContent": "第二十条 公共数据主管部门、公共管理和服务机构应当建立健全数据全流程质量管控体系，加强数据质量事前、事中和事后的监督检查，及时更新已变更、失效数据，实现问题数据可追溯、可定责，保证数据的及时性、准确性、完整性。"
-      },
-      {
-        "paragraphId": 8279328,
-        "groupId": 25000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十一条</strong> 为了应对突发事件，公共管理和服务机构按照应对突发事件有关法律、法规规定，可以要求自然人、法人或者非法人组织提供应对突发事件所必需的数据，并根据实际需要，依法、及时共享和开放相关公共数据，为应对突发事件提供支持；收集的数据不得用于与应对突发事件无关的事项；对在履行职责中知悉的个人信息、商业秘密、保密商务信息等应当依法予以保密。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十一条为了应对突发事件，公共管理服务机构按照应对突发事件有关法律法规规定，可以要求自然人法人或者非法人组织提供应对突发事件所必需数据，并根据实际需要，依法时共享开放相关公共数据，为应对突发事件提供支持；收集数据不得用于应对突发事件无关事项；对在履行职责中知悉个人信息商业秘密保密商务信息等应当依法予以保密。",
-        "completeContent": "第二十一条 为了应对突发事件，公共管理和服务机构按照应对突发事件有关法律、法规规定，可以要求自然人、法人或者非法人组织提供应对突发事件所必需的数据，并根据实际需要，依法、及时共享和开放相关公共数据，为应对突发事件提供支持；收集的数据不得用于与应对突发事件无关的事项；对在履行职责中知悉的个人信息、商业秘密、保密商务信息等应当依法予以保密。"
-      },
-      {
-        "paragraphId": 8279329,
-        "groupId": 25000,
-        "status": "Effective",
-        "content": "<p>突发事件应急处置工作结束后，公共管理和服务机构应当对获得的突发事件相关公共数据进行分类评估，将涉及个人信息、商业秘密、保密商务信息的公共数据采取封存等安全处理措施，并关停相关数据应用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "突发事件应急处置工作结束后，公共管理服务机构应当对获得突发事件相关公共数据进行分类评估，将涉个人信息商业秘密保密商务信息公共数据采取封存等安全处理措施，并关停相关数据应用。",
-        "completeContent": "突发事件应急处置工作结束后，公共管理和服务机构应当对获得的突发事件相关公共数据进行分类评估，将涉及个人信息、商业秘密、保密商务信息的公共数据采取封存等安全处理措施，并关停相关数据应用。"
-      },
-      {
-        "paragraphId": 8279330,
-        "groupId": 26000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第四章</strong> 公共数据共享</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四章公共数据共享",
-        "completeContent": "第四章 公共数据共享"
-      },
-      {
-        "paragraphId": 8279331,
-        "groupId": 27000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十二条</strong> 本条例所称公共数据共享，是指公共管理和服务机构因履行法定职责或者提供公共服务需要，依法使用其他公共管理和服务机构的数据，或者向其他公共管理和服务机构提供数据的行为。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十二条本条例所称公共数据共享，是指公共管理服务机构因履行法定职责或者提供公共服务需要，依法使用其他公共管理服务机构数据，或者向其他公共管理服务机构提供数据行为。",
-        "completeContent": "第二十二条 本条例所称公共数据共享，是指公共管理和服务机构因履行法定职责或者提供公共服务需要，依法使用其他公共管理和服务机构的数据，或者向其他公共管理和服务机构提供数据的行为。"
-      },
-      {
-        "paragraphId": 8279332,
-        "groupId": 27000,
-        "status": "Effective",
-        "content": "<p>公共数据应当以共享为原则、不共享为例外。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据应当以共享为原则不共享为例外。",
-        "completeContent": "公共数据应当以共享为原则、不共享为例外。"
-      },
-      {
-        "paragraphId": 8279333,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十三条</strong> 公共数据按照共享属性分为无条件共享、受限共享和不共享数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十三条公共数据按照共享属性分为无条件共享受限共享不共享数据。",
-        "completeContent": "第二十三条 公共数据按照共享属性分为无条件共享、受限共享和不共享数据。"
-      },
-      {
-        "paragraphId": 8279334,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构应当按照国家和省有关规定对其收集、产生的公共数据进行评估，科学合理确定共享属性，并定期更新。列入受限共享数据的，应当说明理由并明确共享条件；列入不共享数据的，应当提供明确的法律、法规、规章或者国家有关规定依据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构应当按照国家省有关规定对其收集产生公共数据进行评估，科学合理确定共享属性，并定期更新。列入受限共享数据，应当说明理由并明确共享条件；列入不共享数据，应当提供明确法律法规规章或者国家有关规定依据。",
-        "completeContent": "公共管理和服务机构应当按照国家和省有关规定对其收集、产生的公共数据进行评估，科学合理确定共享属性，并定期更新。列入受限共享数据的，应当说明理由并明确共享条件；列入不共享数据的，应当提供明确的法律、法规、规章或者国家有关规定依据。"
-      },
-      {
-        "paragraphId": 8279335,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p>公共数据主管部门对同级公共管理和服务机构确定的公共数据共享属性有异议，经协商不能达成一致意见的，报本级人民政府决定。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据主管部门对同级公共管理服务机构确定公共数据共享属性有异议，经协商不能达成一致，报本级人民政府。",
-        "completeContent": "公共数据主管部门对同级公共管理和服务机构确定的公共数据共享属性有异议，经协商不能达成一致意见的，报本级人民政府决定。"
-      },
-      {
-        "paragraphId": 8279336,
-        "groupId": 29000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十四条</strong> 公共管理和服务机构需要通过共享获取数据的，应当向数据提供单位的同级公共数据主管部门提出申请，明确应用场景，通过统一的公共数据共享通道以接口调用、批量数据使用等方式获取数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十四条公共管理服务机构需要通过共享获取数据，应当向数据提供单位同级公共数据主管部门提出申请，明确应用场景，通过统一公共数据共享通道以接口调用批量数据使用等方式获取数据。",
-        "completeContent": "第二十四条 公共管理和服务机构需要通过共享获取数据的，应当向数据提供单位的同级公共数据主管部门提出申请，明确应用场景，通过统一的公共数据共享通道以接口调用、批量数据使用等方式获取数据。"
-      },
-      {
-        "paragraphId": 8279337,
-        "groupId": 29000,
-        "status": "Effective",
-        "content": "<p>无法按照前款规定获取数据的，可以向公共数据主管部门提交数据需求清单，由公共数据主管部门与相关公共管理和服务机构协商解决。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "无法按照前款规定获取数据，可以向公共数据主管部门提交数据需求清单，由公共数据主管部门相关公共管理服务机构协商解决。",
-        "completeContent": "无法按照前款规定获取数据的，可以向公共数据主管部门提交数据需求清单，由公共数据主管部门与相关公共管理和服务机构协商解决。"
-      },
-      {
-        "paragraphId": 8279338,
-        "groupId": 30000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十五条</strong> 公共管理和服务机构申请使用无条件共享数据的，公共数据主管部门应当在两个工作日内予以共享。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十五条公共管理服务机构申请使用无条件共享数据，公共数据主管部门应当在两个工作日内予以共享。",
-        "completeContent": "第二十五条 公共管理和服务机构申请使用无条件共享数据的，公共数据主管部门应当在两个工作日内予以共享。"
-      },
-      {
-        "paragraphId": 8279339,
-        "groupId": 30000,
-        "status": "Effective",
-        "content": "<p>申请使用受限共享数据的，公共数据主管部门应当自收到申请之日起一个工作日内征求数据提供单位意见，数据提供单位应当在三个工作日内反馈意见。数据提供单位同意共享的，公共数据主管部门应当在两个工作日内予以共享。数据提供单位不同意共享的，应当说明理由，公共数据主管部门应当自收到反馈意见之日起两个工作日内完成审核，认为应当共享的，应当在两个工作日内予以共享，并告知数据提供单位；认为不应当共享的，应当立即告知提出申请的公共管理和服务机构。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "申请使用受限共享数据，公共数据主管部门应当自收到申请之日起一个工作日内征求数据提供单位，数据提供单位应当在三个工作日内反馈。数据提供单位同意共享，公共数据主管部门应当在两个工作日内予以共享。数据提供单位不同意共享，应当说明理由，公共数据主管部门应当自收到反馈之日起两个工作日内完成审核，认为应当共享，应当在两个工作日内予以共享，并告知数据提供单位；认为不应当共享，应当立即告知提出申请公共管理服务机构。",
-        "completeContent": "申请使用受限共享数据的，公共数据主管部门应当自收到申请之日起一个工作日内征求数据提供单位意见，数据提供单位应当在三个工作日内反馈意见。数据提供单位同意共享的，公共数据主管部门应当在两个工作日内予以共享。数据提供单位不同意共享的，应当说明理由，公共数据主管部门应当自收到反馈意见之日起两个工作日内完成审核，认为应当共享的，应当在两个工作日内予以共享，并告知数据提供单位；认为不应当共享的，应当立即告知提出申请的公共管理和服务机构。"
-      },
-      {
-        "paragraphId": 8279340,
-        "groupId": 31000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十六条</strong> 公共管理和服务机构通过共享获取的公共数据，应当用于本机构依法履行职责的需要，不得用于或者变相用于其他目的。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十六条公共管理服务机构通过共享获取公共数据，应当用于本机构依法履行职责需要，不得用于或者变相用于其他目。",
-        "completeContent": "第二十六条 公共管理和服务机构通过共享获取的公共数据，应当用于本机构依法履行职责的需要，不得用于或者变相用于其他目的。"
-      },
-      {
-        "paragraphId": 8279341,
-        "groupId": 32000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第五章</strong> 公共数据开放与利用</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第五章公共数据开放利用",
-        "completeContent": "第五章 公共数据开放与利用"
-      },
-      {
-        "paragraphId": 8279342,
-        "groupId": 33000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十七条</strong> 本条例所称公共数据开放，是指向自然人、法人或者非法人组织依法提供公共数据的公共服务行为。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十七条本条例所称公共数据开放，是指向自然人法人或者非法人组织依法提供公共数据公共服务行为。",
-        "completeContent": "第二十七条 本条例所称公共数据开放，是指向自然人、法人或者非法人组织依法提供公共数据的公共服务行为。"
-      },
-      {
-        "paragraphId": 8279343,
-        "groupId": 33000,
-        "status": "Effective",
-        "content": "<p>公共数据开放应当遵循依法、规范、公平、优质、便民的原则。公共数据按照开放属性分为无条件开放、受限开放和禁止开放数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据开放应当遵循依法规范公平优质便民原则。公共数据按照开放属性分为无条件开放受限开放禁止开放数据。",
-        "completeContent": "公共数据开放应当遵循依法、规范、公平、优质、便民的原则。公共数据按照开放属性分为无条件开放、受限开放和禁止开放数据。"
-      },
-      {
-        "paragraphId": 8279344,
-        "groupId": 34000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十八条</strong> 省公共数据主管部门根据国家和省有关公共数据分类分级要求，组织编制全省公共数据开放目录。设区的市公共数据主管部门可以组织编制本行政区域公共数据开放子目录。公共数据开放目录按照实际需要实行动态调整。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十八条省公共数据主管部门根据国家省有关公共数据分类分级要求，组织编制全省公共数据开放目录。设区市公共数据主管部门可以组织编制本行政区域公共数据开放子目录。公共数据开放目录按照实际需要实行动态调整。",
-        "completeContent": "第二十八条 省公共数据主管部门根据国家和省有关公共数据分类分级要求，组织编制全省公共数据开放目录。设区的市公共数据主管部门可以组织编制本行政区域公共数据开放子目录。公共数据开放目录按照实际需要实行动态调整。"
-      },
-      {
-        "paragraphId": 8279345,
-        "groupId": 34000,
-        "status": "Effective",
-        "content": "<p>公共数据开放目录应当标注数据名称、数据开放主体、数据开放属性、数据格式、数据类型、数据更新频率等内容。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据开放目录应当标注数据名称数据开放主体数据开放属性数据格式数据类型数据更新频率等内容。",
-        "completeContent": "公共数据开放目录应当标注数据名称、数据开放主体、数据开放属性、数据格式、数据类型、数据更新频率等内容。"
-      },
-      {
-        "paragraphId": 8279346,
-        "groupId": 35000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十九条</strong> 省、设区的市公共数据主管部门应当根据当地经济社会发展需要，会同同级公共管理和服务机构制定年度公共数据开放重点清单，优先开放与民生紧密相关、社会迫切需要、行业增值潜力显著和产业战略意义重大的公共数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十九条省设区市公共数据主管部门应当根据当地经济社会发展需要，会同同级公共管理服务机构制定年度公共数据开放重点清单，优先开放民生紧密相关社会迫切需要行业增值潜力显著产业战略意义重大公共数据。",
-        "completeContent": "第二十九条 省、设区的市公共数据主管部门应当根据当地经济社会发展需要，会同同级公共管理和服务机构制定年度公共数据开放重点清单，优先开放与民生紧密相关、社会迫切需要、行业增值潜力显著和产业战略意义重大的公共数据。"
-      },
-      {
-        "paragraphId": 8279347,
-        "groupId": 35000,
-        "status": "Effective",
-        "content": "<p>确定年度公共数据开放重点清单，应当听取相关行业组织、企业、专家和社会公众的意见。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "确定年度公共数据开放重点清单，应当听取相关行业组织企业专家社会公众。",
-        "completeContent": "确定年度公共数据开放重点清单，应当听取相关行业组织、企业、专家和社会公众的意见。"
-      },
-      {
-        "paragraphId": 8279348,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十条</strong> 公共数据有下列情形之一的，禁止开放：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十条公共数据有下列情形之一，禁止开放：",
-        "completeContent": "第三十条 公共数据有下列情形之一的，禁止开放："
-      },
-      {
-        "paragraphId": 8279349,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（一）开放后危及或者可能危及国家安全的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一开放后危或者可能危国家安全；",
-        "completeContent": "（一）开放后危及或者可能危及国家安全的；"
-      },
-      {
-        "paragraphId": 8279350,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（二）开放后可能损害公共利益的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二开放后可能损害公共利益；",
-        "completeContent": "（二）开放后可能损害公共利益的；"
-      },
-      {
-        "paragraphId": 8279351,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（三）涉及个人信息、商业秘密或者保密商务信息的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三涉个人信息商业秘密或者保密商务信息；",
-        "completeContent": "（三）涉及个人信息、商业秘密或者保密商务信息的；"
-      },
-      {
-        "paragraphId": 8279352,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（四）数据获取协议约定不得开放的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四数据获取协议约定不得开放；",
-        "completeContent": "（四）数据获取协议约定不得开放的；"
-      },
-      {
-        "paragraphId": 8279353,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（五）法律、法规规定不得开放的。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "五法律法规规定不得开放。",
-        "completeContent": "（五）法律、法规规定不得开放的。"
-      },
-      {
-        "paragraphId": 8279354,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>前款第三项规定的公共数据有下列情形之一的，可以列入受限开放或者无条件开放数据：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "前款第三项规定公共数据有下列情形之一，可以列入受限开放或者无条件开放数据：",
-        "completeContent": "前款第三项规定的公共数据有下列情形之一的，可以列入受限开放或者无条件开放数据："
-      },
-      {
-        "paragraphId": 8279355,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（一）涉及个人信息的公共数据经匿名化处理的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一涉个人信息公共数据经匿名化处理；",
-        "completeContent": "（一）涉及个人信息的公共数据经匿名化处理的；"
-      },
-      {
-        "paragraphId": 8279356,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（二）涉及商业秘密、保密商务信息的公共数据经脱敏、脱密处理的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二涉商业秘密保密商务信息公共数据经脱敏脱密处理；",
-        "completeContent": "（二）涉及商业秘密、保密商务信息的公共数据经脱敏、脱密处理的；"
-      },
-      {
-        "paragraphId": 8279357,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>（三）涉及个人信息、商业秘密、保密商务信息的公共数据指向的特定自然人、法人或者非法人组织依法授权同意开放的。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三涉个人信息商业秘密保密商务信息公共数据指向特定自然人法人或者非法人组织依法授权同意开放。",
-        "completeContent": "（三）涉及个人信息、商业秘密、保密商务信息的公共数据指向的特定自然人、法人或者非法人组织依法授权同意开放的。"
-      },
-      {
-        "paragraphId": 8279358,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>省公共数据主管部门应当会同省网信、公安、经济和信息化等部门制定公共数据脱敏、脱密等技术规范。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "省公共数据主管部门应当会同省网信公安经济信息化等部门制定公共数据脱敏脱密等技术规范。",
-        "completeContent": "省公共数据主管部门应当会同省网信、公安、经济和信息化等部门制定公共数据脱敏、脱密等技术规范。"
-      },
-      {
-        "paragraphId": 8279359,
-        "groupId": 37000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十一条</strong> 公共管理和服务机构应当按照国家和省有关规定对其收集、产生的公共数据进行评估，科学合理确定开放属性，并定期更新。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十一条公共管理服务机构应当按照国家省有关规定对其收集产生公共数据进行评估，科学合理确定开放属性，并定期更新。",
-        "completeContent": "第三十一条 公共管理和服务机构应当按照国家和省有关规定对其收集、产生的公共数据进行评估，科学合理确定开放属性，并定期更新。"
-      },
-      {
-        "paragraphId": 8279360,
-        "groupId": 37000,
-        "status": "Effective",
-        "content": "<p>公共数据主管部门对同级公共管理和服务机构确定的公共数据开放属性有异议，经协商不能达成一致意见的，报本级人民政府决定。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据主管部门对同级公共管理服务机构确定公共数据开放属性有异议，经协商不能达成一致，报本级人民政府。",
-        "completeContent": "公共数据主管部门对同级公共管理和服务机构确定的公共数据开放属性有异议，经协商不能达成一致意见的，报本级人民政府决定。"
-      },
-      {
-        "paragraphId": 8279361,
-        "groupId": 38000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十二条</strong> 自然人、法人或者非法人组织需要获取无条件开放的公共数据的，可以通过统一的公共数据开放通道获取。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十二条自然人法人或者非法人组织需要获取无条件开放公共数据，可以通过统一公共数据开放通道获取。",
-        "completeContent": "第三十二条 自然人、法人或者非法人组织需要获取无条件开放的公共数据的，可以通过统一的公共数据开放通道获取。"
-      },
-      {
-        "paragraphId": 8279362,
-        "groupId": 39000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十三条</strong> 自然人、法人或者非法人组织需要获取受限开放的公共数据的，应当具备相应的数据存储、处理和安全保护能力，并符合申请时信用档案中无因违反本条例规定记入的不良信息等要求，具体条件由省、设区的市公共管理和服务机构通过本级公共数据平台公布。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十三条自然人法人或者非法人组织需要获取受限开放公共数据，应当具备相应数据存储处理安全保护能力，并符合申请时信用档案中无因违反本条例规定记入不良信息等要求，具体条件由省设区市公共管理服务机构通过本级公共数据平台。",
-        "completeContent": "第三十三条 自然人、法人或者非法人组织需要获取受限开放的公共数据的，应当具备相应的数据存储、处理和安全保护能力，并符合申请时信用档案中无因违反本条例规定记入的不良信息等要求，具体条件由省、设区的市公共管理和服务机构通过本级公共数据平台公布。"
-      },
-      {
-        "paragraphId": 8279363,
-        "groupId": 39000,
-        "status": "Effective",
-        "content": "<p>自然人、法人或者非法人组织需要获取受限开放的公共数据的，应当通过统一的公共数据开放通道向公共数据主管部门提出申请。公共数据主管部门应当会同数据提供单位审核后确定是否同意开放。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "自然人法人或者非法人组织需要获取受限开放公共数据，应当通过统一公共数据开放通道向公共数据主管部门提出申请。公共数据主管部门应当会同数据提供单位审核后确定是否同意开放。",
-        "completeContent": "自然人、法人或者非法人组织需要获取受限开放的公共数据的，应当通过统一的公共数据开放通道向公共数据主管部门提出申请。公共数据主管部门应当会同数据提供单位审核后确定是否同意开放。"
-      },
-      {
-        "paragraphId": 8279364,
-        "groupId": 39000,
-        "status": "Effective",
-        "content": "<p>经审核同意开放公共数据的，申请人应当签署安全承诺书，并与数据提供单位签订开放利用协议。申请开放的公共数据涉及两个以上数据提供单位的，开放利用协议由公共数据主管部门与申请人签订。开放利用协议应当明确数据开放方式、使用范围、安全保障措施等内容。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "经审核同意开放公共数据，申请人应当签署安全承诺书，并数据提供单位签订开放利用协议。申请开放公共数据涉两个以上数据提供单位，开放利用协议由公共数据主管部门申请人签订。开放利用协议应当明确数据开放方式使用范围安全保障措施等内容。",
-        "completeContent": "经审核同意开放公共数据的，申请人应当签署安全承诺书，并与数据提供单位签订开放利用协议。申请开放的公共数据涉及两个以上数据提供单位的，开放利用协议由公共数据主管部门与申请人签订。开放利用协议应当明确数据开放方式、使用范围、安全保障措施等内容。"
-      },
-      {
-        "paragraphId": 8279365,
-        "groupId": 39000,
-        "status": "Effective",
-        "content": "<p>申请人应当按照开放利用协议约定的范围使用公共数据，并按照开放利用协议和安全承诺书采取安全保障措施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "申请人应当按照开放利用协议约定范围使用公共数据，并按照开放利用协议安全承诺书采取安全保障措施。",
-        "completeContent": "申请人应当按照开放利用协议约定的范围使用公共数据，并按照开放利用协议和安全承诺书采取安全保障措施。"
-      },
-      {
-        "paragraphId": 8279366,
-        "groupId": 40000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十四条</strong> 县级以上人民政府应当将公共数据作为促进经济社会发展的重要生产要素，促进公共数据有序流动，推进数据要素市场化配置改革，推动公共数据与社会数据深度融合利用，提升公共数据资源配置效率。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十四条县级以上人民政府应当将公共数据作为促进经济社会发展重要生产要素，促进公共数据有序流动，推进数据要素市场化配置改革，推动公共数据社会数据深度融合利用，提升公共数据资源配置效率。",
-        "completeContent": "第三十四条 县级以上人民政府应当将公共数据作为促进经济社会发展的重要生产要素，促进公共数据有序流动，推进数据要素市场化配置改革，推动公共数据与社会数据深度融合利用，提升公共数据资源配置效率。"
-      },
-      {
-        "paragraphId": 8279367,
-        "groupId": 40000,
-        "status": "Effective",
-        "content": "<p>自然人、法人或者非法人组织利用依法获取的公共数据加工形成的数据产品和服务受法律保护，但不得危害国家安全和公共利益，不得损害他人的合法权益。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "自然人法人或者非法人组织利用依法获取公共数据加工形成数据产品服务受法律保护，但不得危害国家安全公共利益，不得损害他人合法权益。",
-        "completeContent": "自然人、法人或者非法人组织利用依法获取的公共数据加工形成的数据产品和服务受法律保护，但不得危害国家安全和公共利益，不得损害他人的合法权益。"
-      },
-      {
-        "paragraphId": 8279368,
-        "groupId": 41000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十五条</strong> 县级以上人民政府可以授权符合规定安全条件的法人或者非法人组织运营公共数据，并与授权运营单位签订授权运营协议。禁止开放的公共数据不得授权运营。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十五条县级以上人民政府可以授权符合规定安全条件法人或者非法人组织运营公共数据，并授权运营单位签订授权运营协议。禁止开放公共数据不得授权运营。",
-        "completeContent": "第三十五条 县级以上人民政府可以授权符合规定安全条件的法人或者非法人组织运营公共数据，并与授权运营单位签订授权运营协议。禁止开放的公共数据不得授权运营。"
-      },
-      {
-        "paragraphId": 8279369,
-        "groupId": 41000,
-        "status": "Effective",
-        "content": "<p>授权运营单位应当依托公共数据平台对授权运营的公共数据进行加工；对加工形成的数据产品和服务，可以向用户提供并获取合理收益。授权运营单位不得向第三方提供授权运营的原始公共数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "授权运营单位应当依托公共数据平台对授权运营公共数据进行加工；对加工形成数据产品服务，可以向用户提供并获取合理收益。授权运营单位不得向第三方提供授权运营原始公共数据。",
-        "completeContent": "授权运营单位应当依托公共数据平台对授权运营的公共数据进行加工；对加工形成的数据产品和服务，可以向用户提供并获取合理收益。授权运营单位不得向第三方提供授权运营的原始公共数据。"
-      },
-      {
-        "paragraphId": 8279370,
-        "groupId": 41000,
-        "status": "Effective",
-        "content": "<p>授权运营协议应当明确授权运营范围、运营期限、合理收益的测算方法、数据安全要求、期限届满后资产处置等内容。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "授权运营协议应当明确授权运营范围运营期限合理收益测算方法数据安全要求期限届满后资产处置等内容。",
-        "completeContent": "授权运营协议应当明确授权运营范围、运营期限、合理收益的测算方法、数据安全要求、期限届满后资产处置等内容。"
-      },
-      {
-        "paragraphId": 8279371,
-        "groupId": 41000,
-        "status": "Effective",
-        "content": "<p>省公共数据主管部门应当会同省网信、公安、国家安全、财政等部门制定公共数据授权运营具体办法，明确授权方式、授权运营单位的安全条件和运营行为规范等内容，报省人民政府批准后实施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "省公共数据主管部门应当会同省网信公安国家安全财政等部门制定公共数据授权运营具体办法，明确授权方式授权运营单位安全条件运营行为规范等内容，报省人民政府批准后实施。",
-        "completeContent": "省公共数据主管部门应当会同省网信、公安、国家安全、财政等部门制定公共数据授权运营具体办法，明确授权方式、授权运营单位的安全条件和运营行为规范等内容，报省人民政府批准后实施。"
-      },
-      {
-        "paragraphId": 8279372,
-        "groupId": 42000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十六条</strong> 县级以上人民政府及其有关部门应当通过产业政策引导、资金扶持、引入社会资本等方式，拓展公共数据开发利用场景。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十六条县级以上人民政府其有关部门应当通过产业政策引导资金扶持引入社会资本等方式，拓展公共数据开发利用场景。",
-        "completeContent": "第三十六条 县级以上人民政府及其有关部门应当通过产业政策引导、资金扶持、引入社会资本等方式，拓展公共数据开发利用场景。"
-      },
-      {
-        "paragraphId": 8279373,
-        "groupId": 42000,
-        "status": "Effective",
-        "content": "<p>县级以上人民政府及其有关部门可以通过政府购买服务、协议合作等方式，支持利用公共数据创新产品、技术和服务，提升公共数据产业化水平。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "县级以上人民政府其有关部门可以通过政府购买服务协议合作等方式，支持利用公共数据创新产品技术服务，提升公共数据产业化水平。",
-        "completeContent": "县级以上人民政府及其有关部门可以通过政府购买服务、协议合作等方式，支持利用公共数据创新产品、技术和服务，提升公共数据产业化水平。"
-      },
-      {
-        "paragraphId": 8279374,
-        "groupId": 42000,
-        "status": "Effective",
-        "content": "<p>公共数据主管部门可以通过应用创新大赛、补助奖励、合作开发等方式，鼓励利用公共数据开展科学研究、产品开发、数据加工等活动。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据主管部门可以通过应用创新大赛补助奖励合作开发等方式，鼓励利用公共数据开展科学研究产品开发数据加工等活动。",
-        "completeContent": "公共数据主管部门可以通过应用创新大赛、补助奖励、合作开发等方式，鼓励利用公共数据开展科学研究、产品开发、数据加工等活动。"
-      },
-      {
-        "paragraphId": 8279375,
-        "groupId": 43000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第六章</strong> 公共数据安全</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第六章公共数据安全",
-        "completeContent": "第六章 公共数据安全"
-      },
-      {
-        "paragraphId": 8279376,
-        "groupId": 44000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十七条</strong> 公共数据安全管理应当坚持统筹协调、分类分级、权责统一、预防为主、防治结合的原则，加强公共数据全生命周期安全和合法利用管理，防止数据被非法获取、篡改、泄露、损毁或者不当利用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十七条公共数据安全管理应当坚持统筹协调分类分级权责统一预防为主防治结合原则，加强公共数据全生命周期安全合法利用管理，防止数据被非法获取篡改泄露损毁或者不当利用。",
-        "completeContent": "第三十七条 公共数据安全管理应当坚持统筹协调、分类分级、权责统一、预防为主、防治结合的原则，加强公共数据全生命周期安全和合法利用管理，防止数据被非法获取、篡改、泄露、损毁或者不当利用。"
-      },
-      {
-        "paragraphId": 8279377,
-        "groupId": 45000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十八条</strong> 公共数据、网信、公安、国家安全、密码等部门应当按照各自职责，对下级公共数据主管部门、本级公共管理和服务机构的公共数据安全承担监督管理责任。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十八条公共数据网信公安国家安全密码等部门应当按照各自职责，对下级公共数据主管部门本级公共管理服务机构公共数据安全承担监督管理责任。",
-        "completeContent": "第三十八条 公共数据、网信、公安、国家安全、密码等部门应当按照各自职责，对下级公共数据主管部门、本级公共管理和服务机构的公共数据安全承担监督管理责任。"
-      },
-      {
-        "paragraphId": 8279378,
-        "groupId": 45000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构在公共数据、网信、公安、国家安全、密码等部门指导下，开展本系统、本领域公共数据安全保护工作。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构在公共数据网信公安国家安全密码等部门指导下，开展本系统本领域公共数据安全保护工作。",
-        "completeContent": "公共管理和服务机构在公共数据、网信、公安、国家安全、密码等部门指导下，开展本系统、本领域公共数据安全保护工作。"
-      },
-      {
-        "paragraphId": 8279379,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十九条</strong> 公共数据安全实行谁收集谁负责、谁使用谁负责、谁运行谁负责的责任制。公共数据主管部门、公共管理和服务机构的主要负责人是本单位数据安全工作的第一责任人。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十九条公共数据安全实行谁收集谁负责谁使用谁负责谁运行谁负责责任制。公共数据主管部门公共管理服务机构主要负责人是本单位数据安全工作第一责任人。",
-        "completeContent": "第三十九条 公共数据安全实行谁收集谁负责、谁使用谁负责、谁运行谁负责的责任制。公共数据主管部门、公共管理和服务机构的主要负责人是本单位数据安全工作的第一责任人。"
-      },
-      {
-        "paragraphId": 8279380,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>公共数据主管部门、公共管理和服务机构应当强化和落实数据安全主体责任，建立数据安全常态化运行管理机制，具体履行下列职责：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共数据主管部门公共管理服务机构应当强化落实数据安全主体责任，建立数据安全常态化运行管理机制，具体履行下列职责：",
-        "completeContent": "公共数据主管部门、公共管理和服务机构应当强化和落实数据安全主体责任，建立数据安全常态化运行管理机制，具体履行下列职责："
-      },
-      {
-        "paragraphId": 8279381,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（一）落实网络安全等级保护制度，建立健全本单位数据安全管理制度、技术规范和操作规程；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一落实网络安全等级保护制度，建立健全本单位数据安全管理制度技术规范操作规程；",
-        "completeContent": "（一）落实网络安全等级保护制度，建立健全本单位数据安全管理制度、技术规范和操作规程；"
-      },
-      {
-        "paragraphId": 8279382,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（二）设置数据安全管理岗位，实行管理岗位责任制，配备安全管理人员和专业技术人员；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二设置数据安全管理岗位，实行管理岗位责任制，配备安全管理人员专业技术人员；",
-        "completeContent": "（二）设置数据安全管理岗位，实行管理岗位责任制，配备安全管理人员和专业技术人员；"
-      },
-      {
-        "paragraphId": 8279383,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（三）定期组织相关人员进行数据安全教育、技术培训；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三定期组织相关人员进行数据安全教育技术培训；",
-        "completeContent": "（三）定期组织相关人员进行数据安全教育、技术培训；"
-      },
-      {
-        "paragraphId": 8279384,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（四）加强数据安全日常管理和检查，对复制、导出、脱敏、销毁数据等可能影响数据安全的行为，以及可能影响个人信息保护的行为进行监督；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四加强数据安全日常管理检查，对复制导出脱敏销毁数据等可能影响数据安全行为，以可能影响个人信息保护行为进行监督；",
-        "completeContent": "（四）加强数据安全日常管理和检查，对复制、导出、脱敏、销毁数据等可能影响数据安全的行为，以及可能影响个人信息保护的行为进行监督；"
-      },
-      {
-        "paragraphId": 8279385,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（五）加强平台（系统）压力测试和风险监测，发现数据安全缺陷、漏洞等风险时立即采取补救措施；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "五加强平台系统压力测试风险监测，发现数据安全缺陷漏洞等风险时立即采取补救措施；",
-        "completeContent": "（五）加强平台（系统）压力测试和风险监测，发现数据安全缺陷、漏洞等风险时立即采取补救措施；"
-      },
-      {
-        "paragraphId": 8279386,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（六）制定数据安全事件应急预案，并定期进行演练；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "六制定数据安全事件应急预案，并定期进行演练；",
-        "completeContent": "（六）制定数据安全事件应急预案，并定期进行演练；"
-      },
-      {
-        "paragraphId": 8279387,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p>（七）法律、法规、规章规定的其他职责。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "七法律法规规章规定其他职责。",
-        "completeContent": "（七）法律、法规、规章规定的其他职责。"
-      },
-      {
-        "paragraphId": 8279388,
-        "groupId": 47000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十条</strong> 公共数据主管部门应当会同网信、公安、国家安全、密码等部门建立健全公共数据分类分级、安全审查、风险评估、监测预警、应急演练、安全审计、封存销毁等制度，并督促指导公共管理和服务机构实施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十条公共数据主管部门应当会同网信公安国家安全密码等部门建立健全公共数据分类分级安全审查风险评估监测预警应急演练安全审计封存销毁等制度，并督促指导公共管理服务机构实施。",
-        "completeContent": "第四十条 公共数据主管部门应当会同网信、公安、国家安全、密码等部门建立健全公共数据分类分级、安全审查、风险评估、监测预警、应急演练、安全审计、封存销毁等制度，并督促指导公共管理和服务机构实施。"
-      },
-      {
-        "paragraphId": 8279389,
-        "groupId": 48000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十一条</strong> 公共数据主管部门、公共管理和服务机构应当结合公共数据具体应用场景，按照分类分级保护要求，建立健全公共数据安全防护技术标准和规范，采取身份认证、访问控制、数据加密、数据脱敏、数据溯源、数据备份、隐私计算等技术措施，提高数据安全保障能力。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十一条公共数据主管部门公共管理服务机构应当结合公共数据具体应用场景，按照分类分级保护要求，建立健全公共数据安全防护技术标准规范，采取身份认证访问控制数据加密数据脱敏数据溯源数据备份隐私计算等技术措施，提高数据安全保障能力。",
-        "completeContent": "第四十一条 公共数据主管部门、公共管理和服务机构应当结合公共数据具体应用场景，按照分类分级保护要求，建立健全公共数据安全防护技术标准和规范，采取身份认证、访问控制、数据加密、数据脱敏、数据溯源、数据备份、隐私计算等技术措施，提高数据安全保障能力。"
-      },
-      {
-        "paragraphId": 8279390,
-        "groupId": 49000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十二条</strong> 公共数据主管部门、公共管理和服务机构在处理公共数据过程中，因数据汇聚、关联分析等原因，可能产生涉密、敏感数据的，应当进行安全评估，并根据评估意见采取相应的安全措施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十二条公共数据主管部门公共管理服务机构在处理公共数据过程中，因数据汇聚关联分析等原因，可能产生涉密敏感数据，应当进行安全评估，并根据评估采取相应安全措施。",
-        "completeContent": "第四十二条 公共数据主管部门、公共管理和服务机构在处理公共数据过程中，因数据汇聚、关联分析等原因，可能产生涉密、敏感数据的，应当进行安全评估，并根据评估意见采取相应的安全措施。"
-      },
-      {
-        "paragraphId": 8279391,
-        "groupId": 50000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十三条</strong> 公共数据主管部门、公共管理和服务机构依法委托第三方服务机构开展平台（系统）建设以及运行维护的，应当按照国家和省有关规定对服务提供方进行安全审查；经安全审查符合条件的，签订服务外包协议时应当同时签订服务安全保护及保密协议，约定违约责任，并监督服务提供方履行数据安全保护义务。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十三条公共数据主管部门公共管理服务机构依法委托第三方服务机构开展平台系统建设以运行维护，应当按照国家省有关规定对服务提供方进行安全审查；经安全审查符合条件，签订服务外包协议时应当同时签订服务安全保护保密协议，约定违约责任，并监督服务提供方履行数据安全保护义务。",
-        "completeContent": "第四十三条 公共数据主管部门、公共管理和服务机构依法委托第三方服务机构开展平台（系统）建设以及运行维护的，应当按照国家和省有关规定对服务提供方进行安全审查；经安全审查符合条件的，签订服务外包协议时应当同时签订服务安全保护及保密协议，约定违约责任，并监督服务提供方履行数据安全保护义务。"
-      },
-      {
-        "paragraphId": 8279392,
-        "groupId": 50000,
-        "status": "Effective",
-        "content": "<p>服务外包协议不生效、无效、被撤销或者终止的，公共数据主管部门、公共管理和服务机构应当撤销账号或者重置密码，并监督服务提供方以数据覆写、物理销毁等不可逆方式删除相关数据。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "服务外包协议不生效无效被撤销或者终止，公共数据主管部门公共管理服务机构应当撤销账号或者重置密码，并监督服务提供方以数据覆写物理销毁等不可逆方式删除相关数据。",
-        "completeContent": "服务外包协议不生效、无效、被撤销或者终止的，公共数据主管部门、公共管理和服务机构应当撤销账号或者重置密码，并监督服务提供方以数据覆写、物理销毁等不可逆方式删除相关数据。"
-      },
-      {
-        "paragraphId": 8279393,
-        "groupId": 51000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十四条</strong> 自然人、法人或者非法人组织认为开放的公共数据侵犯其合法权益的，有权向公共管理和服务机构提出撤回数据的要求。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十四条自然人法人或者非法人组织认为开放公共数据侵犯其合法权益，有权向公共管理服务机构提出撤回数据要求。",
-        "completeContent": "第四十四条 自然人、法人或者非法人组织认为开放的公共数据侵犯其合法权益的，有权向公共管理和服务机构提出撤回数据的要求。"
-      },
-      {
-        "paragraphId": 8279394,
-        "groupId": 51000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构收到撤回数据要求后，应当立即进行核实，必要时立即中止开放；经核实存在前款规定问题的，应当根据不同情形采取撤回数据或者处理后再开放等措施，并将有关处理结果及时告知当事人。当事人对处理结果有异议的，可以向公共数据主管部门申请复核。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构收到撤回数据要求后，应当立即进行核实，必要时立即中止开放；经核实存在前款规定问题，应当根据不同情形采取撤回数据或者处理后再开放等措施，并将有关处理结果时告知当事人。当事人对处理结果有异议，可以向公共数据主管部门申请复核。",
-        "completeContent": "公共管理和服务机构收到撤回数据要求后，应当立即进行核实，必要时立即中止开放；经核实存在前款规定问题的，应当根据不同情形采取撤回数据或者处理后再开放等措施，并将有关处理结果及时告知当事人。当事人对处理结果有异议的，可以向公共数据主管部门申请复核。"
-      },
-      {
-        "paragraphId": 8279395,
-        "groupId": 51000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构在日常监督管理过程中发现开放的公共数据存在安全风险的，应当立即中止开放，并在消除安全风险后开放。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构在日常监督管理过程中发现开放公共数据存在安全风险，应当立即中止开放，并在消除安全风险后开放。",
-        "completeContent": "公共管理和服务机构在日常监督管理过程中发现开放的公共数据存在安全风险的，应当立即中止开放，并在消除安全风险后开放。"
-      },
-      {
-        "paragraphId": 8279396,
-        "groupId": 52000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十五条</strong> 公共数据主管部门、公共管理和服务机构可以组织有关单位、专家或者委托第三方专业机构，对公共数据共享、开放和安全保障等工作开展评估，提升公共数据管理水平。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十五条公共数据主管部门公共管理服务机构可以组织有关单位专家或者委托第三方专业机构，对公共数据共享开放安全保障等工作开展评估，提升公共数据管理水平。",
-        "completeContent": "第四十五条 公共数据主管部门、公共管理和服务机构可以组织有关单位、专家或者委托第三方专业机构，对公共数据共享、开放和安全保障等工作开展评估，提升公共数据管理水平。"
-      },
-      {
-        "paragraphId": 8279397,
-        "groupId": 53000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第七章</strong> 法律责任</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第七章法律责任",
-        "completeContent": "第七章 法律责任"
-      },
-      {
-        "paragraphId": 8279398,
-        "groupId": 54000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十六条</strong> 违反本条例规定的行为，法律、行政法规已有法律责任规定的，从其规定。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十六条违反本条例规定行为，法律行政法规已有法律责任规定，从其规定。",
-        "completeContent": "第四十六条 违反本条例规定的行为，法律、行政法规已有法律责任规定的，从其规定。"
-      },
-      {
-        "paragraphId": 8279399,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十七条</strong> 公共管理和服务机构有下列情形之一的，由公共数据主管部门按照管理权限责令限期整改：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十七条公共管理服务机构有下列情形之一，由公共数据主管部门按照管理权限责令限期整改：",
-        "completeContent": "第四十七条 公共管理和服务机构有下列情形之一的，由公共数据主管部门按照管理权限责令限期整改："
-      },
-      {
-        "paragraphId": 8279400,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（一）未按照规定编制或者更新公共数据子目录的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一未按照规定编制或者更新公共数据子目录；",
-        "completeContent": "（一）未按照规定编制或者更新公共数据子目录的；"
-      },
-      {
-        "paragraphId": 8279401,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（二）违反规定新建业务专网或者新建、扩建、改建独立数据平台的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二违反规定新建业务专网或者新建扩建改建独立数据平台；",
-        "completeContent": "（二）违反规定新建业务专网或者新建、扩建、改建独立数据平台的；"
-      },
-      {
-        "paragraphId": 8279402,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（三）违反规定在公共数据平台外开发、升级改造应用系统的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三违反规定在公共数据平台外开发升级改造应用系统；",
-        "completeContent": "（三）违反规定在公共数据平台外开发、升级改造应用系统的；"
-      },
-      {
-        "paragraphId": 8279403,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（四）违反规定重复收集数据的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四违反规定重复收集数据；",
-        "completeContent": "（四）违反规定重复收集数据的；"
-      },
-      {
-        "paragraphId": 8279404,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（五）未及时向公共数据平台归集数据或者归集的数据不符合标准要求的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "五未时向公共数据平台归集数据或者归集数据不符合标准要求；",
-        "completeContent": "（五）未及时向公共数据平台归集数据或者归集的数据不符合标准要求的；"
-      },
-      {
-        "paragraphId": 8279405,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（六）未按照规定校核、封存、撤回公共数据或者关停数据应用的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "六未按照规定校核封存撤回公共数据或者关停数据应用；",
-        "completeContent": "（六）未按照规定校核、封存、撤回公共数据或者关停数据应用的；"
-      },
-      {
-        "paragraphId": 8279406,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（七）未按照规定共享或者开放公共数据的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "七未按照规定共享或者开放公共数据；",
-        "completeContent": "（七）未按照规定共享或者开放公共数据的；"
-      },
-      {
-        "paragraphId": 8279407,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（八）违反规定将共享获取的公共数据用于其他目的的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "八违反规定将共享获取公共数据用于其他目；",
-        "completeContent": "（八）违反规定将共享获取的公共数据用于其他目的的；"
-      },
-      {
-        "paragraphId": 8279408,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（九）未依法履行公共数据安全管理职责的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "九未依法履行公共数据安全管理职责；",
-        "completeContent": "（九）未依法履行公共数据安全管理职责的；"
-      },
-      {
-        "paragraphId": 8279409,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>（十）违反本条例规定的其他情形。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "十违反本条例规定其他情形。",
-        "completeContent": "（十）违反本条例规定的其他情形。"
-      },
-      {
-        "paragraphId": 8279410,
-        "groupId": 55000,
-        "status": "Effective",
-        "content": "<p>公共管理和服务机构应当在规定期限内完成整改，并反馈整改情况；未按照要求整改的，由公共数据主管部门提请本级人民政府予以通报批评；情节严重的，由有权机关对负有责任的领导人员和直接责任人员依法给予处理。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "公共管理服务机构应当在规定期限内完成整改，并反馈整改情况；未按照要求整改，由公共数据主管部门提请本级人民政府予以通报批评；情节严重，由有权机关对负有责任领导人员直接责任人员依法给予处理。",
-        "completeContent": "公共管理和服务机构应当在规定期限内完成整改，并反馈整改情况；未按照要求整改的，由公共数据主管部门提请本级人民政府予以通报批评；情节严重的，由有权机关对负有责任的领导人员和直接责任人员依法给予处理。"
-      },
-      {
-        "paragraphId": 8279411,
-        "groupId": 56000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十八条</strong> 公共数据主管部门及其工作人员在公共数据发展和管理工作中，不履行或者不正确履行本条例规定的职责，造成危害后果或者不良影响的，或者存在其他玩忽职守、滥用职权、徇私舞弊行为的，由有权机关对负有责任的领导人员和直接责任人员依法给予处理。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十八条公共数据主管部门其工作人员在公共数据发展管理工作中，不履行或者不正确履行本条例规定职责，造成危害后果或者不良影响，或者存在其他玩忽职守滥用职权徇私舞弊行为，由有权机关对负有责任领导人员直接责任人员依法给予处理。",
-        "completeContent": "第四十八条 公共数据主管部门及其工作人员在公共数据发展和管理工作中，不履行或者不正确履行本条例规定的职责，造成危害后果或者不良影响的，或者存在其他玩忽职守、滥用职权、徇私舞弊行为的，由有权机关对负有责任的领导人员和直接责任人员依法给予处理。"
-      },
-      {
-        "paragraphId": 8279412,
-        "groupId": 57000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十九条</strong> 自然人、法人或者非法人组织有下列情形之一的，公共管理和服务机构、公共数据主管部门应当按照职责责令改正，并暂时关闭其获取相关公共数据的权限；未按照要求改正的，对其终止开放相关公共数据：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十九条自然人法人或者非法人组织有下列情形之一，公共管理服务机构公共数据主管部门应当按照职责责令改正，并暂时关闭其获取相关公共数据权限；未按照要求改正，对其终止开放相关公共数据：",
-        "completeContent": "第四十九条 自然人、法人或者非法人组织有下列情形之一的，公共管理和服务机构、公共数据主管部门应当按照职责责令改正，并暂时关闭其获取相关公共数据的权限；未按照要求改正的，对其终止开放相关公共数据："
-      },
-      {
-        "paragraphId": 8279413,
-        "groupId": 57000,
-        "status": "Effective",
-        "content": "<p>（一）未经同意超出公共数据开放利用协议约定的范围使用数据的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一未经同意超出公共数据开放利用协议约定范围使用数据；",
-        "completeContent": "（一）未经同意超出公共数据开放利用协议约定的范围使用数据的；"
-      },
-      {
-        "paragraphId": 8279414,
-        "groupId": 57000,
-        "status": "Effective",
-        "content": "<p>（二）未按照公共数据开放利用协议和安全承诺书采取安全保障措施的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二未按照公共数据开放利用协议安全承诺书采取安全保障措施；",
-        "completeContent": "（二）未按照公共数据开放利用协议和安全承诺书采取安全保障措施的；"
-      },
-      {
-        "paragraphId": 8279415,
-        "groupId": 57000,
-        "status": "Effective",
-        "content": "<p>（三）严重违反公共数据平台安全管理规范的；</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三严重违反公共数据平台安全管理规范；",
-        "completeContent": "（三）严重违反公共数据平台安全管理规范的；"
-      },
-      {
-        "paragraphId": 8279416,
-        "groupId": 57000,
-        "status": "Effective",
-        "content": "<p>（四）其他严重违反公共数据开放利用协议的情形。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四其他严重违反公共数据开放利用协议情形。",
-        "completeContent": "（四）其他严重违反公共数据开放利用协议的情形。"
-      },
-      {
-        "paragraphId": 8279417,
-        "groupId": 58000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第五十条</strong> 自然人、法人或者非法人组织违反公共数据开放利用协议，第三方服务机构违反服务安全保护协议或者保密协议，授权运营单位违反授权运营协议，属于违反网络安全、数据安全、个人信息保护有关法律、法规规定的，由网信、公安等部门按照职责依法予以查处，相关不良信息依法记入其信用档案。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第五十条自然人法人或者非法人组织违反公共数据开放利用协议，第三方服务机构违反服务安全保护协议或者保密协议，授权运营单位违反授权运营协议，属于违反网络安全数据安全个人信息保护有关法律法规规定，由网信公安等部门按照职责依法予以查处，相关不良信息依法记入其信用档案。",
-        "completeContent": "第五十条 自然人、法人或者非法人组织违反公共数据开放利用协议，第三方服务机构违反服务安全保护协议或者保密协议，授权运营单位违反授权运营协议，属于违反网络安全、数据安全、个人信息保护有关法律、法规规定的，由网信、公安等部门按照职责依法予以查处，相关不良信息依法记入其信用档案。"
-      },
-      {
-        "paragraphId": 8279418,
-        "groupId": 59000,
-        "status": "Effective",
-        "content": "<p style=\"text-align:center;font-weight:bold;\"><strong class=\"prominent\">第八章</strong> 附则</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第八章附则",
-        "completeContent": "第八章 附则"
-      },
-      {
-        "paragraphId": 8279419,
-        "groupId": 60000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第五十一条</strong> 本条例自2022年3月1日起施行。浙江省人民政府发布的《浙江省公共数据和电子政务管理办法》同时废止。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第五十一条本条例自2022年3月1日起施行。浙江省人民政府浙江省公共数据电子政务管理办法同时废止。",
-        "completeContent": "第五十一条 本条例自2022年3月1日起施行。浙江省人民政府发布的《浙江省公共数据和电子政务管理办法》同时废止。"
-      }
-    ],
-    "organizations": [
-      {
-        "organizationId": 3643,
-        "organizationName": "浙江省人民代表大会"
-      }
-    ],
-    "hierarchyList": [
-      {
-        "id": 1,
-        "name": "法律法规",
-        "sort": 3
-      }
-    ]
-  }
-}
+# 浙江省公共数据条例
+
+发布时间: 2022-01-21 00:00:00
+
+（2022年1月21日浙江省第十三届人民代表大会第六次会议通过）
+
+第一章 总则
+
+第一条 为了加强公共数据管理，促进公共数据应用创新，保护自然人、法人和非法人组织合法权益，保障数字化改革，深化数字浙江建设，推进省域治理体系和治理能力现代化，根据有关法律、行政法规，结合本省实际，制定本条例。
+
+第二条 本省行政区域内公共数据收集、归集、存储、加工、传输、共享、开放、利用等数据处理活动，以及公共数据安全等管理活动，适用本条例。
+
+涉及国家秘密的公共数据及相关处理活动，不纳入本条例管理，按照有关法律、法规的规定执行。
+
+第三条 本条例所称公共数据，是指本省国家机关、法律法规规章授权的具有管理公共事务职能的组织以及供水、供电、供气、公共交通等公共服务运营单位（以下统称公共管理和服务机构），在依法履行职责或者提供公共服务过程中收集、产生的数据。
+
+根据本省应用需求，税务、海关、金融监督管理等国家有关部门派驻浙江管理机构提供的数据，属于本条例所称公共数据。
+
+第四条 公共数据发展和管理工作坚持中国共产党的领导，遵循统筹规划、依法有序、分类分级、安全可控的原则。
+
+第五条 县级以上人民政府应当将公共数据发展和管理工作纳入国民经济和社会发展规划以及数字政府建设等相关专项规划，建立健全工作协调机制，完善政策措施，保障公共数据发展和管理工作所需经费。
+
+县级以上人民政府应当建立健全公共数据发展和管理工作考核评价机制，将公共数据发展和管理工作作为年度政府目标责任制考核的重要内容。
+
+第六条 县级以上人民政府大数据发展主管部门或者设区的市、县（市、区）人民政府确定的负责大数据发展工作的部门（以下简称公共数据主管部门），负责本行政区域内公共数据发展和管理工作，指导、协调、督促其他有关部门按照各自职责做好公共数据处理和安全管理相关工作。
+
+公共管理和服务机构负责本部门、本系统、本领域公共数据处理和安全管理工作。
+
+网信、公安、国家安全、保密、密码等部门按照各自职责，做好公共数据安全的监督管理工作。
+
+第七条 公共数据主管部门应当会同有关部门建立健全监督检查工作机制，加强对公共数据平台建设、数据标准实施、数据质量、数据共享开放、数据安全保障等情况的监督检查，并督促落实。
+
+第八条 县级以上人民政府应当按照长江三角洲区域一体化发展国家战略要求，加强公共数据发展和管理工作跨省域合作，推动公共数据标准统一，促进公共数据共享利用，发挥公共数据在区域一体化协同治理和跨区域协同发展中的驱动作用。
+
+第二章 公共数据平台
+
+第九条 省公共数据主管部门应当会同省有关部门，统筹规划和建设以基础设施、数据资源、应用支撑、业务应用体系为主体，以政策制度、标准规范、组织保障、网络安全体系为支撑的一体化智能化公共数据平台（以下简称公共数据平台），促进省域整体智治、高效协同。
+
+设区的市公共数据主管部门应当会同同级有关部门，按照省有关标准和指导规范的要求建设本级公共数据平台。县（市、区）应当按照互联互通、共建共享原则，依托设区的市公共数据平台建设本级公共数据平台；确有必要的，可以单独建设。
+
+省、设区的市公共数据平台应当按照地方实际需要，及时向下级公共数据平台返回数据。
+
+第十条 公共数据主管部门应当依托公共数据平台建立统一的数据共享、开放通道。公共管理和服务机构应当通过统一的共享、开放通道共享、开放公共数据。
+
+公共管理和服务机构不得新建公共数据共享、开放通道；已建共享、开放通道的，应当并入统一的共享、开放通道。
+
+第十一条 省公共数据主管部门应当统筹建设全省一体化数字资源系统，推动全省公共数据、应用、组件、算力等数字资源集约管理，促进数字资源高效配置供给，实现公共数据跨层级、跨地域、跨系统、跨部门、跨业务有序流通和共享。
+
+第十二条 县级以上人民政府应当建立使用财政资金的数字化项目管理机制，加强对数字化项目的统筹、整合和共享管理，避免重复建设。
+
+使用本省财政资金的数字化项目有下列情形之一的，不予立项、审查验收或者不予安排运行和维护经费：
+
+（一）未经县级以上人民政府指定的部门同意，新建业务专网或者新建、扩建、改建独立数据平台的；
+
+（二）未经县级以上人民政府指定的部门同意，在公共数据平台外开发、升级改造应用系统的；
+
+（三）未按照规定纳入一体化数字资源系统管理的；
+
+（四）未按照要求共享、开放数据或者重复收集数据的；
+
+（五）不符合密码应用和安全管理要求的。
+
+第十三条 公共数据实行目录化管理。省公共数据主管部门应当统筹推进省、设区的市、县（市、区）三级公共数据目录一体化建设，制定统一的目录编制标准，组织编制全省公共数据目录。
+
+设区的市、县（市、区）公共数据主管部门应当按照统一标准，组织编制本级公共数据子目录，并报上一级公共数据主管部门审核。
+
+公共管理和服务机构应当按照统一标准，编制本部门公共数据子目录，并报同级公共数据主管部门审核。
+
+第十四条 省公共数据主管部门应当会同省标准化主管部门和其他有关部门，推进本省公共数据标准体系建设，制定省、设区的市、县（市、区）公共数据平台建设标准以及公共数据处理和安全管理等标准，推动公共数据国家标准、行业标准和地方标准有效实施。
+
+第三章 公共数据收集与归集
+
+第十五条 公共管理和服务机构收集数据应当遵循合法、正当、必要的原则，按照法定权限、范围、程序和标准规范收集。
+
+可以通过共享获取数据的，公共管理和服务机构不得重复收集；共享数据无法满足履行职责需求的，公共管理和服务机构可以向公共数据主管部门提交数据需求清单，由公共数据主管部门与相关公共管理和服务机构协商解决。
+
+第十六条 公共管理和服务机构按照法定权限、范围、程序和标准规范收集单位、个人数据的，有关单位、个人应当予以配合。
+
+收集公共数据应当遵守网络安全、数据安全、个人信息保护等法律、法规以及国家标准的强制性要求。
+
+第十七条 收集公共数据应当分别以下列号码或者代码作为必要标识：
+
+（一）公民身份号码或者个人其他有效身份证件号码；
+
+（二）法人统一社会信用代码；
+
+（三）非法人组织统一社会信用代码或者其他识别代码。
+
+公共管理和服务机构收集数据时，不得强制要求个人采用多种方式重复验证或者特定方式验证。已经通过有效身份证件验明身份的，不得强制通过收集指纹、虹膜、人脸等生物识别信息重复验证。法律、行政法规另有规定的除外。
+
+第十八条 省公共数据主管部门应当会同省有关部门在省公共数据平台建立和完善人口、法人、信用、电子证照、自然资源和空间地理等基础数据库，以及跨地域、跨部门专题数据库。省公共管理和服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到省公共数据平台基础数据库和专题数据库。
+
+设区的市、县（市、区）公共数据主管部门应当在本级公共数据平台建立和完善跨地域、跨部门专题数据库。公共管理和服务机构应当根据公共数据目录，按照应用需求将公共数据统一归集到本级公共数据平台专题数据库。
+
+第十九条 自然人、法人或者非法人组织对涉及自身的公共数据有异议或者发现公共数据不准确、不完整的，可以向公共管理和服务机构提出校核申请。公共管理和服务机构应当自收到校核申请之日起五个工作日内校核完毕；情况复杂的，经公共管理和服务机构负责人批准，可以延长至十个工作日。公共管理和服务机构应当将校核处理结果及时告知当事人。
+
+自然人、法人或者非法人组织对涉及自身的公共数据有异议或者发现公共数据不准确、不完整的，也可以向公共数据主管部门提出校核申请。公共数据主管部门应当自收到校核申请之日起两个工作日内转交相应公共管理和服务机构，并督促公共管理和服务机构在前款规定的期限内校核完毕。
+
+公共数据主管部门、公共管理和服务机构发现数据不准确、不完整或者不同的公共管理和服务机构收集、提供的数据不一致的，由公共数据主管部门通知数据收集、提供单位限期校核。数据收集、提供单位应当在期限内校核完毕。
+
+第二十条 公共数据主管部门、公共管理和服务机构应当建立健全数据全流程质量管控体系，加强数据质量事前、事中和事后的监督检查，及时更新已变更、失效数据，实现问题数据可追溯、可定责，保证数据的及时性、准确性、完整性。
+
+第二十一条 为了应对突发事件，公共管理和服务机构按照应对突发事件有关法律、法规规定，可以要求自然人、法人或者非法人组织提供应对突发事件所必需的数据，并根据实际需要，依法、及时共享和开放相关公共数据，为应对突发事件提供支持；收集的数据不得用于与应对突发事件无关的事项；对在履行职责中知悉的个人信息、商业秘密、保密商务信息等应当依法予以保密。
+
+突发事件应急处置工作结束后，公共管理和服务机构应当对获得的突发事件相关公共数据进行分类评估，将涉及个人信息、商业秘密、保密商务信息的公共数据采取封存等安全处理措施，并关停相关数据应用。
+
+第四章 公共数据共享
+
+第二十二条 本条例所称公共数据共享，是指公共管理和服务机构因履行法定职责或者提供公共服务需要，依法使用其他公共管理和服务机构的数据，或者向其他公共管理和服务机构提供数据的行为。
+
+公共数据应当以共享为原则、不共享为例外。
+
+第二十三条 公共数据按照共享属性分为无条件共享、受限共享和不共享数据。
+
+公共管理和服务机构应当按照国家和省有关规定对其收集、产生的公共数据进行评估，科学合理确定共享属性，并定期更新。列入受限共享数据的，应当说明理由并明确共享条件；列入不共享数据的，应当提供明确的法律、法规、规章或者国家有关规定依据。
+
+公共数据主管部门对同级公共管理和服务机构确定的公共数据共享属性有异议，经协商不能达成一致意见的，报本级人民政府决定。
+
+第二十四条 公共管理和服务机构需要通过共享获取数据的，应当向数据提供单位的同级公共数据主管部门提出申请，明确应用场景，通过统一的公共数据共享通道以接口调用、批量数据使用等方式获取数据。
+
+无法按照前款规定获取数据的，可以向公共数据主管部门提交数据需求清单，由公共数据主管部门与相关公共管理和服务机构协商解决。
+
+第二十五条 公共管理和服务机构申请使用无条件共享数据的，公共数据主管部门应当在两个工作日内予以共享。
+
+申请使用受限共享数据的，公共数据主管部门应当自收到申请之日起一个工作日内征求数据提供单位意见，数据提供单位应当在三个工作日内反馈意见。数据提供单位同意共享的，公共数据主管部门应当在两个工作日内予以共享。数据提供单位不同意共享的，应当说明理由，公共数据主管部门应当自收到反馈意见之日起两个工作日内完成审核，认为应当共享的，应当在两个工作日内予以共享，并告知数据提供单位；认为不应当共享的，应当立即告知提出申请的公共管理和服务机构。
+
+第二十六条 公共管理和服务机构通过共享获取的公共数据，应当用于本机构依法履行职责的需要，不得用于或者变相用于其他目的。
+
+第五章 公共数据开放与利用
+
+第二十七条 本条例所称公共数据开放，是指向自然人、法人或者非法人组织依法提供公共数据的公共服务行为。
+
+公共数据开放应当遵循依法、规范、公平、优质、便民的原则。公共数据按照开放属性分为无条件开放、受限开放和禁止开放数据。
+
+第二十八条 省公共数据主管部门根据国家和省有关公共数据分类分级要求，组织编制全省公共数据开放目录。设区的市公共数据主管部门可以组织编制本行政区域公共数据开放子目录。公共数据开放目录按照实际需要实行动态调整。
+
+公共数据开放目录应当标注数据名称、数据开放主体、数据开放属性、数据格式、数据类型、数据更新频率等内容。
+
+第二十九条 省、设区的市公共数据主管部门应当根据当地经济社会发展需要，会同同级公共管理和服务机构制定年度公共数据开放重点清单，优先开放与民生紧密相关、社会迫切需要、行业增值潜力显著和产业战略意义重大的公共数据。
+
+确定年度公共数据开放重点清单，应当听取相关行业组织、企业、专家和社会公众的意见。
+
+第三十条 公共数据有下列情形之一的，禁止开放：
+
+（一）开放后危及或者可能危及国家安全的；
+
+（二）开放后可能损害公共利益的；
+
+（三）涉及个人信息、商业秘密或者保密商务信息的；
+
+（四）数据获取协议约定不得开放的；
+
+（五）法律、法规规定不得开放的。
+
+前款第三项规定的公共数据有下列情形之一的，可以列入受限开放或者无条件开放数据：
+
+（一）涉及个人信息的公共数据经匿名化处理的；
+
+（二）涉及商业秘密、保密商务信息的公共数据经脱敏、脱密处理的；
+
+（三）涉及个人信息、商业秘密、保密商务信息的公共数据指向的特定自然人、法人或者非法人组织依法授权同意开放的。
+
+省公共数据主管部门应当会同省网信、公安、经济和信息化等部门制定公共数据脱敏、脱密等技术规范。
+
+第三十一条 公共管理和服务机构应当按照国家和省有关规定对其收集、产生的公共数据进行评估，科学合理确定开放属性，并定期更新。
+
+公共数据主管部门对同级公共管理和服务机构确定的公共数据开放属性有异议，经协商不能达成一致意见的，报本级人民政府决定。
+
+第三十二条 自然人、法人或者非法人组织需要获取无条件开放的公共数据的，可以通过统一的公共数据开放通道获取。
+
+第三十三条 自然人、法人或者非法人组织需要获取受限开放的公共数据的，应当具备相应的数据存储、处理和安全保护能力，并符合申请时信用档案中无因违反本条例规定记入的不良信息等要求，具体条件由省、设区的市公共管理和服务机构通过本级公共数据平台公布。
+
+自然人、法人或者非法人组织需要获取受限开放的公共数据的，应当通过统一的公共数据开放通道向公共数据主管部门提出申请。公共数据主管部门应当会同数据提供单位审核后确定是否同意开放。
+
+经审核同意开放公共数据的，申请人应当签署安全承诺书，并与数据提供单位签订开放利用协议。申请开放的公共数据涉及两个以上数据提供单位的，开放利用协议由公共数据主管部门与申请人签订。开放利用协议应当明确数据开放方式、使用范围、安全保障措施等内容。
+
+申请人应当按照开放利用协议约定的范围使用公共数据，并按照开放利用协议和安全承诺书采取安全保障措施。
+
+第三十四条 县级以上人民政府应当将公共数据作为促进经济社会发展的重要生产要素，促进公共数据有序流动，推进数据要素市场化配置改革，推动公共数据与社会数据深度融合利用，提升公共数据资源配置效率。
+
+自然人、法人或者非法人组织利用依法获取的公共数据加工形成的数据产品和服务受法律保护，但不得危害国家安全和公共利益，不得损害他人的合法权益。
+
+第三十五条 县级以上人民政府可以授权符合规定安全条件的法人或者非法人组织运营公共数据，并与授权运营单位签订授权运营协议。禁止开放的公共数据不得授权运营。
+
+授权运营单位应当依托公共数据平台对授权运营的公共数据进行加工；对加工形成的数据产品和服务，可以向用户提供并获取合理收益。授权运营单位不得向第三方提供授权运营的原始公共数据。
+
+授权运营协议应当明确授权运营范围、运营期限、合理收益的测算方法、数据安全要求、期限届满后资产处置等内容。
+
+省公共数据主管部门应当会同省网信、公安、国家安全、财政等部门制定公共数据授权运营具体办法，明确授权方式、授权运营单位的安全条件和运营行为规范等内容，报省人民政府批准后实施。
+
+第三十六条 县级以上人民政府及其有关部门应当通过产业政策引导、资金扶持、引入社会资本等方式，拓展公共数据开发利用场景。
+
+县级以上人民政府及其有关部门可以通过政府购买服务、协议合作等方式，支持利用公共数据创新产品、技术和服务，提升公共数据产业化水平。
+
+公共数据主管部门可以通过应用创新大赛、补助奖励、合作开发等方式，鼓励利用公共数据开展科学研究、产品开发、数据加工等活动。
+
+第六章 公共数据安全
+
+第三十七条 公共数据安全管理应当坚持统筹协调、分类分级、权责统一、预防为主、防治结合的原则，加强公共数据全生命周期安全和合法利用管理，防止数据被非法获取、篡改、泄露、损毁或者不当利用。
+
+第三十八条 公共数据、网信、公安、国家安全、密码等部门应当按照各自职责，对下级公共数据主管部门、本级公共管理和服务机构的公共数据安全承担监督管理责任。
+
+公共管理和服务机构在公共数据、网信、公安、国家安全、密码等部门指导下，开展本系统、本领域公共数据安全保护工作。
+
+第三十九条 公共数据安全实行谁收集谁负责、谁使用谁负责、谁运行谁负责的责任制。公共数据主管部门、公共管理和服务机构的主要负责人是本单位数据安全工作的第一责任人。
+
+公共数据主管部门、公共管理和服务机构应当强化和落实数据安全主体责任，建立数据安全常态化运行管理机制，具体履行下列职责：
+
+（一）落实网络安全等级保护制度，建立健全本单位数据安全管理制度、技术规范和操作规程；
+
+（二）设置数据安全管理岗位，实行管理岗位责任制，配备安全管理人员和专业技术人员；
+
+（三）定期组织相关人员进行数据安全教育、技术培训；
+
+（四）加强数据安全日常管理和检查，对复制、导出、脱敏、销毁数据等可能影响数据安全的行为，以及可能影响个人信息保护的行为进行监督；
+
+（五）加强平台（系统）压力测试和风险监测，发现数据安全缺陷、漏洞等风险时立即采取补救措施；
+
+（六）制定数据安全事件应急预案，并定期进行演练；
+
+（七）法律、法规、规章规定的其他职责。
+
+第四十条 公共数据主管部门应当会同网信、公安、国家安全、密码等部门建立健全公共数据分类分级、安全审查、风险评估、监测预警、应急演练、安全审计、封存销毁等制度，并督促指导公共管理和服务机构实施。
+
+第四十一条 公共数据主管部门、公共管理和服务机构应当结合公共数据具体应用场景，按照分类分级保护要求，建立健全公共数据安全防护技术标准和规范，采取身份认证、访问控制、数据加密、数据脱敏、数据溯源、数据备份、隐私计算等技术措施，提高数据安全保障能力。
+
+第四十二条 公共数据主管部门、公共管理和服务机构在处理公共数据过程中，因数据汇聚、关联分析等原因，可能产生涉密、敏感数据的，应当进行安全评估，并根据评估意见采取相应的安全措施。
+
+第四十三条 公共数据主管部门、公共管理和服务机构依法委托第三方服务机构开展平台（系统）建设以及运行维护的，应当按照国家和省有关规定对服务提供方进行安全审查；经安全审查符合条件的，签订服务外包协议时应当同时签订服务安全保护及保密协议，约定违约责任，并监督服务提供方履行数据安全保护义务。
+
+服务外包协议不生效、无效、被撤销或者终止的，公共数据主管部门、公共管理和服务机构应当撤销账号或者重置密码，并监督服务提供方以数据覆写、物理销毁等不可逆方式删除相关数据。
+
+第四十四条 自然人、法人或者非法人组织认为开放的公共数据侵犯其合法权益的，有权向公共管理和服务机构提出撤回数据的要求。
+
+公共管理和服务机构收到撤回数据要求后，应当立即进行核实，必要时立即中止开放；经核实存在前款规定问题的，应当根据不同情形采取撤回数据或者处理后再开放等措施，并将有关处理结果及时告知当事人。当事人对处理结果有异议的，可以向公共数据主管部门申请复核。
+
+公共管理和服务机构在日常监督管理过程中发现开放的公共数据存在安全风险的，应当立即中止开放，并在消除安全风险后开放。
+
+第四十五条 公共数据主管部门、公共管理和服务机构可以组织有关单位、专家或者委托第三方专业机构，对公共数据共享、开放和安全保障等工作开展评估，提升公共数据管理水平。
+
+第七章 法律责任
+
+第四十六条 违反本条例规定的行为，法律、行政法规已有法律责任规定的，从其规定。
+
+第四十七条 公共管理和服务机构有下列情形之一的，由公共数据主管部门按照管理权限责令限期整改：
+
+（一）未按照规定编制或者更新公共数据子目录的；
+
+（二）违反规定新建业务专网或者新建、扩建、改建独立数据平台的；
+
+（三）违反规定在公共数据平台外开发、升级改造应用系统的；
+
+（四）违反规定重复收集数据的；
+
+（五）未及时向公共数据平台归集数据或者归集的数据不符合标准要求的；
+
+（六）未按照规定校核、封存、撤回公共数据或者关停数据应用的；
+
+（七）未按照规定共享或者开放公共数据的；
+
+（八）违反规定将共享获取的公共数据用于其他目的的；
+
+（九）未依法履行公共数据安全管理职责的；
+
+（十）违反本条例规定的其他情形。
+
+公共管理和服务机构应当在规定期限内完成整改，并反馈整改情况；未按照要求整改的，由公共数据主管部门提请本级人民政府予以通报批评；情节严重的，由有权机关对负有责任的领导人员和直接责任人员依法给予处理。
+
+第四十八条 公共数据主管部门及其工作人员在公共数据发展和管理工作中，不履行或者不正确履行本条例规定的职责，造成危害后果或者不良影响的，或者存在其他玩忽职守、滥用职权、徇私舞弊行为的，由有权机关对负有责任的领导人员和直接责任人员依法给予处理。
+
+第四十九条 自然人、法人或者非法人组织有下列情形之一的，公共管理和服务机构、公共数据主管部门应当按照职责责令改正，并暂时关闭其获取相关公共数据的权限；未按照要求改正的，对其终止开放相关公共数据：
+
+（一）未经同意超出公共数据开放利用协议约定的范围使用数据的；
+
+（二）未按照公共数据开放利用协议和安全承诺书采取安全保障措施的；
+
+（三）严重违反公共数据平台安全管理规范的；
+
+（四）其他严重违反公共数据开放利用协议的情形。
+
+第五十条 自然人、法人或者非法人组织违反公共数据开放利用协议，第三方服务机构违反服务安全保护协议或者保密协议，授权运营单位违反授权运营协议，属于违反网络安全、数据安全、个人信息保护有关法律、法规规定的，由网信、公安等部门按照职责依法予以查处，相关不良信息依法记入其信用档案。
+
+第八章 附则
+
+第五十一条 本条例自2022年3月1日起施行。浙江省人民政府发布的《浙江省公共数据和电子政务管理办法》同时废止。
+

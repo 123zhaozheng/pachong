@@ -1,1254 +1,206 @@
-{
-  "code": 0,
-  "message": "success",
-  "data": {
-    "statuteId": "7fda2ac393b711ec84a67cd30ad32e32",
-    "title": "关于印发《人民法院在线运行规则》的通知",
-    "summary": "",
-    "referenceNo": "法发〔2022〕8号",
-    "applicableArea": 0,
-    "publishDate": "2022-01-26 00:00:00",
-    "effectiveDate": "2022-03-01 00:00:00",
-    "securityLevel": "General",
-    "status": "Effective",
-    "explainCount": 0,
-    "publishStatus": true,
-    "publishTime": "2022-02-22 16:14:47",
-    "hasStatuteRelation": false,
-    "publicDate": "2022-02-22 00:00:00",
-    "price": 40.0,
-    "stage": 1,
-    "hasOrder": false,
-    "limit": false,
-    "updateTime": "2022-03-01 00:00:00",
-    "dbsIpUserNotAllowRead": false,
-    "hasFocusRelationCasus": false,
-    "paragraphs": [
-      {
-        "paragraphId": 8394309,
-        "groupId": 250,
-        "status": "Effective",
-        "content": "<p>各省、自治区、直辖市高级人民法院，解放军军事法院，新疆维吾尔自治区高级人民法院生产建设兵团分院：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "各省自治区直辖市高级人民法院，解放军军事法院，新疆维吾尔自治区高级人民法院生产建设兵团分院：",
-        "completeContent": "各省、自治区、直辖市高级人民法院，解放军军事法院，新疆维吾尔自治区高级人民法院生产建设兵团分院："
-      },
-      {
-        "paragraphId": 8394310,
-        "groupId": 500,
-        "status": "Effective",
-        "content": "<p>《人民法院在线运行规则》已于2021年12月30日经最高人民法院审判委员会第1861次会议通过，现予以印发，自2022年3月1日起施行。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院在线运行规则已于2021年12月30日经最高人民法院审判委员会第1861次会议通过，现予以，自2022年3月1日起施行。",
-        "completeContent": "《人民法院在线运行规则》已于2021年12月30日经最高人民法院审判委员会第1861次会议通过，现予以印发，自2022年3月1日起施行。"
-      },
-      {
-        "paragraphId": 8394311,
-        "groupId": 750,
-        "status": "Effective",
-        "content": "<p>最高人民法院</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "最高人民法院",
-        "completeContent": "最高人民法院"
-      },
-      {
-        "paragraphId": 8394312,
-        "groupId": 1000,
-        "status": "Effective",
-        "content": "<p>2022年1月26日</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "2022年1月26日",
-        "completeContent": "2022年1月26日"
-      },
-      {
-        "paragraphId": 8394313,
-        "groupId": 1250,
-        "status": "Effective",
-        "content": "<p style=\"text-align: center;\"><strong>人民法院在线运行规则</strong></p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院在线运行规则",
-        "completeContent": "人民法院在线运行规则"
-      },
-      {
-        "paragraphId": 8394314,
-        "groupId": 1500,
-        "status": "Effective",
-        "content": "<p>为支持和推进在线诉讼、在线调解等司法活动，完善人民法院在线运行机制，方便当事人及其他参与人在线参与诉讼、调解等活动，提升审判执行工作质效，根据相关法律规定，结合智慧法院建设实际，制定本规则。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "为支持推进在线诉讼在线调解等司法活动，完善人民法院在线运行机制，方便当事人其他参人在线参诉讼调解等活动，提升审判执行工作质效，根据相关法律规定，结合智慧法院建设实际，制定本规则。",
-        "completeContent": "为支持和推进在线诉讼、在线调解等司法活动，完善人民法院在线运行机制，方便当事人及其他参与人在线参与诉讼、调解等活动，提升审判执行工作质效，根据相关法律规定，结合智慧法院建设实际，制定本规则。"
-      },
-      {
-        "paragraphId": 8394315,
-        "groupId": 1750,
-        "status": "Effective",
-        "content": "<p><strong>一、总则</strong></p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一总则",
-        "completeContent": "一、总则"
-      },
-      {
-        "paragraphId": 8394316,
-        "groupId": 2000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第一条</strong> 人民法院运用互联网、大数据、云计算、移动互联、人工智能和区块链等信息技术，完善智慧法院信息系统，规范应用方式，强化运行管理，以在线方式满足人民群众多元化司法需求，高效支持审判执行活动。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第一条人民法院运用互联网大数据云计算移动互联人工智能区块链等信息技术，完善智慧法院信息系统，规范应用方式，强化运行管理，以在线方式满足人民群众多元化司法需求，高效支持审判执行活动。",
-        "completeContent": "第一条 人民法院运用互联网、大数据、云计算、移动互联、人工智能和区块链等信息技术，完善智慧法院信息系统，规范应用方式，强化运行管理，以在线方式满足人民群众多元化司法需求，高效支持审判执行活动。"
-      },
-      {
-        "paragraphId": 8394317,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二条</strong> 人民法院在线运行遵循以下原则：</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二条人民法院在线运行遵循以下原则：",
-        "completeContent": "第二条 人民法院在线运行遵循以下原则："
-      },
-      {
-        "paragraphId": 8394318,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p>（一）高效便民。坚持以人民为中心，提供一网通办、一站通办、一号通办等多元解纷和诉讼服务，减轻当事人诉累。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "一高效便民。坚持以人民为中心，提供一网通办一站通办一号通办等多元解纷诉讼服务，减轻当事人诉累。",
-        "completeContent": "（一）高效便民。坚持以人民为中心，提供一网通办、一站通办、一号通办等多元解纷和诉讼服务，减轻当事人诉累。"
-      },
-      {
-        "paragraphId": 8394319,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p>（二）注重实效。坚持司法规律、体制改革与技术变革相融合，完善信息系统，规范应用方式，强化运行管理，全方位支持人民法院开展在线审判执行活动，保障司法工作，提高司法效率。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二注重实效。坚持司法规律体制改革技术变革相融合，完善信息系统，规范应用方式，强化运行管理，全方位支持人民法院开展在线审判执行活动，保障司法工作，提高司法效率。",
-        "completeContent": "（二）注重实效。坚持司法规律、体制改革与技术变革相融合，完善信息系统，规范应用方式，强化运行管理，全方位支持人民法院开展在线审判执行活动，保障司法工作，提高司法效率。"
-      },
-      {
-        "paragraphId": 8394320,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p>（三）统筹共享。加强顶层统筹规划，优先建设和使用全国法院统一信息系统，持续推进信息基础设施、应用系统和数据资源兼容共享。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三统筹共享。加强顶层统筹规划，优先建设使用全国法院统一信息系统，持续推进信息基础设施应用系统数据资源兼容共享。",
-        "completeContent": "（三）统筹共享。加强顶层统筹规划，优先建设和使用全国法院统一信息系统，持续推进信息基础设施、应用系统和数据资源兼容共享。"
-      },
-      {
-        "paragraphId": 8394321,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p>（四）创新驱动。贯彻实施网络强国战略，加大先进技术研究应用力度，推动业务流程、诉讼规则、审判模式与时俱进。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四创新驱动。贯彻实施网络强国战略，加大先进技术研究应用力度，推动业务流程诉讼规则审判模式时俱进。",
-        "completeContent": "（四）创新驱动。贯彻实施网络强国战略，加大先进技术研究应用力度，推动业务流程、诉讼规则、审判模式与时俱进。"
-      },
-      {
-        "paragraphId": 8394322,
-        "groupId": 3000,
-        "status": "Effective",
-        "content": "<p>（五）安全可靠。依法采集、存储、处理和使用数据，保护国家秘密、商业秘密、个人隐私和个人信息，保障人民法院在线运行信息安全。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "五安全可靠。依法采集存储处理使用数据，保护国家秘密商业秘密个人隐私个人信息，保障人民法院在线运行信息安全。",
-        "completeContent": "（五）安全可靠。依法采集、存储、处理和使用数据，保护国家秘密、商业秘密、个人隐私和个人信息，保障人民法院在线运行信息安全。"
-      },
-      {
-        "paragraphId": 8394323,
-        "groupId": 3666,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三条</strong> 各级人民法院用以支持在线司法活动的信息系统建设、应用、运行和管理，适用本规则。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三条各级人民法院用以支持在线司法活动信息系统建设应用运行管理，适用本规则。",
-        "completeContent": "第三条 各级人民法院用以支持在线司法活动的信息系统建设、应用、运行和管理，适用本规则。"
-      },
-      {
-        "paragraphId": 8394324,
-        "groupId": 4332,
-        "status": "Effective",
-        "content": "<p><strong>二、系统建设</strong></p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "二系统建设",
-        "completeContent": "二、系统建设"
-      },
-      {
-        "paragraphId": 8394325,
-        "groupId": 5000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四条</strong> 人民法院应当建设智慧服务、智慧审判、智慧执行、智慧管理、司法公开、司法数据中台和智慧法院大脑、信息基础设施、安全保障、运维保障等智慧法院信息系统，保障人民法院在线运行。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四条人民法院应当建设智慧服务智慧审判智慧执行智慧管理司法公开司法数据中台智慧法院大脑信息基础设施安全保障运维保障等智慧法院信息系统，保障人民法院在线运行。",
-        "completeContent": "第四条 人民法院应当建设智慧服务、智慧审判、智慧执行、智慧管理、司法公开、司法数据中台和智慧法院大脑、信息基础设施、安全保障、运维保障等智慧法院信息系统，保障人民法院在线运行。"
-      },
-      {
-        "paragraphId": 8394326,
-        "groupId": 5000,
-        "status": "Effective",
-        "content": "<p>智慧法院信息系统以司法数据中台和智慧法院大脑为核心，实现数据互联互通，支持业务协同办理。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧法院信息系统以司法数据中台智慧法院大脑为核心，实现数据互联互通，支持业务协同办理。",
-        "completeContent": "智慧法院信息系统以司法数据中台和智慧法院大脑为核心，实现数据互联互通，支持业务协同办理。"
-      },
-      {
-        "paragraphId": 8394327,
-        "groupId": 6000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第五条</strong> 智慧服务系统在互联网运行，与法院专网安全联通，为人民群众提供诉讼、调解、咨询和普法等在线服务，支撑构建一站式多元解纷和诉讼服务体系。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第五条智慧服务系统在互联网运行，法院专网安全联通，为人民群众提供诉讼调解咨询普法等在线服务，支撑构建一站式多元解纷诉讼服务体系。",
-        "completeContent": "第五条 智慧服务系统在互联网运行，与法院专网安全联通，为人民群众提供诉讼、调解、咨询和普法等在线服务，支撑构建一站式多元解纷和诉讼服务体系。"
-      },
-      {
-        "paragraphId": 8394328,
-        "groupId": 6000,
-        "status": "Effective",
-        "content": "<p>智慧服务系统包括人民法院在线服务、电子诉讼平台、人民法院调解平台、诉讼服务网、12368诉讼服务热线、电子送达平台、在线保全系统、在线鉴定系统等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧服务系统包括人民法院在线服务电子诉讼平台人民法院调解平台诉讼服务网12368诉讼服务热线电子送达平台在线保全系统在线鉴定系统等。",
-        "completeContent": "智慧服务系统包括人民法院在线服务、电子诉讼平台、人民法院调解平台、诉讼服务网、12368诉讼服务热线、电子送达平台、在线保全系统、在线鉴定系统等。"
-      },
-      {
-        "paragraphId": 8394329,
-        "groupId": 6000,
-        "status": "Effective",
-        "content": "<p>智慧服务系统应当具备诉讼指引、在线调解及名册管理、在线立案、在线交费、在线证据交换、在线委托鉴定、在线保全、在线庭审、在线执行、在线阅卷、在线查档、在线送达、在线公告、跨域诉讼服务等功能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧服务系统应当具备诉讼指引在线调解名册管理在线立案在线交费在线证据交换在线委托鉴定在线保全在线庭审在线执行在线阅卷在线查档在线送达在线跨域诉讼服务等功能。",
-        "completeContent": "智慧服务系统应当具备诉讼指引、在线调解及名册管理、在线立案、在线交费、在线证据交换、在线委托鉴定、在线保全、在线庭审、在线执行、在线阅卷、在线查档、在线送达、在线公告、跨域诉讼服务等功能。"
-      },
-      {
-        "paragraphId": 8394330,
-        "groupId": 6000,
-        "status": "Effective",
-        "content": "<p>人民法院在线服务与智慧服务系统其他平台对接，作为人民法院通过互联网向人民群众提供在线服务的统一入口。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院在线服务智慧服务系统其他平台对接，作为人民法院通过互联网向人民群众提供在线服务统一入口。",
-        "completeContent": "人民法院在线服务与智慧服务系统其他平台对接，作为人民法院通过互联网向人民群众提供在线服务的统一入口。"
-      },
-      {
-        "paragraphId": 8394331,
-        "groupId": 7000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第六条</strong> 智慧审判系统在法院专网或电子政务网运行，为审判人员提供阅卷、查档、听证、庭审、合议、裁判辅助等在线服务，支撑构建现代化审判体系。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第六条智慧审判系统在法院专网或电子政务网运行，为审判人员提供阅卷查档听证庭审合议裁判辅助等在线服务，支撑构建现代化审判体系。",
-        "completeContent": "第六条 智慧审判系统在法院专网或电子政务网运行，为审判人员提供阅卷、查档、听证、庭审、合议、裁判辅助等在线服务，支撑构建现代化审判体系。"
-      },
-      {
-        "paragraphId": 8394332,
-        "groupId": 7000,
-        "status": "Effective",
-        "content": "<p>智慧审判系统包括审判流程管理系统、电子卷宗流转应用系统、智能裁判辅助系统、量刑规范化系统、庭审语音识别系统等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧审判系统包括审判流程管理系统电子卷宗流转应用系统智能裁判辅助系统量刑规范化系统庭审语音识别系统等。",
-        "completeContent": "智慧审判系统包括审判流程管理系统、电子卷宗流转应用系统、智能裁判辅助系统、量刑规范化系统、庭审语音识别系统等。"
-      },
-      {
-        "paragraphId": 8394333,
-        "groupId": 7000,
-        "status": "Effective",
-        "content": "<p>智慧审判系统应当具备案件信息管理、审限管理、电子卷宗随案同步生成和深度应用、类案智推、文书辅助生成、量刑辅助等功能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧审判系统应当具备案件信息管理审限管理电子卷宗随案同步生成深度应用类案智推文书辅助生成量刑辅助等功能。",
-        "completeContent": "智慧审判系统应当具备案件信息管理、审限管理、电子卷宗随案同步生成和深度应用、类案智推、文书辅助生成、量刑辅助等功能。"
-      },
-      {
-        "paragraphId": 8394334,
-        "groupId": 8000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第七条</strong> 智慧执行系统在法院专网或电子政务网运行，为执行人员提供执行协同、执行信息管理、查人找物、财产处置、失信惩戒等在线服务，支撑构建现代化执行工作体系。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第七条智慧执行系统在法院专网或电子政务网运行，为执行人员提供执行协同执行信息管理查人找物财产处置失信惩戒等在线服务，支撑构建现代化执行工作体系。",
-        "completeContent": "第七条 智慧执行系统在法院专网或电子政务网运行，为执行人员提供执行协同、执行信息管理、查人找物、财产处置、失信惩戒等在线服务，支撑构建现代化执行工作体系。"
-      },
-      {
-        "paragraphId": 8394335,
-        "groupId": 8000,
-        "status": "Effective",
-        "content": "<p>智慧执行系统包括执行指挥平台、执行案件流程信息管理系统、执行查控系统、失信惩戒系统、司法拍卖系统、一案一帐户案款管理系统、移动执行系统等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧执行系统包括执行指挥平台执行案件流程信息管理系统执行查控系统失信惩戒系统司法拍卖系统一案一帐户案款管理系统移动执行系统等。",
-        "completeContent": "智慧执行系统包括执行指挥平台、执行案件流程信息管理系统、执行查控系统、失信惩戒系统、司法拍卖系统、一案一帐户案款管理系统、移动执行系统等。"
-      },
-      {
-        "paragraphId": 8394336,
-        "groupId": 8000,
-        "status": "Effective",
-        "content": "<p>智慧执行系统应当具备执行案件全流程网上办理、执行线索分析、执行财产网络查控、司法拍卖信息发布、网络询价、失信被执行人管理等功能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧执行系统应当具备执行案件全流程网上办理执行线索分析执行财产网络查控司法拍卖信息网络询价失信被执行人管理等功能。",
-        "completeContent": "智慧执行系统应当具备执行案件全流程网上办理、执行线索分析、执行财产网络查控、司法拍卖信息发布、网络询价、失信被执行人管理等功能。"
-      },
-      {
-        "paragraphId": 8394337,
-        "groupId": 9000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第八条</strong> 智慧管理系统在法院专网或电子政务网运行，为法院干警提供行政办公、人事管理、审务督察和档案管理等在线服务，支撑构建现代化司法管理体系。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第八条智慧管理系统在法院专网或电子政务网运行，为法院干警提供行政办公人事管理审务督察档案管理等在线服务，支撑构建现代化司法管理体系。",
-        "completeContent": "第八条 智慧管理系统在法院专网或电子政务网运行，为法院干警提供行政办公、人事管理、审务督察和档案管理等在线服务，支撑构建现代化司法管理体系。"
-      },
-      {
-        "paragraphId": 8394338,
-        "groupId": 9000,
-        "status": "Effective",
-        "content": "<p>智慧管理系统主要包括办公平台、人事管理系统、审务督察系统、电子档案系统等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧管理系统主要包括办公平台人事管理系统审务督察系统电子档案系统等。",
-        "completeContent": "智慧管理系统主要包括办公平台、人事管理系统、审务督察系统、电子档案系统等。"
-      },
-      {
-        "paragraphId": 8394339,
-        "groupId": 9000,
-        "status": "Effective",
-        "content": "<p>智慧管理系统应当具备公文在线办理、人事信息管理、审务督察、电子档案管理等功能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧管理系统应当具备公文在线办理人事信息管理审务督察电子档案管理等功能。",
-        "completeContent": "智慧管理系统应当具备公文在线办理、人事信息管理、审务督察、电子档案管理等功能。"
-      },
-      {
-        "paragraphId": 8394340,
-        "groupId": 10000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第九条</strong> 司法公开平台在互联网运行，为当事人及其他诉讼参与人、社会公众提供依法公开的审判流程信息、庭审活动信息、裁判文书信息、执行工作信息等在线公开服务，支撑构建开放、动态、透明、便民的阳光司法机制。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第九条司法公开平台在互联网运行，为当事人其他诉讼参人社会公众提供依法公开审判流程信息庭审活动信息裁判文书信息执行工作信息等在线公开服务，支撑构建开放动态透明便民阳光司法机制。",
-        "completeContent": "第九条 司法公开平台在互联网运行，为当事人及其他诉讼参与人、社会公众提供依法公开的审判流程信息、庭审活动信息、裁判文书信息、执行工作信息等在线公开服务，支撑构建开放、动态、透明、便民的阳光司法机制。"
-      },
-      {
-        "paragraphId": 8394341,
-        "groupId": 10000,
-        "status": "Effective",
-        "content": "<p>司法公开平台主要包括中国审判流程信息公开网、中国庭审公开网、中国裁判文书网、中国执行信息公开网、全国企业破产重整案件信息网、全国法院减刑、假释、暂予监外执行信息网等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "司法公开平台主要包括中国审判流程信息公开网中国庭审公开网中国裁判文书网中国执行信息公开网全国企业破产重整案件信息网全国法院减刑假释暂予监外执行信息网等。",
-        "completeContent": "司法公开平台主要包括中国审判流程信息公开网、中国庭审公开网、中国裁判文书网、中国执行信息公开网、全国企业破产重整案件信息网、全国法院减刑、假释、暂予监外执行信息网等。"
-      },
-      {
-        "paragraphId": 8394342,
-        "groupId": 10000,
-        "status": "Effective",
-        "content": "<p>司法公开平台应当具备信息公开、信息检索、可视化展现等功能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "司法公开平台应当具备信息公开信息检索可视化展现等功能。",
-        "completeContent": "司法公开平台应当具备信息公开、信息检索、可视化展现等功能。"
-      },
-      {
-        "paragraphId": 8394343,
-        "groupId": 11000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十条</strong> 司法数据中台和智慧法院大脑运行在法院专网或电子政务网，为智慧服务、智慧审判、智慧执行、智慧管理和司法公开等智慧法院信息系统提供数据和智能服务。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十条司法数据中台智慧法院大脑运行在法院专网或电子政务网，为智慧服务智慧审判智慧执行智慧管理司法公开等智慧法院信息系统提供数据智能服务。",
-        "completeContent": "第十条 司法数据中台和智慧法院大脑运行在法院专网或电子政务网，为智慧服务、智慧审判、智慧执行、智慧管理和司法公开等智慧法院信息系统提供数据和智能服务。"
-      },
-      {
-        "paragraphId": 8394344,
-        "groupId": 11000,
-        "status": "Effective",
-        "content": "<p>司法数据中台和智慧法院大脑包括司法数据库、数据管理平台、数据交换平台、数据服务平台、人工智能引擎、司法知识库、知识服务平台和司法区块链平台等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "司法数据中台智慧法院大脑包括司法数据库数据管理平台数据交换平台数据服务平台人工智能引擎司法知识库知识服务平台司法区块链平台等。",
-        "completeContent": "司法数据中台和智慧法院大脑包括司法数据库、数据管理平台、数据交换平台、数据服务平台、人工智能引擎、司法知识库、知识服务平台和司法区块链平台等。"
-      },
-      {
-        "paragraphId": 8394345,
-        "groupId": 11000,
-        "status": "Effective",
-        "content": "<p>司法数据中台和智慧法院大脑应当具备数据汇聚治理、共享交换、关联融合、可视化展现、知识生成、智能计算、辅助决策、证据核验、可信操作、智能合约等功能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "司法数据中台智慧法院大脑应当具备数据汇聚治理共享交换关联融合可视化展现知识生成智能计算辅助决策证据核验可信操作智能合约等功能。",
-        "completeContent": "司法数据中台和智慧法院大脑应当具备数据汇聚治理、共享交换、关联融合、可视化展现、知识生成、智能计算、辅助决策、证据核验、可信操作、智能合约等功能。"
-      },
-      {
-        "paragraphId": 8394346,
-        "groupId": 12000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十一条</strong> 各级人民法院应当建设信息基础设施，为人民法院在线运行提供必要的基础条件支撑。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十一条各级人民法院应当建设信息基础设施，为人民法院在线运行提供必要基础条件支撑。",
-        "completeContent": "第十一条 各级人民法院应当建设信息基础设施，为人民法院在线运行提供必要的基础条件支撑。"
-      },
-      {
-        "paragraphId": 8394347,
-        "groupId": 12000,
-        "status": "Effective",
-        "content": "<p>信息基础设施包括通信网络、计算存储、通用终端设备以及信息管理中心、执行指挥中心、诉讼服务大厅、科技法庭等重要场所专用设施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "信息基础设施包括通信网络计算存储通用终端设备以信息管理中心执行指挥中心诉讼服务大厅科技法庭等重要场所专用设施。",
-        "completeContent": "信息基础设施包括通信网络、计算存储、通用终端设备以及信息管理中心、执行指挥中心、诉讼服务大厅、科技法庭等重要场所专用设施。"
-      },
-      {
-        "paragraphId": 8394348,
-        "groupId": 12000,
-        "status": "Effective",
-        "content": "<p>信息基础设施应当为各类应用系统、数据资源和运维保障提供计算运行、数据存储、通信传输、显示控制等服务。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "信息基础设施应当为各类应用系统数据资源运维保障提供计算运行数据存储通信传输显示控制等服务。",
-        "completeContent": "信息基础设施应当为各类应用系统、数据资源和运维保障提供计算运行、数据存储、通信传输、显示控制等服务。"
-      },
-      {
-        "paragraphId": 8394349,
-        "groupId": 13000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十二条</strong> 各级人民法院应当建设安全保障系统，为人民法院在线运行提供网络和信息安全保障。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十二条各级人民法院应当建设安全保障系统，为人民法院在线运行提供网络信息安全保障。",
-        "completeContent": "第十二条 各级人民法院应当建设安全保障系统，为人民法院在线运行提供网络和信息安全保障。"
-      },
-      {
-        "paragraphId": 8394350,
-        "groupId": 13000,
-        "status": "Effective",
-        "content": "<p>安全保障系统包括身份认证平台、边界防护系统、安全隔离交换系统、权限管理系统、安全管控系统和安全运维系统等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "安全保障系统包括身份认证平台边界防护系统安全隔离交换系统权限管理系统安全管控系统安全运维系统等。",
-        "completeContent": "安全保障系统包括身份认证平台、边界防护系统、安全隔离交换系统、权限管理系统、安全管控系统和安全运维系统等。"
-      },
-      {
-        "paragraphId": 8394351,
-        "groupId": 13000,
-        "status": "Effective",
-        "content": "<p>安全保障系统应当为各类信息基础设施、应用系统和数据资源提供主机安全、身份认证、访问控制、分类分级、密码加密、防火墙、安全审计和安全管理等安全服务。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "安全保障系统应当为各类信息基础设施应用系统数据资源提供主机安全身份认证访问控制分类分级密码加密防火墙安全审计安全管理等安全服务。",
-        "completeContent": "安全保障系统应当为各类信息基础设施、应用系统和数据资源提供主机安全、身份认证、访问控制、分类分级、密码加密、防火墙、安全审计和安全管理等安全服务。"
-      },
-      {
-        "paragraphId": 8394352,
-        "groupId": 13666,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十三条</strong> 各级人民法院应当建设运维保障系统，为人民法院在线运行提供运行维护保障。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十三条各级人民法院应当建设运维保障系统，为人民法院在线运行提供运行维护保障。",
-        "completeContent": "第十三条 各级人民法院应当建设运维保障系统，为人民法院在线运行提供运行维护保障。"
-      },
-      {
-        "paragraphId": 8394353,
-        "groupId": 13666,
-        "status": "Effective",
-        "content": "<p>运维保障系统包括质效型运维服务、可视化管理平台、运行质效报告和应急管理平台等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "运维保障系统包括质效型运维服务可视化管理平台运行质效报告应急管理平台等。",
-        "completeContent": "运维保障系统包括质效型运维服务、可视化管理平台、运行质效报告和应急管理平台等。"
-      },
-      {
-        "paragraphId": 8394354,
-        "groupId": 13666,
-        "status": "Effective",
-        "content": "<p>运维保障系统应当为信息基础设施、应用系统、数据资源和安全保障系统提供运行、维护和运行质效分析等运维保障服务。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "运维保障系统应当为信息基础设施应用系统数据资源安全保障系统提供运行维护运行质效分析等运维保障服务。",
-        "completeContent": "运维保障系统应当为信息基础设施、应用系统、数据资源和安全保障系统提供运行、维护和运行质效分析等运维保障服务。"
-      },
-      {
-        "paragraphId": 8394355,
-        "groupId": 14332,
-        "status": "Effective",
-        "content": "<p><strong>三、应用方式</strong></p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "三应用方式",
-        "completeContent": "三、应用方式"
-      },
-      {
-        "paragraphId": 8394356,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十四条</strong> 当事人及其他参与人应用智慧服务系统进行在线调解、在线诉讼，应当先行注册并完成身份认证，取得登录智慧服务系统的专用账号。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十四条当事人其他参人应用智慧服务系统进行在线调解在线诉讼，应当先行注册并完成身份认证，取得登录智慧服务系统专用账号。",
-        "completeContent": "第十四条 当事人及其他参与人应用智慧服务系统进行在线调解、在线诉讼，应当先行注册并完成身份认证，取得登录智慧服务系统的专用账号。"
-      },
-      {
-        "paragraphId": 8394357,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>同一用户注册智慧服务系统应当以个人身份认证和实名注册为主，尽量使用相同的注册和身份认证信息。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "同一用户注册智慧服务系统应当以个人身份认证实名注册为主，尽量使用相同注册身份认证信息。",
-        "completeContent": "同一用户注册智慧服务系统应当以个人身份认证和实名注册为主，尽量使用相同的注册和身份认证信息。"
-      },
-      {
-        "paragraphId": 8394358,
-        "groupId": 15000,
-        "status": "Effective",
-        "content": "<p>智慧服务系统应当对接公安机关户籍管理系统支持核对用户身份认证信息，并支持用户信息的统一管理和共享应用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "智慧服务系统应当对接公安机关户籍管理系统支持核对用户身份认证信息，并支持用户信息统一管理共享应用。",
-        "completeContent": "智慧服务系统应当对接公安机关户籍管理系统支持核对用户身份认证信息，并支持用户信息的统一管理和共享应用。"
-      },
-      {
-        "paragraphId": 8394359,
-        "groupId": 16000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十五条</strong> 当事人及其他参与人在智慧服务系统相应平台完成注册后，可以在线登录并通过身份认证，关联相关案件参与在线调解、在线诉讼。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十五条当事人其他参人在智慧服务系统相应平台完成注册后，可以在线登录并通过身份认证，关联相关案件参在线调解在线诉讼。",
-        "completeContent": "第十五条 当事人及其他参与人在智慧服务系统相应平台完成注册后，可以在线登录并通过身份认证，关联相关案件参与在线调解、在线诉讼。"
-      },
-      {
-        "paragraphId": 8394360,
-        "groupId": 17000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十六条</strong> 当事人及其他参与人可以应用人民法院调解平台等开展在线调解，进行在线申请、接受、拒绝或者终止调解，获得在线调解引导等服务。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十六条当事人其他参人可以应用人民法院调解平台等开展在线调解，进行在线申请接受拒绝或者终止调解，获得在线调解引导等服务。",
-        "completeContent": "第十六条 当事人及其他参与人可以应用人民法院调解平台等开展在线调解，进行在线申请、接受、拒绝或者终止调解，获得在线调解引导等服务。"
-      },
-      {
-        "paragraphId": 8394361,
-        "groupId": 17000,
-        "status": "Effective",
-        "content": "<p>人民法院通过人民法院调解平台等，支持人民法院、当事人、在线调解组织和调解员通过电脑和移动终端设备进行在线调解，支持在线开展调解前协商和解、调解组织和调解员选定、音视频调解、制作调解协议、申请司法确认或者出具调解书等，支持在线诉非对接、诉调对接程序，保存调解过程中的所有音视频和文字材料。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院通过人民法院调解平台等，支持人民法院当事人在线调解组织调解员通过电脑移动终端设备进行在线调解，支持在线开展调解前协商解调解组织调解员选定音视频调解制作调解协议申请司法确认或者出具调解书等，支持在线诉非对接诉调对接程序，保存调解过程中所有音视频文字材料。",
-        "completeContent": "人民法院通过人民法院调解平台等，支持人民法院、当事人、在线调解组织和调解员通过电脑和移动终端设备进行在线调解，支持在线开展调解前协商和解、调解组织和调解员选定、音视频调解、制作调解协议、申请司法确认或者出具调解书等，支持在线诉非对接、诉调对接程序，保存调解过程中的所有音视频和文字材料。"
-      },
-      {
-        "paragraphId": 8394362,
-        "groupId": 17000,
-        "status": "Effective",
-        "content": "<p>人民法院、调解组织和调解员可以通过人民法院调解平台等在线管理相关组织和人员信息。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院调解组织调解员可以通过人民法院调解平台等在线管理相关组织人员信息。",
-        "completeContent": "人民法院、调解组织和调解员可以通过人民法院调解平台等在线管理相关组织和人员信息。"
-      },
-      {
-        "paragraphId": 8394363,
-        "groupId": 18000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十七条</strong> 当事人及其代理人可以通过人民法院在线服务、电子诉讼、诉讼服务网等平台在线提交立案申请。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十七条当事人其代理人可以通过人民法院在线服务电子诉讼诉讼服务网等平台在线提交立案申请。",
-        "completeContent": "第十七条 当事人及其代理人可以通过人民法院在线服务、电子诉讼、诉讼服务网等平台在线提交立案申请。"
-      },
-      {
-        "paragraphId": 8394364,
-        "groupId": 18000,
-        "status": "Effective",
-        "content": "<p>人民法院通过智慧审判系统对接智慧服务系统在线处理立案申请，反馈立案结果。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院通过智慧审判系统对接智慧服务系统在线处理立案申请，反馈立案结果。",
-        "completeContent": "人民法院通过智慧审判系统对接智慧服务系统在线处理立案申请，反馈立案结果。"
-      },
-      {
-        "paragraphId": 8394365,
-        "groupId": 19000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十八条</strong> 当事人及其代理人可以通过人民法院在线服务、电子诉讼平台、人民法院调解平台、诉讼服务网等平台在线查看案件相关诉讼费用信息并通过网上支付通道在线交费。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十八条当事人其代理人可以通过人民法院在线服务电子诉讼平台人民法院调解平台诉讼服务网等平台在线查看案件相关诉讼费用信息并通过网上支付通道在线交费。",
-        "completeContent": "第十八条 当事人及其代理人可以通过人民法院在线服务、电子诉讼平台、人民法院调解平台、诉讼服务网等平台在线查看案件相关诉讼费用信息并通过网上支付通道在线交费。"
-      },
-      {
-        "paragraphId": 8394366,
-        "groupId": 19000,
-        "status": "Effective",
-        "content": "<p>人民法院通过智慧审判、智慧执行系统对接智慧服务系统在线发起交费通知、查看交费状态。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院通过智慧审判智慧执行系统对接智慧服务系统在线发起交费查看交费状态。",
-        "completeContent": "人民法院通过智慧审判、智慧执行系统对接智慧服务系统在线发起交费通知、查看交费状态。"
-      },
-      {
-        "paragraphId": 8394367,
-        "groupId": 20000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第十九条</strong> 当事人及其代理人通过人民法院在线服务、电子诉讼、人民法院调解平台、诉讼服务网等平台在线填写或提交各类案件相关电子材料，应符合平台告知的相应文件的格式、体例、规范性和清晰度等要求。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第十九条当事人其代理人通过人民法院在线服务电子诉讼人民法院调解平台诉讼服务网等平台在线填写或提交各类案件相关电子材料，应符合平台告知相应文件格式体例规范性清晰度等要求。",
-        "completeContent": "第十九条 当事人及其代理人通过人民法院在线服务、电子诉讼、人民法院调解平台、诉讼服务网等平台在线填写或提交各类案件相关电子材料，应符合平台告知的相应文件的格式、体例、规范性和清晰度等要求。"
-      },
-      {
-        "paragraphId": 8394368,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十条</strong> 智慧服务系统中在线提交、符合要求的电子文件自动纳入案件电子卷宗，并传送智慧审判系统、智慧执行系统、智慧管理系统流转应用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十条智慧服务系统中在线提交符合要求电子文件自动纳入案件电子卷宗，并传送智慧审判系统智慧执行系统智慧管理系统流转应用。",
-        "completeContent": "第二十条 智慧服务系统中在线提交、符合要求的电子文件自动纳入案件电子卷宗，并传送智慧审判系统、智慧执行系统、智慧管理系统流转应用。"
-      },
-      {
-        "paragraphId": 8394369,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>对于线下提交的案件材料，人民法院应当及时通过扫描、翻拍、转录等方式随案同步生成符合要求的电子文件，形成案件电子卷宗。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "对于线下提交案件材料，人民法院应当时通过扫描翻拍转录等方式随案同步生成符合要求电子文件，形成案件电子卷宗。",
-        "completeContent": "对于线下提交的案件材料，人民法院应当及时通过扫描、翻拍、转录等方式随案同步生成符合要求的电子文件，形成案件电子卷宗。"
-      },
-      {
-        "paragraphId": 8394370,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>人民法院通过智慧审判、智慧执行系统支持电子卷宗随案流转应用，包括阅卷、合议、庭审、审委会讨论、跨院调卷等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院通过智慧审判智慧执行系统支持电子卷宗随案流转应用，包括阅卷合议庭审审委会讨论跨院调卷等。",
-        "completeContent": "人民法院通过智慧审判、智慧执行系统支持电子卷宗随案流转应用，包括阅卷、合议、庭审、审委会讨论、跨院调卷等。"
-      },
-      {
-        "paragraphId": 8394371,
-        "groupId": 21000,
-        "status": "Effective",
-        "content": "<p>人民法院利用电子卷宗实现文件数据化、回填案件信息、文书辅助生成、卷宗自动归档等智能化应用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院利用电子卷宗实现文件数据化回填案件信息文书辅助生成卷宗自动归档等智能化应用。",
-        "completeContent": "人民法院利用电子卷宗实现文件数据化、回填案件信息、文书辅助生成、卷宗自动归档等智能化应用。"
-      },
-      {
-        "paragraphId": 8394372,
-        "groupId": 22000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十一条</strong> 人民法院通过智慧服务系统相应平台和司法区块链核验当事人通过区块链平台提交的相关电子文件和数据等证据材料。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十一条人民法院通过智慧服务系统相应平台司法区块链核验当事人通过区块链平台提交相关电子文件数据等证据材料。",
-        "completeContent": "第二十一条 人民法院通过智慧服务系统相应平台和司法区块链核验当事人通过区块链平台提交的相关电子文件和数据等证据材料。"
-      },
-      {
-        "paragraphId": 8394373,
-        "groupId": 23000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十二条</strong> 当事人及其代理人可以通过人民法院在线服务、电子诉讼平台、诉讼服务网等平台获知相应的平台门户、通信带宽和显示分辨率等技术条件要求，开展在线证据交换、在线举证质证。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十二条当事人其代理人可以通过人民法院在线服务电子诉讼平台诉讼服务网等平台获知相应平台门户通信带宽显示分辨率等技术条件要求，开展在线证据交换在线举证质证。",
-        "completeContent": "第二十二条 当事人及其代理人可以通过人民法院在线服务、电子诉讼平台、诉讼服务网等平台获知相应的平台门户、通信带宽和显示分辨率等技术条件要求，开展在线证据交换、在线举证质证。"
-      },
-      {
-        "paragraphId": 8394374,
-        "groupId": 24000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十三条</strong> 人民法院通过智慧服务、智慧审判、智慧执行、司法区块链等平台，支持对经当事人及其代理人在线举证质证后的证据材料的真实性、合法性和关联性的认定和重现。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十三条人民法院通过智慧服务智慧审判智慧执行司法区块链等平台，支持对经当事人其代理人在线举证质证后证据材料真实性合法性关联性认定重现。",
-        "completeContent": "第二十三条 人民法院通过智慧服务、智慧审判、智慧执行、司法区块链等平台，支持对经当事人及其代理人在线举证质证后的证据材料的真实性、合法性和关联性的认定和重现。"
-      },
-      {
-        "paragraphId": 8394375,
-        "groupId": 25000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十四条</strong> 当事人及其代理人可以通过智慧服务系统提交在线阅卷、在线查档申请。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十四条当事人其代理人可以通过智慧服务系统提交在线阅卷在线查档申请。",
-        "completeContent": "第二十四条 当事人及其代理人可以通过智慧服务系统提交在线阅卷、在线查档申请。"
-      },
-      {
-        "paragraphId": 8394376,
-        "groupId": 25000,
-        "status": "Effective",
-        "content": "<p>人民法院按照相关规定从智慧审判、智慧执行和智慧管理系统中调取相应卷宗或档案流转至智慧服务系统，支持当事人及其代理人在线阅卷、在线查档。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院按照相关规定从智慧审判智慧执行智慧管理系统中调取相应卷宗或档案流转至智慧服务系统，支持当事人其代理人在线阅卷在线查档。",
-        "completeContent": "人民法院按照相关规定从智慧审判、智慧执行和智慧管理系统中调取相应卷宗或档案流转至智慧服务系统，支持当事人及其代理人在线阅卷、在线查档。"
-      },
-      {
-        "paragraphId": 8394377,
-        "groupId": 26000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十五条</strong> 人民法院、当事人及其代理人、证人、鉴定人等可以通过人民法院在线服务、电子诉讼平台、诉讼服务网等平台，按照相关技术条件要求，通过科技法庭、电脑和移动终端设备开展在线视频庭审，开展在线庭前准备、法庭调查、法庭辩论、语音转写、笔录签名等庭审活动，人民法院应当按照相关规定保存庭审过程中的音视频和文字材料。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十五条人民法院当事人其代理人证人鉴定人等可以通过人民法院在线服务电子诉讼平台诉讼服务网等平台，按照相关技术条件要求，通过科技法庭电脑移动终端设备开展在线视频庭审，开展在线庭前准备法庭调查法庭辩论语音转写笔录签名等庭审活动，人民法院应当按照相关规定保存庭审过程中音视频文字材料。",
-        "completeContent": "第二十五条 人民法院、当事人及其代理人、证人、鉴定人等可以通过人民法院在线服务、电子诉讼平台、诉讼服务网等平台，按照相关技术条件要求，通过科技法庭、电脑和移动终端设备开展在线视频庭审，开展在线庭前准备、法庭调查、法庭辩论、语音转写、笔录签名等庭审活动，人民法院应当按照相关规定保存庭审过程中的音视频和文字材料。"
-      },
-      {
-        "paragraphId": 8394378,
-        "groupId": 27000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十六条</strong> 受送达人可以通过人民法院在线服务、人民法院送达平台、诉讼服务网和中国审判流程信息公开网等平台在线查阅、接收、下载和签收相关送达材料。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十六条受送达人可以通过人民法院在线服务人民法院送达平台诉讼服务网中国审判流程信息公开网等平台在线查阅接收下载签收相关送达材料。",
-        "completeContent": "第二十六条 受送达人可以通过人民法院在线服务、人民法院送达平台、诉讼服务网和中国审判流程信息公开网等平台在线查阅、接收、下载和签收相关送达材料。"
-      },
-      {
-        "paragraphId": 8394379,
-        "groupId": 27000,
-        "status": "Effective",
-        "content": "<p>人民法院通过智慧审判、智慧执行系统，对接人民法院送达平台，记录各方参与主体的电子邮箱、即时通讯账号、诉讼平台专用账号等电子地址，按照有关规定进行在线送达、接受送达回执，实现在线送达所有环节信息全程留痕，记录并保存送达凭证。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院通过智慧审判智慧执行系统，对接人民法院送达平台，记录各方参主体电子邮箱即时通讯账号诉讼平台专用账号等电子地址，按照有关规定进行在线送达接受送达回执，实现在线送达所有环节信息全程留痕，记录并保存送达凭证。",
-        "completeContent": "人民法院通过智慧审判、智慧执行系统，对接人民法院送达平台，记录各方参与主体的电子邮箱、即时通讯账号、诉讼平台专用账号等电子地址，按照有关规定进行在线送达、接受送达回执，实现在线送达所有环节信息全程留痕，记录并保存送达凭证。"
-      },
-      {
-        "paragraphId": 8394380,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十七条</strong> 当事人及其代理人可以通过人民法院在线服务、在线保全等平台向有管辖权的法院申请保全、提交或补充申请信息和材料，交纳保全费，也可以在线提起解除保全、续行保全、保全复议等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十七条当事人其代理人可以通过人民法院在线服务在线保全等平台向有管辖权法院申请保全提交或补充申请信息材料，交纳保全费，也可以在线提起解除保全续行保全保全复议等。",
-        "completeContent": "第二十七条 当事人及其代理人可以通过人民法院在线服务、在线保全等平台向有管辖权的法院申请保全、提交或补充申请信息和材料，交纳保全费，也可以在线提起解除保全、续行保全、保全复议等。"
-      },
-      {
-        "paragraphId": 8394381,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p>当事人及其代理人可以通过人民法院在线服务、在线保全等平台在线向第三方担保机构申请担保，申请通过后在线交纳担保费，也可以在线取消、变更担保等。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "当事人其代理人可以通过人民法院在线服务在线保全等平台在线向第三方担保机构申请担保，申请通过后在线交纳担保费，也可以在线取消变更担保等。",
-        "completeContent": "当事人及其代理人可以通过人民法院在线服务、在线保全等平台在线向第三方担保机构申请担保，申请通过后在线交纳担保费，也可以在线取消、变更担保等。"
-      },
-      {
-        "paragraphId": 8394382,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p>第三方担保机构在当事人交纳担保费用后，可以在线出具电子担保书，支持当事人及其代理人在线查看、下载电子担保书。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三方担保机构在当事人交纳担保费用后，可以在线出具电子担保书，支持当事人其代理人在线查看下载电子担保书。",
-        "completeContent": "第三方担保机构在当事人交纳担保费用后，可以在线出具电子担保书，支持当事人及其代理人在线查看、下载电子担保书。"
-      },
-      {
-        "paragraphId": 8394383,
-        "groupId": 28000,
-        "status": "Effective",
-        "content": "<p>人民法院通过智慧审判和智慧执行系统对接智慧服务系统在线进行保全审核和后续业务办理。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "人民法院通过智慧审判智慧执行系统对接智慧服务系统在线进行保全审核后续业务办理。",
-        "completeContent": "人民法院通过智慧审判和智慧执行系统对接智慧服务系统在线进行保全审核和后续业务办理。"
-      },
-      {
-        "paragraphId": 8394384,
-        "groupId": 29000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十八条</strong> 人民法院通过智慧审判系统、智慧执行系统对接智慧服务系统，依职权或当事人申请，在线发起委托鉴定、选择鉴定机构、移送鉴定材料。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十八条人民法院通过智慧审判系统智慧执行系统对接智慧服务系统，依职权或当事人申请，在线发起委托鉴定选择鉴定机构移送鉴定材料。",
-        "completeContent": "第二十八条 人民法院通过智慧审判系统、智慧执行系统对接智慧服务系统，依职权或当事人申请，在线发起委托鉴定、选择鉴定机构、移送鉴定材料。"
-      },
-      {
-        "paragraphId": 8394385,
-        "groupId": 29000,
-        "status": "Effective",
-        "content": "<p>鉴定机构可以通过人民法院在线服务、在线鉴定等平台在线受理委托任务、审阅鉴定相关检材、出具鉴定意见书或报告书；鉴定申请人可以在线查阅鉴定意见书或报告书，在线提出异议或者申请出庭；人民法院可以在线对异议或出庭申请进行审核及答复。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "鉴定机构可以通过人民法院在线服务在线鉴定等平台在线受理委托任务审阅鉴定相关检材出具鉴定书或报告书；鉴定申请人可以在线查阅鉴定书或报告书，在线提出异议或者申请出庭；人民法院可以在线对异议或出庭申请进行审核答复。",
-        "completeContent": "鉴定机构可以通过人民法院在线服务、在线鉴定等平台在线受理委托任务、审阅鉴定相关检材、出具鉴定意见书或报告书；鉴定申请人可以在线查阅鉴定意见书或报告书，在线提出异议或者申请出庭；人民法院可以在线对异议或出庭申请进行审核及答复。"
-      },
-      {
-        "paragraphId": 8394386,
-        "groupId": 30000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第二十九条</strong> 当事人及其代理人可通过人民法院在线服务、12368诉讼服务热线、诉讼服务网、人民法院调解平台等平台联系人民法院，进行案件调解、审判、执行、阅卷、查档、信访、送达以及预约事项办理信息的在线咨询查询。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第二十九条当事人其代理人可通过人民法院在线服务12368诉讼服务热线诉讼服务网人民法院调解平台等平台联系人民法院，进行案件调解审判执行阅卷查档信访送达以预约事项办理信息在线咨询查询。",
-        "completeContent": "第二十九条 当事人及其代理人可通过人民法院在线服务、12368诉讼服务热线、诉讼服务网、人民法院调解平台等平台联系人民法院，进行案件调解、审判、执行、阅卷、查档、信访、送达以及预约事项办理信息的在线咨询查询。"
-      },
-      {
-        "paragraphId": 8394387,
-        "groupId": 31000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十条</strong> 人民法院通过智慧审判系统实现案件电子卷宗的随案同步生成和深度应用，支持电子卷宗智能编目、信息自动回填、在线阅批、一键归档、上诉审移送与查阅，支持案件收案、分案、庭审、合议、裁判、结案、归档全流程网上办理；对接司法数据中台和智慧法院大脑，提供案件数据服务、案情智能分析、类案精准推送、文书辅助生成等智能辅助应用；依法按需实现法院内部、不同法院之间、法院与协同部门之间的卷宗信息共享和业务协同。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十条人民法院通过智慧审判系统实现案件电子卷宗随案同步生成深度应用，支持电子卷宗智能编目信息自动回填在线阅批一键归档上诉审移送查阅，支持案件收案分案庭审合议裁判结案归档全流程网上办理；对接司法数据中台智慧法院大脑，提供案件数据服务案情智能分析类案精准推送文书辅助生成等智能辅助应用；依法按需实现法院内部不同法院之间法院协同部门之间卷宗信息共享业务协同。",
-        "completeContent": "第三十条 人民法院通过智慧审判系统实现案件电子卷宗的随案同步生成和深度应用，支持电子卷宗智能编目、信息自动回填、在线阅批、一键归档、上诉审移送与查阅，支持案件收案、分案、庭审、合议、裁判、结案、归档全流程网上办理；对接司法数据中台和智慧法院大脑，提供案件数据服务、案情智能分析、类案精准推送、文书辅助生成等智能辅助应用；依法按需实现法院内部、不同法院之间、法院与协同部门之间的卷宗信息共享和业务协同。"
-      },
-      {
-        "paragraphId": 8394388,
-        "groupId": 32000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十一条</strong> 人民法院通过智慧执行系统实现执行案件全程在线办理、执行活动全程留痕、全方位多层次监控，支持在线采取财产查控、询价评估、拍卖变卖、案款发放、信用惩戒等执行措施。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十一条人民法院通过智慧执行系统实现执行案件全程在线办理执行活动全程留痕全方位多层次监控，支持在线采取财产查控询价评估拍卖变卖案款发放信用惩戒等执行措施。",
-        "completeContent": "第三十一条 人民法院通过智慧执行系统实现执行案件全程在线办理、执行活动全程留痕、全方位多层次监控，支持在线采取财产查控、询价评估、拍卖变卖、案款发放、信用惩戒等执行措施。"
-      },
-      {
-        "paragraphId": 8394389,
-        "groupId": 33000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十二条</strong> 人民法院通过电子档案管理信息系统，按照档案相关法律法规，在线完成电子档案的收集、保存和提供利用。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十二条人民法院通过电子档案管理信息系统，按照档案相关法律法规，在线完成电子档案收集保存提供利用。",
-        "completeContent": "第三十二条 人民法院通过电子档案管理信息系统，按照档案相关法律法规，在线完成电子档案的收集、保存和提供利用。"
-      },
-      {
-        "paragraphId": 8394390,
-        "groupId": 33666,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十三条</strong> 当事人及其代理人按照依法、自愿、合理的原则，可将诉讼、调解等环节由线上转为线下，或由线下转为线上进行；人民法院在线运行方式支持部分参与者采用线上、其他参与者采用线下的方式参与诉讼、调解等活动。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十三条当事人其代理人按照依法自愿合理原则，可将诉讼调解等环节由线上转为线下，或由线下转为线上进行；人民法院在线运行方式支持部分参者采用线上其他参者采用线下方式参诉讼调解等活动。",
-        "completeContent": "第三十三条 当事人及其代理人按照依法、自愿、合理的原则，可将诉讼、调解等环节由线上转为线下，或由线下转为线上进行；人民法院在线运行方式支持部分参与者采用线上、其他参与者采用线下的方式参与诉讼、调解等活动。"
-      },
-      {
-        "paragraphId": 8394391,
-        "groupId": 33666,
-        "status": "Effective",
-        "content": "<p>诉讼、调解活动采用线下办理的，人民法院应当及时将相关案件材料制作形成电子卷宗，并上传至智慧法院相关信息系统纳入管理。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "诉讼调解活动采用线下办理，人民法院应当时将相关案件材料制作形成电子卷宗，并上传至智慧法院相关信息系统纳入管理。",
-        "completeContent": "诉讼、调解活动采用线下办理的，人民法院应当及时将相关案件材料制作形成电子卷宗，并上传至智慧法院相关信息系统纳入管理。"
-      },
-      {
-        "paragraphId": 8394392,
-        "groupId": 34332,
-        "status": "Effective",
-        "content": "<p><strong>四、运行管理</strong></p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "四运行管理",
-        "completeContent": "四、运行管理"
-      },
-      {
-        "paragraphId": 8394393,
-        "groupId": 35000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十四条</strong> 各级人民法院应当按照信息安全等级保护要求，确定智慧法院信息系统的安全保护等级，制定安全管理制度和操作规程，确定网络安全责任人，落实网络安全保护责任。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十四条各级人民法院应当按照信息安全等级保护要求，确定智慧法院信息系统安全保护等级，制定安全管理制度操作规程，确定网络安全责任人，落实网络安全保护责任。",
-        "completeContent": "第三十四条 各级人民法院应当按照信息安全等级保护要求，确定智慧法院信息系统的安全保护等级，制定安全管理制度和操作规程，确定网络安全责任人，落实网络安全保护责任。"
-      },
-      {
-        "paragraphId": 8394394,
-        "groupId": 35000,
-        "status": "Effective",
-        "content": "<p>各级人民法院应当通过安全保障系统防范计算机病毒和网络攻击、网络侵入等危害网络安全的行为，通过安全隔离交换平台支持跨网系信息互通的同时防范网间恶意入侵、非法登录和数据窃取等行为，监测、记录并留存相关信息系统运行状态和网络安全事件，强化关键信息基础设施运行安全，建立健全用户信息保护机制，加强网络安全监测预警与应急处置能力。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "各级人民法院应当通过安全保障系统防范计算机病毒网络攻击网络侵入等危害网络安全行为，通过安全隔离交换平台支持跨网系信息互通同时防范网间恶意入侵非法登录数据窃取等行为，监测记录并留存相关信息系统运行状态网络安全事件，强化关键信息基础设施运行安全，建立健全用户信息保护机制，加强网络安全监测预警应急处置能力。",
-        "completeContent": "各级人民法院应当通过安全保障系统防范计算机病毒和网络攻击、网络侵入等危害网络安全的行为，通过安全隔离交换平台支持跨网系信息互通的同时防范网间恶意入侵、非法登录和数据窃取等行为，监测、记录并留存相关信息系统运行状态和网络安全事件，强化关键信息基础设施运行安全，建立健全用户信息保护机制，加强网络安全监测预警与应急处置能力。"
-      },
-      {
-        "paragraphId": 8394395,
-        "groupId": 35000,
-        "status": "Effective",
-        "content": "<p>各级人民法院应当开展与等级保护标准相符合的信息系统安全保障建设和测评以及密码应用安全评估。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "各级人民法院应当开展等级保护标准相符合信息系统安全保障建设测评以密码应用安全评估。",
-        "completeContent": "各级人民法院应当开展与等级保护标准相符合的信息系统安全保障建设和测评以及密码应用安全评估。"
-      },
-      {
-        "paragraphId": 8394396,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十五条</strong> 各级人民法院应当确保智慧法院信息系统相关数据全生命周期安全，制定数据分类分级保护、数据安全应急处理和数据安全审查等制度。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十五条各级人民法院应当确保智慧法院信息系统相关数据全生命周期安全，制定数据分类分级保护数据安全应急处理数据安全审查等制度。",
-        "completeContent": "第三十五条 各级人民法院应当确保智慧法院信息系统相关数据全生命周期安全，制定数据分类分级保护、数据安全应急处理和数据安全审查等制度。"
-      },
-      {
-        "paragraphId": 8394397,
-        "groupId": 36000,
-        "status": "Effective",
-        "content": "<p>各级人民法院应当通过安全保障系统建立相关信息系统数据权限管理和数据安全风险信息获取、分析、研判和预警机制，遵循“安全、必要、最小范围”原则实现数据共享和安全管控，保证在线诉讼、在线调解等司法活动中的个人隐私、个人信息、商业秘密、保密商务信息、审判执行工作秘密等数据依法予以保密，不被随意泄露或非法向他人提供。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "各级人民法院应当通过安全保障系统建立相关信息系统数据权限管理数据安全风险信息获取分析研判预警机制，遵循安全必要最小范围原则实现数据共享安全管控，保证在线诉讼在线调解等司法活动中个人隐私个人信息商业秘密保密商务信息审判执行工作秘密等数据依法予以保密，不被随意泄露或非法向他人提供。",
-        "completeContent": "各级人民法院应当通过安全保障系统建立相关信息系统数据权限管理和数据安全风险信息获取、分析、研判和预警机制，遵循“安全、必要、最小范围”原则实现数据共享和安全管控，保证在线诉讼、在线调解等司法活动中的个人隐私、个人信息、商业秘密、保密商务信息、审判执行工作秘密等数据依法予以保密，不被随意泄露或非法向他人提供。"
-      },
-      {
-        "paragraphId": 8394398,
-        "groupId": 37000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十六条</strong> 各级人民法院应当指导、监督智慧法院信息系统建设、运行和管理中的个人信息保护工作，接受、处理在线诉讼、在线调解活动中个人信息保护有关的投诉和举报，定期组织对各类信息系统个人信息保护情况进行测评并公布结果，调查、处理在线诉讼、调解等司法活动中的违法处理个人信息行为。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十六条各级人民法院应当指导监督智慧法院信息系统建设运行管理中个人信息保护工作，接受处理在线诉讼在线调解活动中个人信息保护有关投诉举报，定期组织对各类信息系统个人信息保护情况进行测评并结果，调查处理在线诉讼调解等司法活动中违法处理个人信息行为。",
-        "completeContent": "第三十六条 各级人民法院应当指导、监督智慧法院信息系统建设、运行和管理中的个人信息保护工作，接受、处理在线诉讼、在线调解活动中个人信息保护有关的投诉和举报，定期组织对各类信息系统个人信息保护情况进行测评并公布结果，调查、处理在线诉讼、调解等司法活动中的违法处理个人信息行为。"
-      },
-      {
-        "paragraphId": 8394399,
-        "groupId": 37000,
-        "status": "Effective",
-        "content": "<p>各级人民法院应当加强司法公开工作中的个人信息保护，严格执行法律规定的公开范围，依法公开相关信息，运用信息化手段支持个人敏感信息屏蔽、司法公开质量管控。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "各级人民法院应当加强司法公开工作中个人信息保护，严格执行法律规定公开范围，依法公开相关信息，运用信息化手段支持个人敏感信息屏蔽司法公开质量管控。",
-        "completeContent": "各级人民法院应当加强司法公开工作中的个人信息保护，严格执行法律规定的公开范围，依法公开相关信息，运用信息化手段支持个人敏感信息屏蔽、司法公开质量管控。"
-      },
-      {
-        "paragraphId": 8394400,
-        "groupId": 38000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十七条</strong> 各级人民法院应当通过运维保障系统，按照一线运维、二线运维和运行质效分析等方式支持智慧法院信息系统的运行维护保障，一线运维主要负责用户管理、权限分配、系统故障修复和应急响应处理等，二线运维主要负责信息系统运行状态和质效的监控分析，最高人民法院及各高级人民法院应当定期组织进行智慧法院信息系统的运行质效分析，提出改进建议。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十七条各级人民法院应当通过运维保障系统，按照一线运维二线运维运行质效分析等方式支持智慧法院信息系统运行维护保障，一线运维主要负责用户管理权限分配系统故障修复应急响应处理等，二线运维主要负责信息系统运行状态质效监控分析，最高人民法院各高级人民法院应当定期组织进行智慧法院信息系统运行质效分析，提出改进建议。",
-        "completeContent": "第三十七条 各级人民法院应当通过运维保障系统，按照一线运维、二线运维和运行质效分析等方式支持智慧法院信息系统的运行维护保障，一线运维主要负责用户管理、权限分配、系统故障修复和应急响应处理等，二线运维主要负责信息系统运行状态和质效的监控分析，最高人民法院及各高级人民法院应当定期组织进行智慧法院信息系统的运行质效分析，提出改进建议。"
-      },
-      {
-        "paragraphId": 8394401,
-        "groupId": 39000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十八条</strong> 各级人民法院应当建立健全信息系统规划、立项、采购、建设、测试、验收、应用和评价等全生命周期管理体系，实现对智慧法院信息系统主机、软件、存储资源、通信网络、机房和专用设施场所等系统和设施的全面管理，支撑人民法院在线稳定运行。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十八条各级人民法院应当建立健全信息系统规划立项采购建设测试验收应用评价等全生命周期管理体系，实现对智慧法院信息系统主机软件存储资源通信网络机房专用设施场所等系统设施全面管理，支撑人民法院在线稳定运行。",
-        "completeContent": "第三十八条 各级人民法院应当建立健全信息系统规划、立项、采购、建设、测试、验收、应用和评价等全生命周期管理体系，实现对智慧法院信息系统主机、软件、存储资源、通信网络、机房和专用设施场所等系统和设施的全面管理，支撑人民法院在线稳定运行。"
-      },
-      {
-        "paragraphId": 8394402,
-        "groupId": 40000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第三十九条</strong> 各级人民法院应当建立健全人民法院在线运行相关数据生产、汇聚、存储、治理、加工、传输、使用、提供、公开等过程管理机制，明确数据管理责任，全面提升数据质量，提高数据应用能力。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第三十九条各级人民法院应当建立健全人民法院在线运行相关数据生产汇聚存储治理加工传输使用提供公开等过程管理机制，明确数据管理责任，全面提升数据质量，提高数据应用能力。",
-        "completeContent": "第三十九条 各级人民法院应当建立健全人民法院在线运行相关数据生产、汇聚、存储、治理、加工、传输、使用、提供、公开等过程管理机制，明确数据管理责任，全面提升数据质量，提高数据应用能力。"
-      },
-      {
-        "paragraphId": 8394403,
-        "groupId": 41000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十条</strong> 各级人民法院应当制定应急计划，及时有效处理人民法院在线运行过程中出现的停电、断线、技术故障、遭受网络攻击、数据安全漏洞等突发事件。无法立即修复故障时，各级人民法院应当根据故障性质暂停提供相关服务，及时向用户告知故障信息，直至系统恢复正常，并记录保存故障信息。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十条各级人民法院应当制定应急计划，时有效处理人民法院在线运行过程中出现停电断线技术故障遭受网络攻击数据安全漏洞等突发事件。无法立即修复故障时，各级人民法院应当根据故障性质暂停提供相关服务，时向用户告知故障信息，直至系统恢复正常，并记录保存故障信息。",
-        "completeContent": "第四十条 各级人民法院应当制定应急计划，及时有效处理人民法院在线运行过程中出现的停电、断线、技术故障、遭受网络攻击、数据安全漏洞等突发事件。无法立即修复故障时，各级人民法院应当根据故障性质暂停提供相关服务，及时向用户告知故障信息，直至系统恢复正常，并记录保存故障信息。"
-      },
-      {
-        "paragraphId": 8394404,
-        "groupId": 42000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十一条</strong> 各级人民法院应当依据相关法律规定，与企业院校开展合作，推进智慧法院信息系统建设、运行、维护，支持、组织、监督合作单位依照法律规定和合同约定履行义务，严格实施合作单位人员的出入、驻场、工作、培训、安全、保密、廉政和离职管理，确保合作单位不得利用工作便利擅自更改、留存、使用、泄露或者向他人提供相关工作信息。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十一条各级人民法院应当依据相关法律规定，企业院校开展合作，推进智慧法院信息系统建设运行维护，支持组织监督合作单位依照法律规定合同约定履行义务，严格实施合作单位人员出入驻场工作培训安全保密廉政离职管理，确保合作单位不得利用工作便利擅自更改留存使用泄露或者向他人提供相关工作信息。",
-        "completeContent": "第四十一条 各级人民法院应当依据相关法律规定，与企业院校开展合作，推进智慧法院信息系统建设、运行、维护，支持、组织、监督合作单位依照法律规定和合同约定履行义务，严格实施合作单位人员的出入、驻场、工作、培训、安全、保密、廉政和离职管理，确保合作单位不得利用工作便利擅自更改、留存、使用、泄露或者向他人提供相关工作信息。"
-      },
-      {
-        "paragraphId": 8394405,
-        "groupId": 43000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十二条</strong> 各级人民法院应当优先推广应用全国法院统建信息系统，推进各地法院自研系统接入相应全国统建系统。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十二条各级人民法院应当优先推广应用全国法院统建信息系统，推进各地法院自研系统接入相应全国统建系统。",
-        "completeContent": "第四十二条 各级人民法院应当优先推广应用全国法院统建信息系统，推进各地法院自研系统接入相应全国统建系统。"
-      },
-      {
-        "paragraphId": 8394406,
-        "groupId": 44000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十三条</strong> 人民法院应当在符合安全要求的前提下加强与外部相关信息系统的按需对接和在线业务协同。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十三条人民法院应当在符合安全要求前提下加强外部相关信息系统按需对接在线业务协同。",
-        "completeContent": "第四十三条 人民法院应当在符合安全要求的前提下加强与外部相关信息系统的按需对接和在线业务协同。"
-      },
-      {
-        "paragraphId": 8394407,
-        "groupId": 44666,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十四条</strong> 各级人民法院应当积极通过各种渠道向社会公众宣传智慧法院建设的重大意义，推广普及智慧法院相关信息系统应用，针对各类用户做好培训、咨询以及必要的应用演练，建立用户满意度评价、跟踪、反馈、改进机制，不断提升人民法院在线运行效能。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十四条各级人民法院应当积极通过各种渠道向社会公众宣传智慧法院建设重大意义，推广普智慧法院相关信息系统应用，针对各类用户做好培训咨询以必要应用演练，建立用户满意度评价跟踪反馈改进机制，不断提升人民法院在线运行效能。",
-        "completeContent": "第四十四条 各级人民法院应当积极通过各种渠道向社会公众宣传智慧法院建设的重大意义，推广普及智慧法院相关信息系统应用，针对各类用户做好培训、咨询以及必要的应用演练，建立用户满意度评价、跟踪、反馈、改进机制，不断提升人民法院在线运行效能。"
-      },
-      {
-        "paragraphId": 8394408,
-        "groupId": 45332,
-        "status": "Effective",
-        "content": "<p><strong>五、附则</strong></p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "五附则",
-        "completeContent": "五、附则"
-      },
-      {
-        "paragraphId": 8394409,
-        "groupId": 46000,
-        "status": "Effective",
-        "content": "<p><strong class=\"prominent\">第四十五条</strong> 本规则自2022年3月1日起施行。</p>",
-        "haveHistory": false,
-        "focusBatchRelationCasusNum": 0,
-        "focusBatchRelationFocusCasusNum": 0,
-        "focusBatchIds": [],
-        "removeStopWordContent": "第四十五条本规则自2022年3月1日起施行。",
-        "completeContent": "第四十五条 本规则自2022年3月1日起施行。"
-      }
-    ],
-    "organizations": [
-      {
-        "organizationId": 9,
-        "organizationName": "最高人民法院"
-      }
-    ],
-    "hierarchyList": [
-      {
-        "id": 1,
-        "name": "法律法规",
-        "sort": 3
-      }
-    ]
-  }
-}
+# 关于印发《人民法院在线运行规则》的通知
+
+发布时间: 2022-01-26 00:00:00
+
+各省、自治区、直辖市高级人民法院，解放军军事法院，新疆维吾尔自治区高级人民法院生产建设兵团分院：
+
+《人民法院在线运行规则》已于2021年12月30日经最高人民法院审判委员会第1861次会议通过，现予以印发，自2022年3月1日起施行。
+
+最高人民法院
+
+2022年1月26日
+
+人民法院在线运行规则
+
+为支持和推进在线诉讼、在线调解等司法活动，完善人民法院在线运行机制，方便当事人及其他参与人在线参与诉讼、调解等活动，提升审判执行工作质效，根据相关法律规定，结合智慧法院建设实际，制定本规则。
+
+一、总则
+
+第一条 人民法院运用互联网、大数据、云计算、移动互联、人工智能和区块链等信息技术，完善智慧法院信息系统，规范应用方式，强化运行管理，以在线方式满足人民群众多元化司法需求，高效支持审判执行活动。
+
+第二条 人民法院在线运行遵循以下原则：
+
+（一）高效便民。坚持以人民为中心，提供一网通办、一站通办、一号通办等多元解纷和诉讼服务，减轻当事人诉累。
+
+（二）注重实效。坚持司法规律、体制改革与技术变革相融合，完善信息系统，规范应用方式，强化运行管理，全方位支持人民法院开展在线审判执行活动，保障司法工作，提高司法效率。
+
+（三）统筹共享。加强顶层统筹规划，优先建设和使用全国法院统一信息系统，持续推进信息基础设施、应用系统和数据资源兼容共享。
+
+（四）创新驱动。贯彻实施网络强国战略，加大先进技术研究应用力度，推动业务流程、诉讼规则、审判模式与时俱进。
+
+（五）安全可靠。依法采集、存储、处理和使用数据，保护国家秘密、商业秘密、个人隐私和个人信息，保障人民法院在线运行信息安全。
+
+第三条 各级人民法院用以支持在线司法活动的信息系统建设、应用、运行和管理，适用本规则。
+
+二、系统建设
+
+第四条 人民法院应当建设智慧服务、智慧审判、智慧执行、智慧管理、司法公开、司法数据中台和智慧法院大脑、信息基础设施、安全保障、运维保障等智慧法院信息系统，保障人民法院在线运行。
+
+智慧法院信息系统以司法数据中台和智慧法院大脑为核心，实现数据互联互通，支持业务协同办理。
+
+第五条 智慧服务系统在互联网运行，与法院专网安全联通，为人民群众提供诉讼、调解、咨询和普法等在线服务，支撑构建一站式多元解纷和诉讼服务体系。
+
+智慧服务系统包括人民法院在线服务、电子诉讼平台、人民法院调解平台、诉讼服务网、12368诉讼服务热线、电子送达平台、在线保全系统、在线鉴定系统等。
+
+智慧服务系统应当具备诉讼指引、在线调解及名册管理、在线立案、在线交费、在线证据交换、在线委托鉴定、在线保全、在线庭审、在线执行、在线阅卷、在线查档、在线送达、在线公告、跨域诉讼服务等功能。
+
+人民法院在线服务与智慧服务系统其他平台对接，作为人民法院通过互联网向人民群众提供在线服务的统一入口。
+
+第六条 智慧审判系统在法院专网或电子政务网运行，为审判人员提供阅卷、查档、听证、庭审、合议、裁判辅助等在线服务，支撑构建现代化审判体系。
+
+智慧审判系统包括审判流程管理系统、电子卷宗流转应用系统、智能裁判辅助系统、量刑规范化系统、庭审语音识别系统等。
+
+智慧审判系统应当具备案件信息管理、审限管理、电子卷宗随案同步生成和深度应用、类案智推、文书辅助生成、量刑辅助等功能。
+
+第七条 智慧执行系统在法院专网或电子政务网运行，为执行人员提供执行协同、执行信息管理、查人找物、财产处置、失信惩戒等在线服务，支撑构建现代化执行工作体系。
+
+智慧执行系统包括执行指挥平台、执行案件流程信息管理系统、执行查控系统、失信惩戒系统、司法拍卖系统、一案一帐户案款管理系统、移动执行系统等。
+
+智慧执行系统应当具备执行案件全流程网上办理、执行线索分析、执行财产网络查控、司法拍卖信息发布、网络询价、失信被执行人管理等功能。
+
+第八条 智慧管理系统在法院专网或电子政务网运行，为法院干警提供行政办公、人事管理、审务督察和档案管理等在线服务，支撑构建现代化司法管理体系。
+
+智慧管理系统主要包括办公平台、人事管理系统、审务督察系统、电子档案系统等。
+
+智慧管理系统应当具备公文在线办理、人事信息管理、审务督察、电子档案管理等功能。
+
+第九条 司法公开平台在互联网运行，为当事人及其他诉讼参与人、社会公众提供依法公开的审判流程信息、庭审活动信息、裁判文书信息、执行工作信息等在线公开服务，支撑构建开放、动态、透明、便民的阳光司法机制。
+
+司法公开平台主要包括中国审判流程信息公开网、中国庭审公开网、中国裁判文书网、中国执行信息公开网、全国企业破产重整案件信息网、全国法院减刑、假释、暂予监外执行信息网等。
+
+司法公开平台应当具备信息公开、信息检索、可视化展现等功能。
+
+第十条 司法数据中台和智慧法院大脑运行在法院专网或电子政务网，为智慧服务、智慧审判、智慧执行、智慧管理和司法公开等智慧法院信息系统提供数据和智能服务。
+
+司法数据中台和智慧法院大脑包括司法数据库、数据管理平台、数据交换平台、数据服务平台、人工智能引擎、司法知识库、知识服务平台和司法区块链平台等。
+
+司法数据中台和智慧法院大脑应当具备数据汇聚治理、共享交换、关联融合、可视化展现、知识生成、智能计算、辅助决策、证据核验、可信操作、智能合约等功能。
+
+第十一条 各级人民法院应当建设信息基础设施，为人民法院在线运行提供必要的基础条件支撑。
+
+信息基础设施包括通信网络、计算存储、通用终端设备以及信息管理中心、执行指挥中心、诉讼服务大厅、科技法庭等重要场所专用设施。
+
+信息基础设施应当为各类应用系统、数据资源和运维保障提供计算运行、数据存储、通信传输、显示控制等服务。
+
+第十二条 各级人民法院应当建设安全保障系统，为人民法院在线运行提供网络和信息安全保障。
+
+安全保障系统包括身份认证平台、边界防护系统、安全隔离交换系统、权限管理系统、安全管控系统和安全运维系统等。
+
+安全保障系统应当为各类信息基础设施、应用系统和数据资源提供主机安全、身份认证、访问控制、分类分级、密码加密、防火墙、安全审计和安全管理等安全服务。
+
+第十三条 各级人民法院应当建设运维保障系统，为人民法院在线运行提供运行维护保障。
+
+运维保障系统包括质效型运维服务、可视化管理平台、运行质效报告和应急管理平台等。
+
+运维保障系统应当为信息基础设施、应用系统、数据资源和安全保障系统提供运行、维护和运行质效分析等运维保障服务。
+
+三、应用方式
+
+第十四条 当事人及其他参与人应用智慧服务系统进行在线调解、在线诉讼，应当先行注册并完成身份认证，取得登录智慧服务系统的专用账号。
+
+同一用户注册智慧服务系统应当以个人身份认证和实名注册为主，尽量使用相同的注册和身份认证信息。
+
+智慧服务系统应当对接公安机关户籍管理系统支持核对用户身份认证信息，并支持用户信息的统一管理和共享应用。
+
+第十五条 当事人及其他参与人在智慧服务系统相应平台完成注册后，可以在线登录并通过身份认证，关联相关案件参与在线调解、在线诉讼。
+
+第十六条 当事人及其他参与人可以应用人民法院调解平台等开展在线调解，进行在线申请、接受、拒绝或者终止调解，获得在线调解引导等服务。
+
+人民法院通过人民法院调解平台等，支持人民法院、当事人、在线调解组织和调解员通过电脑和移动终端设备进行在线调解，支持在线开展调解前协商和解、调解组织和调解员选定、音视频调解、制作调解协议、申请司法确认或者出具调解书等，支持在线诉非对接、诉调对接程序，保存调解过程中的所有音视频和文字材料。
+
+人民法院、调解组织和调解员可以通过人民法院调解平台等在线管理相关组织和人员信息。
+
+第十七条 当事人及其代理人可以通过人民法院在线服务、电子诉讼、诉讼服务网等平台在线提交立案申请。
+
+人民法院通过智慧审判系统对接智慧服务系统在线处理立案申请，反馈立案结果。
+
+第十八条 当事人及其代理人可以通过人民法院在线服务、电子诉讼平台、人民法院调解平台、诉讼服务网等平台在线查看案件相关诉讼费用信息并通过网上支付通道在线交费。
+
+人民法院通过智慧审判、智慧执行系统对接智慧服务系统在线发起交费通知、查看交费状态。
+
+第十九条 当事人及其代理人通过人民法院在线服务、电子诉讼、人民法院调解平台、诉讼服务网等平台在线填写或提交各类案件相关电子材料，应符合平台告知的相应文件的格式、体例、规范性和清晰度等要求。
+
+第二十条 智慧服务系统中在线提交、符合要求的电子文件自动纳入案件电子卷宗，并传送智慧审判系统、智慧执行系统、智慧管理系统流转应用。
+
+对于线下提交的案件材料，人民法院应当及时通过扫描、翻拍、转录等方式随案同步生成符合要求的电子文件，形成案件电子卷宗。
+
+人民法院通过智慧审判、智慧执行系统支持电子卷宗随案流转应用，包括阅卷、合议、庭审、审委会讨论、跨院调卷等。
+
+人民法院利用电子卷宗实现文件数据化、回填案件信息、文书辅助生成、卷宗自动归档等智能化应用。
+
+第二十一条 人民法院通过智慧服务系统相应平台和司法区块链核验当事人通过区块链平台提交的相关电子文件和数据等证据材料。
+
+第二十二条 当事人及其代理人可以通过人民法院在线服务、电子诉讼平台、诉讼服务网等平台获知相应的平台门户、通信带宽和显示分辨率等技术条件要求，开展在线证据交换、在线举证质证。
+
+第二十三条 人民法院通过智慧服务、智慧审判、智慧执行、司法区块链等平台，支持对经当事人及其代理人在线举证质证后的证据材料的真实性、合法性和关联性的认定和重现。
+
+第二十四条 当事人及其代理人可以通过智慧服务系统提交在线阅卷、在线查档申请。
+
+人民法院按照相关规定从智慧审判、智慧执行和智慧管理系统中调取相应卷宗或档案流转至智慧服务系统，支持当事人及其代理人在线阅卷、在线查档。
+
+第二十五条 人民法院、当事人及其代理人、证人、鉴定人等可以通过人民法院在线服务、电子诉讼平台、诉讼服务网等平台，按照相关技术条件要求，通过科技法庭、电脑和移动终端设备开展在线视频庭审，开展在线庭前准备、法庭调查、法庭辩论、语音转写、笔录签名等庭审活动，人民法院应当按照相关规定保存庭审过程中的音视频和文字材料。
+
+第二十六条 受送达人可以通过人民法院在线服务、人民法院送达平台、诉讼服务网和中国审判流程信息公开网等平台在线查阅、接收、下载和签收相关送达材料。
+
+人民法院通过智慧审判、智慧执行系统，对接人民法院送达平台，记录各方参与主体的电子邮箱、即时通讯账号、诉讼平台专用账号等电子地址，按照有关规定进行在线送达、接受送达回执，实现在线送达所有环节信息全程留痕，记录并保存送达凭证。
+
+第二十七条 当事人及其代理人可以通过人民法院在线服务、在线保全等平台向有管辖权的法院申请保全、提交或补充申请信息和材料，交纳保全费，也可以在线提起解除保全、续行保全、保全复议等。
+
+当事人及其代理人可以通过人民法院在线服务、在线保全等平台在线向第三方担保机构申请担保，申请通过后在线交纳担保费，也可以在线取消、变更担保等。
+
+第三方担保机构在当事人交纳担保费用后，可以在线出具电子担保书，支持当事人及其代理人在线查看、下载电子担保书。
+
+人民法院通过智慧审判和智慧执行系统对接智慧服务系统在线进行保全审核和后续业务办理。
+
+第二十八条 人民法院通过智慧审判系统、智慧执行系统对接智慧服务系统，依职权或当事人申请，在线发起委托鉴定、选择鉴定机构、移送鉴定材料。
+
+鉴定机构可以通过人民法院在线服务、在线鉴定等平台在线受理委托任务、审阅鉴定相关检材、出具鉴定意见书或报告书；鉴定申请人可以在线查阅鉴定意见书或报告书，在线提出异议或者申请出庭；人民法院可以在线对异议或出庭申请进行审核及答复。
+
+第二十九条 当事人及其代理人可通过人民法院在线服务、12368诉讼服务热线、诉讼服务网、人民法院调解平台等平台联系人民法院，进行案件调解、审判、执行、阅卷、查档、信访、送达以及预约事项办理信息的在线咨询查询。
+
+第三十条 人民法院通过智慧审判系统实现案件电子卷宗的随案同步生成和深度应用，支持电子卷宗智能编目、信息自动回填、在线阅批、一键归档、上诉审移送与查阅，支持案件收案、分案、庭审、合议、裁判、结案、归档全流程网上办理；对接司法数据中台和智慧法院大脑，提供案件数据服务、案情智能分析、类案精准推送、文书辅助生成等智能辅助应用；依法按需实现法院内部、不同法院之间、法院与协同部门之间的卷宗信息共享和业务协同。
+
+第三十一条 人民法院通过智慧执行系统实现执行案件全程在线办理、执行活动全程留痕、全方位多层次监控，支持在线采取财产查控、询价评估、拍卖变卖、案款发放、信用惩戒等执行措施。
+
+第三十二条 人民法院通过电子档案管理信息系统，按照档案相关法律法规，在线完成电子档案的收集、保存和提供利用。
+
+第三十三条 当事人及其代理人按照依法、自愿、合理的原则，可将诉讼、调解等环节由线上转为线下，或由线下转为线上进行；人民法院在线运行方式支持部分参与者采用线上、其他参与者采用线下的方式参与诉讼、调解等活动。
+
+诉讼、调解活动采用线下办理的，人民法院应当及时将相关案件材料制作形成电子卷宗，并上传至智慧法院相关信息系统纳入管理。
+
+四、运行管理
+
+第三十四条 各级人民法院应当按照信息安全等级保护要求，确定智慧法院信息系统的安全保护等级，制定安全管理制度和操作规程，确定网络安全责任人，落实网络安全保护责任。
+
+各级人民法院应当通过安全保障系统防范计算机病毒和网络攻击、网络侵入等危害网络安全的行为，通过安全隔离交换平台支持跨网系信息互通的同时防范网间恶意入侵、非法登录和数据窃取等行为，监测、记录并留存相关信息系统运行状态和网络安全事件，强化关键信息基础设施运行安全，建立健全用户信息保护机制，加强网络安全监测预警与应急处置能力。
+
+各级人民法院应当开展与等级保护标准相符合的信息系统安全保障建设和测评以及密码应用安全评估。
+
+第三十五条 各级人民法院应当确保智慧法院信息系统相关数据全生命周期安全，制定数据分类分级保护、数据安全应急处理和数据安全审查等制度。
+
+各级人民法院应当通过安全保障系统建立相关信息系统数据权限管理和数据安全风险信息获取、分析、研判和预警机制，遵循“安全、必要、最小范围”原则实现数据共享和安全管控，保证在线诉讼、在线调解等司法活动中的个人隐私、个人信息、商业秘密、保密商务信息、审判执行工作秘密等数据依法予以保密，不被随意泄露或非法向他人提供。
+
+第三十六条 各级人民法院应当指导、监督智慧法院信息系统建设、运行和管理中的个人信息保护工作，接受、处理在线诉讼、在线调解活动中个人信息保护有关的投诉和举报，定期组织对各类信息系统个人信息保护情况进行测评并公布结果，调查、处理在线诉讼、调解等司法活动中的违法处理个人信息行为。
+
+各级人民法院应当加强司法公开工作中的个人信息保护，严格执行法律规定的公开范围，依法公开相关信息，运用信息化手段支持个人敏感信息屏蔽、司法公开质量管控。
+
+第三十七条 各级人民法院应当通过运维保障系统，按照一线运维、二线运维和运行质效分析等方式支持智慧法院信息系统的运行维护保障，一线运维主要负责用户管理、权限分配、系统故障修复和应急响应处理等，二线运维主要负责信息系统运行状态和质效的监控分析，最高人民法院及各高级人民法院应当定期组织进行智慧法院信息系统的运行质效分析，提出改进建议。
+
+第三十八条 各级人民法院应当建立健全信息系统规划、立项、采购、建设、测试、验收、应用和评价等全生命周期管理体系，实现对智慧法院信息系统主机、软件、存储资源、通信网络、机房和专用设施场所等系统和设施的全面管理，支撑人民法院在线稳定运行。
+
+第三十九条 各级人民法院应当建立健全人民法院在线运行相关数据生产、汇聚、存储、治理、加工、传输、使用、提供、公开等过程管理机制，明确数据管理责任，全面提升数据质量，提高数据应用能力。
+
+第四十条 各级人民法院应当制定应急计划，及时有效处理人民法院在线运行过程中出现的停电、断线、技术故障、遭受网络攻击、数据安全漏洞等突发事件。无法立即修复故障时，各级人民法院应当根据故障性质暂停提供相关服务，及时向用户告知故障信息，直至系统恢复正常，并记录保存故障信息。
+
+第四十一条 各级人民法院应当依据相关法律规定，与企业院校开展合作，推进智慧法院信息系统建设、运行、维护，支持、组织、监督合作单位依照法律规定和合同约定履行义务，严格实施合作单位人员的出入、驻场、工作、培训、安全、保密、廉政和离职管理，确保合作单位不得利用工作便利擅自更改、留存、使用、泄露或者向他人提供相关工作信息。
+
+第四十二条 各级人民法院应当优先推广应用全国法院统建信息系统，推进各地法院自研系统接入相应全国统建系统。
+
+第四十三条 人民法院应当在符合安全要求的前提下加强与外部相关信息系统的按需对接和在线业务协同。
+
+第四十四条 各级人民法院应当积极通过各种渠道向社会公众宣传智慧法院建设的重大意义，推广普及智慧法院相关信息系统应用，针对各类用户做好培训、咨询以及必要的应用演练，建立用户满意度评价、跟踪、反馈、改进机制，不断提升人民法院在线运行效能。
+
+五、附则
+
+第四十五条 本规则自2022年3月1日起施行。
+
