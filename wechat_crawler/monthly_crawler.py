@@ -3,10 +3,14 @@ import datetime
 import json
 import os
 import time
+from .config import START_YEAR_DOWNLOAD, END_YEAR_DOWNLOAD, MULU_DOWNLODA_TIMEOUT
+from .crawler_scheduler import CrawlerScheduler
 
 
 #调用对应的API接口，获取相应月份的数据简报
-def call_api(start_date=None, end_date=None, page_index=0, hierarchy_id=1, if_chufa=0):
+def call_api(start_date=None, end_date=None, page_index=0, hierarchy_id=1, access_token=None,if_chufa=0):
+    #获取access_token
+    access_token = access_token
     """调用API获取数据
     
     Args:
@@ -23,7 +27,7 @@ def call_api(start_date=None, end_date=None, page_index=0, hierarchy_id=1, if_ch
         "Accept": "application/json",
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "zh-CN,zh;q=0.9",
-        "Access-Token": "yON3YgFuomVjA6VX9pAiH+QTlTmlRK8SOvkmv+JchVG2CRspG2neoC8U/5cGnxPd",
+        "Access-Token": access_token,
         "Cache-Control": "no-cache",
         "Connection": "keep-alive",
         "Content-Type": "application/json; charset=utf-8",
@@ -72,6 +76,8 @@ def call_api(start_date=None, end_date=None, page_index=0, hierarchy_id=1, if_ch
     
     try:
         response = requests.post(api_url, headers=headers, json=body)
+        #判断是否请求被限制，若被限制立即重新换token
+
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
@@ -85,7 +91,7 @@ def save_response(data, month):
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"已保存报文: {filename}")
 
-def process_monthly_data(year, month, hierarchy_id, save_dir):
+def process_monthly_data(year, month, hierarchy_id, save_dir,access_token):
     """处理指定年月的数据"""
     start_date = f"{year}-{month:02d}-01"
     if month == 12:
@@ -98,7 +104,7 @@ def process_monthly_data(year, month, hierarchy_id, save_dir):
     
     while True:
         print(f"正在获取 {year}年{month}月 第{page_index + 1}页数据...")
-        data = call_api(start_date, end_date, page_index, hierarchy_id)
+        data = call_api(start_date, end_date, page_index, hierarchy_id,access_token, if_chufa=0)
         
         if not data or not data.get('data', {}).get('rows'):
             print("没有更多数据")
@@ -111,8 +117,8 @@ def process_monthly_data(year, month, hierarchy_id, save_dir):
                 'title': item.get('title')
             })
         
-        print("暂停5秒后继续获取下一页...")
-        time.sleep(5)
+        print(f"暂停{MULU_DOWNLODA_TIMEOUT}秒后继续获取下一页...")
+        time.sleep(MULU_DOWNLODA_TIMEOUT)
         page_index += 1
     
     if all_data:
@@ -156,7 +162,7 @@ def process_data_chufa():
             })
         
         print("暂停5秒后继续获取下一页...")
-        time.sleep(5)
+        time.sleep(15)
         page_index += 1
     
     if all_data:
@@ -180,8 +186,10 @@ def process_data_by_hierarchy_and_year():
         2: "规章制度", 
         3: "行业动态"
     }
+    craw = CrawlerScheduler()
+    access_token = craw.get_access_token()
     
-    years = range(2022, 2026)
+    years = range(START_YEAR_DOWNLOAD, END_YEAR_DOWNLOAD + 1)
     
     if not os.path.exists('api_responses'):
         os.makedirs('api_responses')
@@ -199,7 +207,7 @@ def process_data_by_hierarchy_and_year():
             print(f"\n开始处理 {hierarchy_name} {year}年的数据...")
             
             for month in range(1, 13):
-                process_monthly_data(year, month, hierarchy_id, year_dir)
+                process_monthly_data(year, month, hierarchy_id, year_dir, access_token)
 
 def main():
     """主函数，程序入口点"""

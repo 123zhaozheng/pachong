@@ -1,4 +1,5 @@
 # 导入所需模块
+import requests
 from selenium import webdriver  # 用于浏览器自动化
 from selenium.webdriver.common.by import By  # 用于定位页面元素
 from selenium.webdriver.support.ui import WebDriverWait  # 用于等待页面元素
@@ -8,6 +9,7 @@ import os  # 用于文件路径操作
 import redis  # 用于与Redis数据库交互
 import json  # 用于处理JSON数据
 import re  # 用于正则表达式匹配
+import random  # 用于随机选择
 from .config import (  # 从配置文件导入相关配置
     REDIS_HOST, REDIS_PORT, REDIS_DB, REDIS_PASSWORD,
     QR_CODE_PATH, HEADLESS
@@ -226,7 +228,43 @@ class WechatLogin:
     
     def save_access_token(self, token):
         """将access_token保存到Redis数据库"""
-        # 存储token到Redis
+        # 获取用户输入的标识信息
+        # user_name = input("请输入用户标识（例如：张三的手机）: ")
+        #请求get获取用户详细信息
+        respone_user = requests.get('https://oss.banklaw.com/ucenter/v1/users/me/audit_status?time=1742291419792&1742291419792',headers = {'Access-Token':token})
+        user_name = respone_user.json().get('data').get('name')
+        # 创建token信息对象
+        token_info = {
+            'token': token,
+            'user_name': user_name,
+            'created_at': time.strftime('%Y-%m-%d %H:%M:%S'),
+            'expires_at': time.strftime('%Y-%m-%d %H:%M:%S', 
+                       time.localtime(time.time() + 7200*4))  # 2*4小时后过期
+        }
+        
+        # 序列化为JSON字符串
+        token_data = json.dumps(token_info)
+        
+        # 检查是否已存在
+        existing_tokens = self.redis_conn.lrange('access_tokens', 0, -1)
+        token_exists = False
+        
+        for existing_token in existing_tokens:
+            try:
+                existing_info = json.loads(existing_token.decode('utf-8'))
+                if existing_info.get('token') == token:
+                    token_exists = True
+                    print(f"Token已存在于Redis列表中: {token[:10]}... (用户: {existing_info.get('user_name', '未知')})")
+                    break
+            except:
+                continue
+        
+        # 如果token不存在，则添加到列表中
+        if not token_exists:
+            self.redis_conn.rpush('access_tokens', token_data)
+            print(f"成功将新token添加到Redis列表中: {token[:10]}... (用户: {user_name})")
+        
+        # 同时保持单个token的存储方式，以兼容现有代码
         self.redis_conn.set('access_token', token)
         # 设置过期时间，假设token有效期为2小时
         self.redis_conn.expire('access_token', 7200)
@@ -237,7 +275,7 @@ class WechatLogin:
             self.driver.quit()  # 关闭浏览器实例
 
     def stop(self):
-        """停止登录过程"""
+        """优雅停止登录过程"""
         self.is_running = False
         if self.driver:
             try:

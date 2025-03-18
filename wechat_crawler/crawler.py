@@ -107,12 +107,12 @@ def process_industry_news(data):
         print(f"处理行业动态数据失败: {e}")
         return ""
 
-# 每个分类的数据处理函数
-HIERARCHY_PROCESSORS = {
-    1: process_legal_regulation,
-    2: process_regulatory_rule,
-    3: process_industry_news
-}
+# # 每个分类的数据处理函数
+# HIERARCHY_PROCESSORS = {
+#     1: process_legal_regulation,
+#     2: process_regulatory_rule,
+#     3: process_industry_news
+# }
 
 class Crawler:
     def __init__(self, cookie=None, access_token=None):
@@ -140,7 +140,7 @@ class Crawler:
                 "Accept": "application/json",
                 "Accept-Encoding": "gzip, deflate, br, zstd",
                 "Accept-Language": "zh-CN,zh;q=0.9",
-                "Access-Token": "yON3YgFuomVjA6VX9pAiH+QTlTmlRK8SOvkmv+JchVG2CRspG2neoC8U/5cGnxPd",
+                "Access-Token": access_token,
                 "Cache-Control": "no-cache",
                 "Connection": "keep-alive",
                 "Content-Type": "application/json; charset=utf-8",
@@ -149,13 +149,13 @@ class Crawler:
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
         }
         
-        if self.access_token:
-            self.headers['Access-Token'] = self.access_token
+        # if self.access_token:
+        #     self.headers['Access-Token'] = self.access_token
         
-        if self.cookie:
-            self.headers['Cookie'] = self.cookie
+        # if self.cookie:
+        #     self.headers['Cookie'] = self.cookie
             
-        self.base_url = BANKLAW_API_URL
+        self.base_url = BANKLAW_API_URL  #无用
         self.save_dir = SAVE_DIR
         
         if not os.path.exists(self.save_dir):
@@ -166,18 +166,28 @@ class Crawler:
             print(f"使用Access-Token: {self.access_token[:10]}...")
 
     def download_regulation(self, regulation, hierarchy_id=None, year=None):
-
         """下载单个法规文本"""
         try:
-            #构建爬取路径
+            # 构建爬取路径
             statute_id = regulation.get('statuteId') or regulation.get('id')
-            api_url = f'https://api2.banklaw.com/v1/statutes/{statute_id}?focusBatchId=&needSentence=true&tagProjectId=51&needParagraph=true&1742199313084'
-            self.base_url = api_url
             title = regulation.get('title')
             
             if not statute_id:
                 raise Exception("未找到法规ID")
             
+            # 检查文件是否已存在
+            save_dir = os.path.join(self.save_dir, 
+                                  f"hierarchy_{hierarchy_id}_{HIERARCHIES.get(hierarchy_id, '其他')}", 
+                                  str(year))
+            safe_title = os.path.join(save_dir, f"{title}.txt")
+            print(safe_title)
+            
+            if os.path.exists(safe_title):
+                print(f"文件已存在，跳过: {title}")
+                return True
+            
+            api_url = f'https://api2.banklaw.com/v1/statutes/{statute_id}?focusBatchId=&needSentence=true&tagProjectId=51&needParagraph=true&1742199313084'
+            self.base_url = api_url
             print(f"下载法规: {title} (ID: {statute_id})")
             
             # api_url = STATUTE_API_URL.format(statute_id=statute_id)
@@ -200,7 +210,8 @@ class Crawler:
             #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
             # }
             response = requests.get(api_url, headers=self.headers)
-            
+            # print(self.headers)
+            # print(response.text)
             if response.status_code != 200:
                 print(f"请求失败: HTTP {response.status_code}")
                 print(f"响应内容: {response.text[:200]}")
@@ -208,10 +219,10 @@ class Crawler:
             
             data = response.json()
             # print(data)
-            print("+++++++++++++++++++++++++++++")
 
             #直接调用json处理变成美化文章
             content = self.extract_article_from_json(data)
+            # content = "nihao,woshiceshi"
             # print(content)
             
             #下面是要写对应的处理函数是啥把，这里先简单写了一个，后面再改
@@ -252,6 +263,8 @@ class Crawler:
             
             print(f"成功下载法规: {title}")
             print(f"保存到: {safe_title}")
+            print("*"*50)
+
             
             time.sleep(random.uniform(DOWNLOAD_DELAY_MIN, DOWNLOAD_DELAY_MAX))
             return True
@@ -290,32 +303,32 @@ class Crawler:
 
 
     # def _extract_regulation_content(self, data):
-        """从响应数据中提取法规内容"""
-        content = []
-        try:
-            if not isinstance(data, dict):
-                return ""
+    #     """从响应数据中提取法规内容"""
+    #     content = []
+    #     try:
+    #         if not isinstance(data, dict):
+    #             return ""
                 
-            detail = data.get('data', {})
-            if not detail:
-                return ""
+    #         detail = data.get('data', {})
+    #         if not detail:
+    #             return ""
             
-            # 添加基本信息
-            content.append(f"标题: {detail.get('title', '')}")
-            content.append(f"文号: {detail.get('documentNo', '')}")
-            content.append(f"发布日期: {detail.get('publishDate', '')}")
-            content.append(f"生效日期: {detail.get('effectiveDate', '')}")
-            content.append(f"发布机构: {detail.get('publishingDepartment', '')}")
-            content.append("\n" + "="*50 + "\n")
+    #         # 添加基本信息
+    #         content.append(f"标题: {detail.get('title', '')}")
+    #         content.append(f"文号: {detail.get('documentNo', '')}")
+    #         content.append(f"发布日期: {detail.get('publishDate', '')}")
+    #         content.append(f"生效日期: {detail.get('effectiveDate', '')}")
+    #         content.append(f"发布机构: {detail.get('publishingDepartment', '')}")
+    #         content.append("\n" + "="*50 + "\n")
             
-            # 添加正文内容
-            if 'content' in detail:
-                content.append(detail['content'])
+    #         # 添加正文内容
+    #         if 'content' in detail:
+    #             content.append(detail['content'])
                 
-            return "\n".join(content)
-        except Exception as e:
-            print(f"提取法规内容失败: {e}")
-            return ""
+    #         return "\n".join(content)
+    #     except Exception as e:
+    #         print(f"提取法规内容失败: {e}")
+    #         return ""
     def extract_article_from_json(self, json_data):
         """
         从JSON数据中提取文章内容，并进行格式化处理

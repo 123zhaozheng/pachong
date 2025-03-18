@@ -1,40 +1,72 @@
 {
-  "year": 2022,
+  "year": 2023,
   "month": 2,
   "hierarchy_id": 1,
-  "total": 32,
+  "total": 16,
   "data": [
     {
-      "statuteId": "cfe89f16991f11ec84a67cd30ad32e32",
-      "title": "关于全面加强新时代知识产权检察工作的意见"
+      "statuteId": "d1ebd911b82c11eda23c043f72e4f322",
+      "title": "第三批人民法院大力弘扬社会主义核心价值观典型民事案例"
     },
     {
-      "statuteId": "760325d15e7e11ed99277cd30a5180d2",
-      "title": "关于为做好2022年全面推进乡村振兴重点工作提供司法服务和保障的意见"
+      "statuteId": "d7ad436ae4cd11eda23c043f72e4f322",
+      "title": "2022年度“公益诉讼守护美好生活”典型案例"
     },
     {
-      "statuteId": "491d35ebf06511ec84a67cd30ad32e32",
-      "title": "九起未成年人权益司法保护典型案例"
+      "statuteId": "2e3bb791b4e711ed99277cd30a5180d2",
+      "title": "新兴业态治理未成年人保护检察公益诉讼典型案例"
     },
     {
-      "statuteId": "2993ef179a0b11ec84a67cd30ad32e32",
-      "title": "人民法院依法审理固体废物污染环境典型案例"
+      "statuteId": "835a6fd67bd011ef864e043f72e4f322",
+      "title": "关于军队战时调整适用〈中华人民共和国刑事诉讼法〉部分规定的决定（草案）审议结果的报告"
     },
     {
-      "statuteId": "223c452e7db711ed99277cd30a5180d2",
-      "title": "发布四起检察机关知识产权综合性司法保护典型案例"
+      "statuteId": "3b1b4425e4cd11eda23c043f72e4f322",
+      "title": "第四十三批指导性案例"
     },
     {
-      "statuteId": "1b07b8039a0111ec84a67cd30ad32e32",
-      "title": "关于审理网络消费纠纷案件适用法律若干问题的规定（一）"
+      "statuteId": "3a44eb4c879611ef864e043f72e4f322",
+      "title": "关于第十三届全国人民代表大会个别代表的代表资格的报告"
     },
     {
-      "statuteId": "d444e532dc9c11ec84a67cd30ad32e32",
-      "title": "关于印发裁审衔接意见 畅通劳动者维权渠道的通知"
+      "statuteId": "09677cb8879611ef864e043f72e4f322",
+      "title": "关于第十四届全国人民代表大会代表的代表资格的审查报告"
     },
     {
-      "statuteId": "d3825ba9990111ec84a67cd30ad32e32",
-      "title": "关于设立成渝金融法院的决定"
+      "statuteId": "a9b4717ab40911ed99277cd30a5180d2",
+      "title": "关于强化知识产权协同保护的意见"
+    },
+    {
+      "statuteId": "96a6476fdff311eda23c043f72e4f322",
+      "title": "关于商品房消费者权利保护问题的批复"
+    },
+    {
+      "statuteId": "2440e064e4ce11eda23c043f72e4f322",
+      "title": "2022年度十大行政检察典型案例"
+    },
+    {
+      "statuteId": "54e5d87eaecd11ed99277cd30a5180d2",
+      "title": "关于完整准确全面贯彻新发展理念 为积极稳妥推进碳达峰碳中和提供司法服务的意见"
+    },
+    {
+      "statuteId": "0abe68e5cc7511eda23c043f72e4f322",
+      "title": "关于印发《上海市加强改革系统集成 提升办理破产便利度的若干措施》的通知"
+    },
+    {
+      "statuteId": "9b721341a74d11ed99277cd30a5180d2",
+      "title": "横琴粤澳深度合作区发展促进条例"
+    },
+    {
+      "statuteId": "f24a1599ae6c11ed99277cd30a5180d2",
+      "title": "依法保护文物和文化遗产典型案例"
+    },
+    {
+      "statuteId": "5ed3e1b6c8b011eda23c043f72e4f322",
+      "title": "关于印发土地执法查处领域五件行政非诉执行监督典型案例的通知"
+    },
+    {
+      "statuteId": "9bfff97ca2c511ed99277cd30a5180d2",
+      "title": "大数据赋能未成年人检察监督典型案例"
     }
   ]
 }
